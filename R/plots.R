@@ -36,12 +36,20 @@ save_figure <- function(plot, basename, width = 9, height = 6) {
     invisible(pdf_path)
 }
 
+#' Sequential fill that stays light enough for black cell labels
+scale_fill_heatmap_n <- function(...) {
+    scale_fill_gradient(
+        low = "#FFF4D6", high = "#E8A317",
+        labels = scales::comma, ...
+    )
+}
+
 #' Heatmap of paired N by year x grade
 plot_n_heatmap <- function(n_dt) {
     ggplot(n_dt, aes(x = GRADE, y = YEAR, fill = N)) +
         geom_tile(color = "white") +
-        geom_text(aes(label = scales::comma(N)), size = 3) +
-        scale_fill_viridis_c(option = "mako", labels = scales::comma) +
+        geom_text(aes(label = scales::comma(N)), size = 3, color = "#141410") +
+        scale_fill_heatmap_n() +
         labs(
             title = "Paired ILEARN ELA x WIDA ACCESS students",
             subtitle = "Same-year, same-grade matches",
@@ -140,8 +148,8 @@ plot_exiter_n <- function(n_dt) {
     d <- n_dt[role == "exiter"]
     ggplot(d, aes(x = WIDA_EXIT_BAND, y = YEAR_T, fill = N)) +
         geom_tile(color = "white") +
-        geom_text(aes(label = scales::comma(N)), size = 3) +
-        scale_fill_viridis_c(option = "mako", labels = scales::comma) +
+        geom_text(aes(label = scales::comma(N)), size = 3, color = "#141410") +
+        scale_fill_heatmap_n() +
         labs(
             title = "Inferred exiters: ILEARN + WIDA at t, ILEARN only at t+1",
             subtitle = "Testing-pattern exit, not an official IDOE roster",

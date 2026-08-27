@@ -1,6 +1,6 @@
 {
   "schema": "in.ilearn.wida.manifest.v1",
-  "generated": "2026-08-27T13:05:53-0400",
+  "generated": "2026-08-27T13:09:52-0400",
   "wida_label": "WIDA ACCESS Overall Composite",
   "containment": "Aggregates only. cache/ is gitignored and is not listed here.",
   "tables": [

@@ -16,6 +16,12 @@ fmt_pct <- function(x, digits = 0) {
   paste0(formatC(100 * as.numeric(x[1]), format = "f", digits = digits), "%")
 }
 
+#' Format a probability on [0, 1], not a percent
+fmt_prob <- function(x, digits = 2) {
+  if (length(x) == 0 || is.na(x[1])) return("—")
+  formatC(as.numeric(x[1]), format = "f", digits = digits)
+}
+
 fmt_num <- function(x, digits = 2) {
   if (length(x) == 0 || is.na(x[1])) return("—")
   formatC(as.numeric(x[1]), format = "f", digits = digits)

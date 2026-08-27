@@ -132,13 +132,6 @@ The working claim:
 
 If that transition is real, it is evidence about where an exit criterion should sit. It is **not** itself the legal exit rule.
 
-## What this is not
-
-- Not the SGPc foundry WIDA-to-WIDA growth work
-- Not the IDOE growth RFP
-- Not an official IDOE exit roster — those files are not in these LONGs
-- Not a recommendation that ILEARN proficiency should decide EL status
-
 ::: {.warning-box}
 <p class="warning-box-title">Keep the construct straight</p>
 WIDA ACCESS measures English language proficiency. ILEARN ELA measures grade-level content. Native English speakers fail ILEARN. A content-test cut is not a language-access cut.
@@ -199,10 +192,10 @@ emit_html(fig_html("02_n_heatmap",
 
 | WIDA level | N | Within-level τ | Median ILEARN percentile | P(ILEARN proficient) |
 |---|---:|---:|---:|---:|
-| 1 | `r fmt_count(L1$n)` | `r fmt_tau(L1$tau)` | `r fmt_num(L1$pctile, 0)` | `r fmt_pct(L1$p)` |
-| 2 | `r fmt_count(L2$n)` | `r fmt_tau(L2$tau)` | `r fmt_num(L2$pctile, 0)` | `r fmt_pct(L2$p)` |
-| 4.3 (provisional) | `r fmt_count(L43$n)` | `r fmt_tau(L43$tau)` | `r fmt_num(L43$pctile, 0)` | `r fmt_pct(L43$p)` |
-| 5 (auto-exit) | `r fmt_count(L5$n)` | `r fmt_tau(L5$tau)` | `r fmt_num(L5$pctile, 0)` | `r fmt_pct(L5$p)` |
+| 1 | `r fmt_count(L1$n)` | `r fmt_tau(L1$tau)` | `r fmt_num(L1$pctile, 0)` | `r fmt_prob(L1$p)` |
+| 2 | `r fmt_count(L2$n)` | `r fmt_tau(L2$tau)` | `r fmt_num(L2$pctile, 0)` | `r fmt_prob(L2$p)` |
+| 4.3 (provisional) | `r fmt_count(L43$n)` | `r fmt_tau(L43$tau)` | `r fmt_num(L43$pctile, 0)` | `r fmt_prob(L43$p)` |
+| 5 (auto-exit) | `r fmt_count(L5$n)` | `r fmt_tau(L5$tau)` | `r fmt_num(L5$pctile, 0)` | `r fmt_prob(L5$p)` |
 
 L1–L2: ILEARN is on the floor. From L3 the distribution walks up the grade. By L4.3 paired EL students sit high in the grade; by L5 they sit at the top. Within-band τ stays modest the whole way (restriction of range).
 
@@ -228,7 +221,7 @@ if (nrow(gcons)) {
 }
 ```
 
-Grades 4–5 sit near the start of the **4.3** band; 3 and 6–8 sit a little below it. None of the Youden optima are at **5.0**. That is not an argument that 5.0 is the wrong legal exit — ILEARN proficiency is a high bar, and even students first reaching 5.0 are only about **`r if (nrow(fx[cut==5])) fmt_pct(fx[cut==5, p_proficient_at]) else "40%"`** ILEARN-proficient that year.
+Grades 4–5 sit near the start of the **4.3** band; 3 and 6–8 sit a little below it. None of the Youden optima are at **5.0**. That is not an argument that 5.0 is the wrong legal exit — ILEARN proficiency is a high bar, and even students first reaching 5.0 are only about **`r if (nrow(fx[cut==5])) fmt_prob(fx[cut==5, p_proficient_at]) else "0.40"`** ILEARN-proficient that year.
 
 
 ## First crossing — still taking ACCESS
@@ -237,8 +230,8 @@ Students first reaching a cut **while they still have a WIDA score**:
 
 | Cut | N | ILEARN percentile before → at | P(proficient) before → at |
 |---|---:|---|---|
-| 4.3 | `r if (nrow(fx[cut==4.3])) fmt_count(fx[cut==4.3, n]) else "—"` | `r if (nrow(fx[cut==4.3])) paste(fmt_num(fx[cut==4.3, ilearn_pctile_prior], 0), "→", fmt_num(fx[cut==4.3, ilearn_pctile_at], 0)) else "—"` | `r if (nrow(fx[cut==4.3])) paste(fmt_pct(fx[cut==4.3, p_proficient_prior]), "→", fmt_pct(fx[cut==4.3, p_proficient_at])) else "—"` |
-| 5.0 | `r if (nrow(fx[cut==5])) fmt_count(fx[cut==5, n]) else "—"` | `r if (nrow(fx[cut==5])) paste(fmt_num(fx[cut==5, ilearn_pctile_prior], 0), "→", fmt_num(fx[cut==5, ilearn_pctile_at], 0)) else "—"` | `r if (nrow(fx[cut==5])) paste(fmt_pct(fx[cut==5, p_proficient_prior]), "→", fmt_pct(fx[cut==5, p_proficient_at])) else "—"` |
+| 4.3 | `r if (nrow(fx[cut==4.3])) fmt_count(fx[cut==4.3, n]) else "—"` | `r if (nrow(fx[cut==4.3])) paste(fmt_num(fx[cut==4.3, ilearn_pctile_prior], 0), "→", fmt_num(fx[cut==4.3, ilearn_pctile_at], 0)) else "—"` | `r if (nrow(fx[cut==4.3])) paste(fmt_prob(fx[cut==4.3, p_proficient_prior]), "→", fmt_prob(fx[cut==4.3, p_proficient_at])) else "—"` |
+| 5.0 | `r if (nrow(fx[cut==5])) fmt_count(fx[cut==5, n]) else "—"` | `r if (nrow(fx[cut==5])) paste(fmt_num(fx[cut==5, ilearn_pctile_prior], 0), "→", fmt_num(fx[cut==5, ilearn_pctile_at], 0)) else "—"` | `r if (nrow(fx[cut==5])) paste(fmt_prob(fx[cut==5, p_proficient_prior]), "→", fmt_prob(fx[cut==5, p_proficient_at])) else "—"` |
 
 Most of the ILEARN location gain has already happened by the time a student hits auto-exit. This is still the **stayer** sample.
 
@@ -291,8 +284,8 @@ if (nrow(ex_el)) {
   knitr::kable(ex_el[, .(
     `Last WIDA` = WIDA_EXIT_BAND,
     N = prettyNum(n, big.mark = ","),
-    `P(LEP → not EL)` = paste(fmt_pct(p_el_to_not_el_min), "–", fmt_pct(p_el_to_not_el_max)),
-    `P(still EL)` = paste(fmt_pct(p_still_el_min), "–", fmt_pct(p_still_el_max))
+    `P(LEP → not EL)` = paste(fmt_prob(p_el_to_not_el_min), "–", fmt_prob(p_el_to_not_el_max)),
+    `P(still EL)` = paste(fmt_prob(p_still_el_min), "–", fmt_prob(p_still_el_max))
   )], format = "html", align = "lrrr")
 }
 ```
@@ -318,8 +311,8 @@ if (nrow(ex_ach[role == "exiter"])) {
     `Pctile t` = sprintf("%.0f", ilearn_pctile_t),
     `Pctile t+1` = sprintf("%.0f", ilearn_pctile_t1),
     `Δ` = sprintf("%+.0f", ilearn_pctile_delta),
-    `P(prof) t` = fmt_pct(p_proficient_t),
-    `P(prof) t+1` = fmt_pct(p_proficient_t1)
+    `P(prof) t` = fmt_prob(p_proficient_t),
+    `P(prof) t+1` = fmt_prob(p_proficient_t1)
   )], format = "html", align = "lrrrrrr")
 }
 ```
@@ -343,8 +336,8 @@ if (nrow(ex_sgp[role == "exiter"])) {
     Band = WIDA_EXIT_BAND,
     N = prettyNum(n, big.mark = ","),
     `Median SGP` = sprintf("%.0f", sgp_median),
-    `P(SGP < 35)` = fmt_pct(p_sgp_below_35),
-    `P(SGP > 65)` = fmt_pct(p_sgp_above_65)
+    `P(SGP < 35)` = fmt_prob(p_sgp_below_35),
+    `P(SGP > 65)` = fmt_prob(p_sgp_above_65)
   )], format = "html", align = "lrrrr")
 }
 ```
@@ -380,7 +373,7 @@ Also report the empirical local-window version: the first cut $c$ at which $P(\t
 
 ::: {.warning-box}
 <p class="warning-box-title">Wrong construct</p>
-ILEARN proficiency is not a proxy for being ready to leave EL services. Never-EL students — native and fluent English speakers who never took ACCESS — are **not** all ILEARN-proficient. In the primary window their P(proficient) is about **`r if (nrow(lag_p)) fmt_pct(lag_p$p_never_el_proficient[1]) else "44%"`**.
+ILEARN proficiency is not a proxy for being ready to leave EL services. Never-EL students — native and fluent English speakers who never took ACCESS — are **not** all ILEARN-proficient. In the primary window their P(proficient) is about **`r if (nrow(lag_p)) fmt_prob(lag_p$p_never_el_proficient[1]) else "0.43"`**.
 :::
 
 If the bar is “50-50 on next year’s ELA test,” a substantial share of never-EL students fail it. Using that bar to decide English-learner status asks ACCESS to predict a content outcome that English itself does not guarantee.
@@ -416,11 +409,11 @@ if (nrow(lag_p)) {
     Value = c(
       fmt_num(lag_p$copula_cut[1], 2),
       fmt_num(lag_p$empirical_local_cut[1], 2),
-      fmt_pct(lag_p$p_ge_4.3[1]),
-      fmt_pct(lag_p$p_ge_5.0[1]),
-      fmt_pct(lag_p$p_local_4.3[1]),
-      fmt_pct(lag_p$p_local_5.0[1]),
-      fmt_pct(lag_p$p_never_el_proficient[1])
+      fmt_prob(lag_p$p_ge_4.3[1]),
+      fmt_prob(lag_p$p_ge_5.0[1]),
+      fmt_prob(lag_p$p_local_4.3[1]),
+      fmt_prob(lag_p$p_local_5.0[1]),
+      fmt_prob(lag_p$p_never_el_proficient[1])
     )
   ), format = "html", align = "lr", row.names = FALSE)
 }
