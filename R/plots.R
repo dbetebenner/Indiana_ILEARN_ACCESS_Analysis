@@ -36,19 +36,42 @@ save_figure <- function(plot, basename, width = 9, height = 6) {
     invisible(pdf_path)
 }
 
-#' Sequential fill that stays light enough for black cell labels
+HEATMAP_LOW  <- "#FFF7E0"  # cream (low N)
+HEATMAP_HIGH <- "#8A4B00"  # deep amber (high N)
+
+#' Sequential fill for count heatmaps
 scale_fill_heatmap_n <- function(...) {
-    scale_fill_gradient(
-        low = "#FFF4D6", high = "#E8A317",
-        labels = scales::comma, ...
-    )
+    scale_fill_gradient(low = HEATMAP_LOW, high = HEATMAP_HIGH,
+        labels = scales::comma, ...)
+}
+
+#' Per-cell label colour that stays legible on any fill
+#'
+#' Interpolates each value along the heatmap ramp, then returns white on
+#' dark cells and near-black on light cells (relative-luminance rule). The
+#' robust fix for label legibility: it adapts to the fill instead of
+#' assuming the scale is light everywhere.
+#'
+#' @param values Numeric fill values (e.g. N).
+#' @return Character vector of hex label colours.
+heatmap_label_color <- function(values, low = HEATMAP_LOW, high = HEATMAP_HIGH) {
+    v <- as.numeric(values)
+    rng <- range(v, na.rm = TRUE)
+    frac <- if (diff(rng) > 0) (v - rng[1]) / diff(rng) else rep(0, length(v))
+    frac[!is.finite(frac)] <- 0
+    rgbm <- grDevices::colorRamp(c(low, high))(frac)
+    lum <- (0.299 * rgbm[, 1] + 0.587 * rgbm[, 2] + 0.114 * rgbm[, 3]) / 255
+    ifelse(lum < 0.5, "#FFFFFF", "#141410")
 }
 
 #' Heatmap of paired N by year x grade
 plot_n_heatmap <- function(n_dt) {
+    n_dt <- copy(n_dt)
+    n_dt[, .lab := heatmap_label_color(N)]
     ggplot(n_dt, aes(x = GRADE, y = YEAR, fill = N)) +
         geom_tile(color = "white") +
-        geom_text(aes(label = scales::comma(N)), size = 3, color = "#141410") +
+        geom_text(aes(label = scales::comma(N), color = .lab), size = 3) +
+        scale_color_identity() +
         scale_fill_heatmap_n() +
         labs(
             title = "Paired ILEARN ELA x WIDA ACCESS students",
@@ -145,10 +168,16 @@ plot_exit_youden <- function(agree_dt, year_label) {
 
 #' Heatmap of inferred exiters by year t x last-WIDA band
 plot_exiter_n <- function(n_dt) {
-    d <- n_dt[role == "exiter"]
+    d <- copy(n_dt[role == "exiter"])
+    ## rbindlist upstream coerces the ordered band to character; restore it
+    ## so <4.3 < 4.3-4.9 < >=5.0 reads left-to-right.
+    d[, WIDA_EXIT_BAND := factor(as.character(WIDA_EXIT_BAND),
+        levels = c("<4.3", "4.3-4.9", ">=5.0"))]
+    d[, .lab := heatmap_label_color(N)]
     ggplot(d, aes(x = WIDA_EXIT_BAND, y = YEAR_T, fill = N)) +
         geom_tile(color = "white") +
-        geom_text(aes(label = scales::comma(N)), size = 3, color = "#141410") +
+        geom_text(aes(label = scales::comma(N), color = .lab), size = 3) +
+        scale_color_identity() +
         scale_fill_heatmap_n() +
         labs(
             title = "Inferred exiters: ILEARN + WIDA at t, ILEARN only at t+1",

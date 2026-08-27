@@ -7,6 +7,7 @@
 ### Usage:
 ###   Rscript run_all.R            # full pipeline
 ###   Rscript run_all.R 1 2 3      # steps 1-3 only (00 audit always runs)
+###   Rscript run_all.R 9          # copula asymmetry + Youden explainer
 ###   source("run_all.R")          # interactive
 ###
 ### Steps:
@@ -19,6 +20,7 @@
 ###   06 extensions          (Math, never-EL, lagged, dual-scale)
 ###   07 exiters             (ILEARN after WIDA disappears)
 ###   08 lagged proficiency  (WIDA t → ILEARN t+1 50-50 cut; contrast)
+###   09 copula asymmetry    (radial / tail / exchangeability + Youden)
 ###
 ###########################################################################
 
@@ -40,10 +42,10 @@ for (f in list.files(file.path(.run_all_dir, "R"), pattern = "\\.R$", full.names
 }
 set.seed(RNG_SEED)
 
-## Which steps to run (00 audit always runs; 01 must run before 02-06).
+## Which steps to run (00 audit always runs; 01 must run before 02-09).
 step_args <- suppressWarnings(as.integer(commandArgs(trailingOnly = TRUE)))
 step_args <- step_args[!is.na(step_args)]
-run_steps <- if (length(step_args) > 0) step_args else 1:8
+run_steps <- if (length(step_args) > 0) step_args else 1:9
 
 step_files <- c(
     "00_scale_audit.R",
@@ -54,7 +56,8 @@ step_files <- c(
     "05_exit_criterion.R",
     "06_extensions.R",
     "07_exiters.R",
-    "08_lagged_proficiency.R"
+    "08_lagged_proficiency.R",
+    "09_copula_asymmetry.R"
 )
 
 run_step <- function(file) {
@@ -76,7 +79,7 @@ if (needs_pairs && !file.exists(PAIRS_CACHE_PATH)) {
 }
 
 for (s in setdiff(run_steps, 1)) {
-    if (s >= 2 && s <= 8) run_step(step_files[s + 1])
+    if (s >= 2 && s <= 9) run_step(step_files[s + 1])
 }
 
 write_all_manifests()

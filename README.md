@@ -88,10 +88,11 @@ Raw 2025 and 2026 scores are never pooled. Rank methods are invariant to monoton
 From this directory:
 
 ```r
-Rscript run_all.R          # steps 00–08 + JSON manifests
+Rscript run_all.R          # steps 00–09 + JSON manifests
 Rscript run_all.R 1 2      # pairing + N tables (00 always runs)
 Rscript run_all.R 7        # exiter cohort only (uses slim ILEARN/WIDA caches)
 Rscript run_all.R 8        # lagged 50-50 proficiency cut + manifests
+Rscript run_all.R 9        # copula asymmetry + Youden explainer
 Rscript 03_global_dependence.R   # a single step, if cache/pairs.rds exists
 ```
 
@@ -115,6 +116,7 @@ Student-level pairs live in `cache/pairs.rds` (gitignored). Slim ILEARN/WIDA ext
 06  extensions           outputs/ext_*.csv; figures/06_*
 07  exiters              cache/exiters.rds (gitignored); outputs/exiter_*.csv; figures/07_*
 08  lagged proficiency   cache/lagged.rds (gitignored); outputs/lagged_*.csv; figures/08_*
+09  copula asymmetry     outputs/asym_*.csv; figures/09_copula_asymmetry_*; figures/05b_youden_explainer
     manifests            outputs/manifests/{index,results}.json and tables/*.json
 ```
 
@@ -149,9 +151,10 @@ IN_ILEARN_WIDA_ACCESS_analysis_2026/
   06_extensions.R
   07_exiters.R
   08_lagged_proficiency.R
+  09_copula_asymmetry.R
   docs/           # GitHub Pages reveal.js deck (renders to docs/index.html)
   R/
-    io.R pairing.R ranks.R copula.R threshold.R plots.R
+    io.R pairing.R ranks.R copula.R threshold.R plots.R asymmetry.R plots_asym.R
   cache/          # gitignored
   outputs/        # aggregate csv
   figures/        # pdf + png
@@ -184,7 +187,15 @@ ILEARN proficiency labels are `Below` / `Approaching` / `At` / `Above Proficienc
 
 Primary-window Kendall’s τ is **0.50–0.61** (median 0.55); Spearman 0.69–0.81. The two tests are **not** independent overall. Confirmatory copula AIC selected Frank in 46% of year × grade cells, t in 28%, Gaussian in 26% — consistent with weaker tails than the typical same-test longitudinal pair.
 
-The signal-vs-noise claim is therefore a **local** claim, not a global one.
+The signal-vs-noise claim is therefore a **local** claim, not a global one -- and, in copula terms, a **radial-asymmetry** claim (step 09).
+
+### Copula asymmetry (step 09)
+
+The confirmatory families (t / Frank / Gaussian) are exchangeable and **radially symmetric**: by construction they force `lambda_lower = lambda_upper` and treat the both-low corner (the WIDA floor, the noise region) as a mirror of the both-high corner. The signal-vs-noise hypothesis is exactly the claim that those corners differ, so step 09 measures the departure from symmetry directly (empirical, rank-based -- no re-fitting).
+
+The dependence is **exchangeable** (swapping the two tests barely moves the copula; index ~0.006) but clearly **radially asymmetric**. Upper-tail concordance runs above lower-tail: `lambda_upper - lambda_lower` rises from ~0.11 (2021) to ~0.22 (2025), stable in sign and strengthening. The both-high "signal corner" couples more tightly than the both-low "noise corner" -- a second, independent signature of the access story, and precisely the structure the symmetric fits erase. See `outputs/asym_*.csv`, `figures/09_copula_asymmetry_surface.png` (the D(u,v) map), `figures/09_copula_asymmetry_tails.png` (lambda_U vs lambda_L), and `figures/09_copula_asymmetry_stats.png`.
+
+A **Youden explainer** figure (`figures/05b_youden_explainer.png`) accompanies the exit-criterion story: it shows Youden's J as the ROC height above chance and why the J-optimal cut sits near 4.3 while sensitivity collapses at 5.0.
 
 ### Where the signal appears (2025, typical of the primary window)
 

@@ -1,6 +1,7 @@
 ---
-title: "ILEARN × WIDA ACCESS"
-subtitle: "Where the content test becomes a content test"
+title: "Signal and Noise in [ILEARN [×]{.mult} WIDA ACCESS]{.nowrap}"
+subtitle: "Where English-language proficiency starts to predict content-test performance in Indiana"
+pagetitle: "Signal and Noise in ILEARN × WIDA ACCESS"
 author:
   - name: "Damian W. Betebenner"
     affiliation: "National Center for the Improvement of Educational Assessment"
@@ -60,6 +61,14 @@ ex_n   <- as_dt(R$exiters$n_by_role_primary)
 lag_p  <- as_dt(R$lagged_proficiency$pooled_primary)
 lag_g  <- as_dt(R$lagged_proficiency$by_grade_summary)
 
+## Copula-asymmetry summary (written by step 09; guarded for pre-09 renders).
+asy <- tryCatch(data.table::fread("../outputs/asym_summary_by_year.csv"),
+                error = function(e) NULL)
+asy_tail <- function(y, d = "0.11") {
+  if (!is.null(asy) && nrow(asy[YEAR == y])) fmt_num(asy[YEAR == y, tail_asymmetry][1], 2) else d
+}
+asy_exch <- if (!is.null(asy)) fmt_num(mean(asy$exch_index, na.rm = TRUE), 3) else "0.006"
+
 lev_row <- function(label) {
   if (!nrow(lev)) return(list(n = NA, pctile = NA, p = NA, tau = NA))
   r <- lev[WIDA_LEVEL == label]
@@ -99,10 +108,11 @@ Roadmap for the talk
 
 ::: {style="font-size: 1.05em;"}
 1. **The question** &mdash; is there a WIDA level where ILEARN stops looking like noise?
-2. **Same-year signal** &mdash; location, not a jump in rank correlation
-3. **After ACCESS stops** &mdash; inferred exiters versus stayers
-4. **A 50-50 proficiency cut** &mdash; run as a contrast, not a recommendation
-5. **What this says about 4.3 and 5.0**
+2. **Same-year signal** &mdash; location, not a jump in rank correlation; reading a cut with Youden's J
+3. **The shape of the dependence** &mdash; the copula is asymmetric, and the asymmetry is the signal
+4. **After ACCESS stops** &mdash; inferred exiters versus stayers
+5. **A 50-50 proficiency cut** &mdash; run as a contrast, not a recommendation
+6. **What this says about 4.3 and 5.0**
 :::
 
 ::: {.key-insight}
@@ -207,6 +217,37 @@ emit_html(fig_html("04_ilearn_by_level_2025",
 ```
 
 
+## Reading a WIDA cut as a classifier
+
+Any candidate cut turns WIDA ACCESS into a yes/no test: **WIDA ≥ cut** predicts “ILEARN-proficient.” Two rates follow:
+
+- **Sensitivity** — of the ILEARN-proficient students, the share the cut catches (true-positive rate).
+- **Specificity** — of the not-proficient students, the share correctly left below (true-negative rate).
+
+**Youden’s J = sensitivity + specificity − 1.** J runs from 0 (a coin flip) to 1 (perfect separation); on an ROC curve it is the vertical distance from the operating point up to the chance diagonal. The **J-optimal cut** is the single threshold that best separates the two groups.
+
+```{r}
+#| output: asis
+emit_html(fig_html("05b_youden_explainer",
+  "Youden's J: the cut that maximizes sensitivity + specificity − 1.",
+  max_height = "450px"))
+```
+
+
+## Youden and the exit cut
+
+The J-optimal WIDA cut is the score that best sorts EL students into ILEARN-proficient vs not. It is a **descriptive** answer — where the content signal separates best — not a legal rule.
+
+- Across 2021–2025 the J-optimal cut against ILEARN proficiency sits near **4.1** (grade medians 3.9–4.6): inside the **4.3** committee band, never at **5.0**.
+- At **5.0** the proficient EL students below the cut are so few that **sensitivity collapses** — the cut misses most of the students it should flag, so J falls.
+- Youden weights a false exit and a false hold **equally**. A policy that treats an early exit as the costlier error would rationally sit *above* the J-optimal cut — one reading of why 5.0 is defensible even though J prefers 4.3.
+
+::: {.warning-box}
+<p class="warning-box-title">Optimal ≠ correct construct</p>
+J optimizes agreement with **ILEARN proficiency** — a content outcome, not an English-access outcome. A statistically optimal classifier of the wrong target is still the wrong exit rule.
+:::
+
+
 ## Youden against ILEARN proficiency is not 5.0
 
 Primary-window Youden-optimal WIDA cuts (same-year proficiency) have median **`r if (nrow(you[YEAR_STRATUM=="primary"])) fmt_num(you[YEAR_STRATUM=="primary", best_cut_median], 2) else "—"`**.
@@ -234,6 +275,51 @@ Students first reaching a cut **while they still have a WIDA score**:
 | 5.0 | `r if (nrow(fx[cut==5])) fmt_count(fx[cut==5, n]) else "—"` | `r if (nrow(fx[cut==5])) paste(fmt_num(fx[cut==5, ilearn_pctile_prior], 0), "→", fmt_num(fx[cut==5, ilearn_pctile_at], 0)) else "—"` | `r if (nrow(fx[cut==5])) paste(fmt_prob(fx[cut==5, p_proficient_prior]), "→", fmt_prob(fx[cut==5, p_proficient_at])) else "—"` |
 
 Most of the ILEARN location gain has already happened by the time a student hits auto-exit. This is still the **stayer** sample.
+
+
+# The shape of the dependence {.center}
+
+::: {.visually-hidden}
+Section: copula asymmetry
+:::
+
+
+## Why symmetric copulas hide the story
+
+The confirmatory families in step 03 — **t, Frank, Gaussian** — are all *exchangeable* and *radially symmetric*. Two consequences, both by construction:
+
+- They force lower-tail dependence to equal upper-tail dependence: $\lambda_L = \lambda_U$.
+- They treat the lower-left corner (both tests **low** — the WIDA floor) as a mirror of the upper-right corner (both **high**).
+
+But the signal-vs-noise hypothesis is exactly the claim that those corners are **not** mirror images: low WIDA is noise, high WIDA is signal. A radially symmetric copula cannot represent that — so the departure from symmetry is not a nuisance to smooth away. It **is** the hypothesis, written in dependence-structure terms.
+
+::: {.key-insight}
+Measured directly, the copula is **exchangeable** (swapping the two tests barely moves it; index ≈ `r asy_exch`) but **radially asymmetric**.
+:::
+
+
+## A picture of the asymmetry
+
+```{r}
+#| output: asis
+emit_html(fig_html("09_copula_asymmetry_surface",
+  "D(u,v) = empirical copula minus its reflection, primary window. Flat grey would mean radial symmetry.",
+  max_height = "560px"))
+```
+
+The both-high **signal corner** and the both-low **noise corner** are not mirror images — the surface is far from flat, and the coupling is pulled toward high WIDA.
+
+
+## The signal corner couples more than the noise corner
+
+```{r}
+#| output: asis
+emit_html(fig_html("09_copula_asymmetry_tails",
+  "Upper- vs lower-tail dependence functions, primary window. The shaded gap is the radial asymmetry.",
+  max_height = "430px"))
+```
+
+Deep in the tail, upper-tail concordance $\lambda_U$ runs well above lower-tail $\lambda_L$: both-high pairs co-occur more than both-low pairs. The gap $\lambda_U-\lambda_L$ grows from **`r asy_tail(2021)` (2021)** to **`r asy_tail(2025, "0.22")` (2025)** — stable in sign, strengthening in size, and invisible to any t / Frank / Gaussian fit. A second, independent signature of the same access story.
 
 
 # After ACCESS stops {.center}

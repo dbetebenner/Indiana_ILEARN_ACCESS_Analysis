@@ -88,6 +88,20 @@ $presentation-heading-font-weight: 600;
     line-height: 1.15;
     margin-bottom: 0.2em;
     letter-spacing: -0.03em;
+
+    // Keep "ILEARN × WIDA ACCESS" together so a line break never orphans
+    // the multiplication sign.
+    .nowrap { white-space: nowrap; }
+
+    // Josefin's × glyph is small and sits low at display size: scale it up,
+    // lighten it, and nudge it to the optical centre of the caps.
+    .mult {
+      font-family: "Josefin Sans", system-ui, sans-serif;
+      font-weight: 400;
+      font-size: 0.8em;
+      vertical-align: 0.10em;
+      margin: 0 0.04em;
+    }
   }
 
   p.subtitle {
