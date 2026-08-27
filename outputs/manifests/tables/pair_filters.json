@@ -1,0 +1,22 @@
+[
+  {
+    "filter": "ilearn_min_valid_score",
+    "value": "5000"
+  },
+  {
+    "filter": "wida_loss_sentinel",
+    "value": "> 100"
+  },
+  {
+    "filter": "grades",
+    "value": "3,4,5,6,7,8"
+  },
+  {
+    "filter": "join_keys",
+    "value": "ID=STUDENT_ID, YEAR=SCHOOL_YEAR, GRADE=GRADE_ID"
+  },
+  {
+    "filter": "content_area",
+    "value": "ILEARN ELA vs WIDA Overall Composite (stored as READING)"
+  }
+]

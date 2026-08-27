@@ -1,0 +1,477 @@
+---
+title: "ILEARN × WIDA ACCESS"
+subtitle: "Where the content test becomes a content test"
+author:
+  - name: "Damian W. Betebenner"
+    affiliation: "National Center for the Improvement of Educational Assessment"
+date: 2026-08-27
+date-format: "[Indiana · ]MMMM D, YYYY"
+format:
+  revealjs:
+    output-file: index.html
+    theme: [default, styles/presentation-theme.scss]
+    slide-number: true
+    transition: fade
+    transition-speed: fast
+    width: 1920
+    height: 1080
+    margin: 0.06
+    center: false
+    hash: true
+    history: true
+    controls: true
+    progress: true
+    html-math-method: mathml
+    fig-align: center
+    embed-resources: true
+    include-after-body:
+      - text: |
+          <script src="styles/presentation-figure-modal.js"></script>
+execute:
+  echo: false
+  warning: false
+  message: false
+knitr:
+  opts_chunk:
+    dev: "svg"
+    fig.align: "center"
+---
+
+```{r setup}
+#| include: false
+
+source("R/helpers.R")
+R <- load_results()
+
+n_pairs <- R$n$pairs_total
+n_prim  <- R$n$pairs_primary
+n_exit  <- R$n$exiters_primary
+n_lag   <- R$n$lagged_primary
+
+tau <- R$same_year$kendall_primary
+lev <- as_dt(R$same_year$level_table_2025)
+you <- as_dt(R$youden$by_stratum)
+gcons <- as_dt(R$youden$by_grade_primary)
+fx <- as_dt(R$first_crossing)
+ex_ach <- as_dt(R$exiters$achievement_pooled)
+ex_sgp <- as_dt(R$exiters$sgp_pooled)
+ex_el  <- as_dt(R$exiters$el_status_agreement)
+ex_n   <- as_dt(R$exiters$n_by_role_primary)
+lag_p  <- as_dt(R$lagged_proficiency$pooled_primary)
+lag_g  <- as_dt(R$lagged_proficiency$by_grade_summary)
+
+lev_row <- function(label) {
+  if (!nrow(lev)) return(list(n = NA, pctile = NA, p = NA, tau = NA))
+  r <- lev[WIDA_LEVEL == label]
+  if (!nrow(r)) return(list(n = NA, pctile = NA, p = NA, tau = NA))
+  list(n = r$n[1], pctile = r$ilearn_pctile_median[1],
+       p = r$p_ilearn_proficient[1], tau = r$kendall[1])
+}
+L1  <- lev_row("WIDA Level 1")
+L2  <- lev_row("WIDA Level 2")
+L43 <- lev_row("WIDA Level 4.3")
+L5  <- lev_row("WIDA Level 5")
+
+ex_band <- function(role, band) {
+  if (!nrow(ex_ach)) return(NULL)
+  if (is.na(band) || !nzchar(band)) {
+    r <- ex_ach[role == role & (is.na(WIDA_EXIT_BAND) | WIDA_EXIT_BAND == "")]
+  } else {
+    r <- ex_ach[role == role & WIDA_EXIT_BAND == band]
+  }
+  if (!nrow(r)) return(NULL)
+  r[1]
+}
+
+sgp_band <- function(role, band) {
+  if (!nrow(ex_sgp)) return(NULL)
+  r <- ex_sgp[role == role & WIDA_EXIT_BAND == band]
+  if (!nrow(r)) return(NULL)
+  r[1]
+}
+```
+
+## Roadmap {.center}
+
+::: {.visually-hidden}
+Roadmap for the talk
+:::
+
+::: {style="font-size: 1.05em;"}
+1. **The question** &mdash; is there a WIDA level where ILEARN stops looking like noise?
+2. **Same-year signal** &mdash; location, not a jump in rank correlation
+3. **After ACCESS stops** &mdash; inferred exiters versus stayers
+4. **A 50-50 proficiency cut** &mdash; run as a contrast, not a recommendation
+5. **What this says about 4.3 and 5.0**
+:::
+
+::: {.key-insight}
+**`r fmt_count(n_pairs)`** same-year ILEARN ELA × WIDA ACCESS Overall pairs after floor-score filters (**`r fmt_count(n_prim)`** in 2021–2025). WIDA is labeled **Overall Composite** throughout — the LONG stores it as `READING`.
+:::
+
+::: {.notes}
+Sandbox analysis, not a client delivery and not the IDOE growth RFP. Every table is a testing-pattern or same-year pair — not an official exit roster.
+:::
+
+
+# The question {.center}
+
+::: {.visually-hidden}
+Section: the question
+:::
+
+
+## What we asked
+
+States require ELA of every student, including English learners. WIDA ACCESS is the English-language proficiency test used to decide whether a student can access content in English.
+
+The working claim:
+
+- At low WIDA (roughly Levels 1–2), ILEARN ELA behaves like **noise**: floor pile-up, near-independence of the two ranks.
+- At higher WIDA a **signal** appears: ILEARN distributions that start to look like they can access English-language content.
+
+If that transition is real, it is evidence about where an exit criterion should sit. It is **not** itself the legal exit rule.
+
+## What this is not
+
+- Not the SGPc foundry WIDA-to-WIDA growth work
+- Not the IDOE growth RFP
+- Not an official IDOE exit roster — those files are not in these LONGs
+- Not a recommendation that ILEARN proficiency should decide EL status
+
+::: {.warning-box}
+<p class="warning-box-title">Keep the construct straight</p>
+WIDA ACCESS measures English language proficiency. ILEARN ELA measures grade-level content. Native English speakers fail ILEARN. A content-test cut is not a language-access cut.
+:::
+
+
+## Indiana's exit anchors
+
+Source: IDOE, *Exit Criteria for English Learners Guidance 2025–2026* (April 2025).
+
+| Anchor | Meaning |
+|---|---|
+| **5.0** Overall composite | Absolute auto-exit |
+| **4.3–4.9** Overall | Provisional pathway (grade 3+): ILP-committee additional evidence, not a pure scale-score cut |
+
+WIDA LONG already stores L1–L4, **L4.3** (4.3–4.9 collapsed), L5, L6.
+
+A fitted change-point describes where the content test starts to move with ACCESS. It may or may not equal the legal exit rule.
+
+
+## Data and windows
+
+Same-year, same-grade join: ILEARN `STUDENT_ID` = WIDA `ID`. Grades 3–8. Placeholder floors dropped (`ILEARN < 5000`, `WIDA == 100`).
+
+| Window | Years | Role |
+|---|---|---|
+| **Primary** | 2021–2025 | Stable ILEARN scale. The estimand. |
+| Ranks only | 2026 | Both scales reset. Percentiles, not proficiency. |
+| Contrast | 2017–2019 | ISTEP / first ILEARN year. Not pooled. |
+
+::: {.key-insight}
+2026 ILEARN `SCALE_SCORE` in the combined LONG is the equated **old** scale. Native 2026 medians are a different test. Ranks agree; the proficiency classifier does not.
+:::
+
+
+# Same-year signal {.center}
+
+::: {.visually-hidden}
+Section: same-year dependence
+:::
+
+
+## The two tests are not independent
+
+Primary-window Kendall’s τ is **`r fmt_num(tau$kendall_min, 2)`–`r fmt_num(tau$kendall_max, 2)`** (median **`r fmt_num(tau$kendall_median, 2)`**).
+
+The signal-versus-noise claim is therefore **local**, not global. Overall rank dependence is already strong. What changes with WIDA level is **where** EL students sit on ILEARN — not whether the two ranks suddenly start moving together.
+
+```{r}
+#| output: asis
+emit_html(fig_html("02_n_heatmap",
+  "Paired N by year × grade. Click to enlarge.",
+  max_height = "520px"))
+```
+
+
+## 2025: location, not a τ jump
+
+| WIDA level | N | Within-level τ | Median ILEARN percentile | P(ILEARN proficient) |
+|---|---:|---:|---:|---:|
+| 1 | `r fmt_count(L1$n)` | `r fmt_tau(L1$tau)` | `r fmt_num(L1$pctile, 0)` | `r fmt_pct(L1$p)` |
+| 2 | `r fmt_count(L2$n)` | `r fmt_tau(L2$tau)` | `r fmt_num(L2$pctile, 0)` | `r fmt_pct(L2$p)` |
+| 4.3 (provisional) | `r fmt_count(L43$n)` | `r fmt_tau(L43$tau)` | `r fmt_num(L43$pctile, 0)` | `r fmt_pct(L43$p)` |
+| 5 (auto-exit) | `r fmt_count(L5$n)` | `r fmt_tau(L5$tau)` | `r fmt_num(L5$pctile, 0)` | `r fmt_pct(L5$p)` |
+
+L1–L2: ILEARN is on the floor. From L3 the distribution walks up the grade. By L4.3 paired EL students sit high in the grade; by L5 they sit at the top. Within-band τ stays modest the whole way (restriction of range).
+
+```{r}
+#| output: asis
+emit_html(fig_html("04_ilearn_by_level_2025",
+  "ILEARN ELA location by WIDA ACCESS Overall level, 2025.",
+  max_height = "380px"))
+```
+
+
+## Youden against ILEARN proficiency is not 5.0
+
+Primary-window Youden-optimal WIDA cuts (same-year proficiency) have median **`r if (nrow(you[YEAR_STRATUM=="primary"])) fmt_num(you[YEAR_STRATUM=="primary", best_cut_median], 2) else "—"`**.
+
+```{r}
+#| results: asis
+if (nrow(gcons)) {
+  knitr::kable(gcons[, .(Grade = GRADE,
+      `Median optimal cut` = sprintf("%.1f", best_cut_median),
+      SD = sprintf("%.2f", best_cut_sd))],
+    format = "html", align = "lrr")
+}
+```
+
+Grades 4–5 sit near the start of the **4.3** band; 3 and 6–8 sit a little below it. None of the Youden optima are at **5.0**. That is not an argument that 5.0 is the wrong legal exit — ILEARN proficiency is a high bar, and even students first reaching 5.0 are only about **`r if (nrow(fx[cut==5])) fmt_pct(fx[cut==5, p_proficient_at]) else "40%"`** ILEARN-proficient that year.
+
+
+## First crossing — still taking ACCESS
+
+Students first reaching a cut **while they still have a WIDA score**:
+
+| Cut | N | ILEARN percentile before → at | P(proficient) before → at |
+|---|---:|---|---|
+| 4.3 | `r if (nrow(fx[cut==4.3])) fmt_count(fx[cut==4.3, n]) else "—"` | `r if (nrow(fx[cut==4.3])) paste(fmt_num(fx[cut==4.3, ilearn_pctile_prior], 0), "→", fmt_num(fx[cut==4.3, ilearn_pctile_at], 0)) else "—"` | `r if (nrow(fx[cut==4.3])) paste(fmt_pct(fx[cut==4.3, p_proficient_prior]), "→", fmt_pct(fx[cut==4.3, p_proficient_at])) else "—"` |
+| 5.0 | `r if (nrow(fx[cut==5])) fmt_count(fx[cut==5, n]) else "—"` | `r if (nrow(fx[cut==5])) paste(fmt_num(fx[cut==5, ilearn_pctile_prior], 0), "→", fmt_num(fx[cut==5, ilearn_pctile_at], 0)) else "—"` | `r if (nrow(fx[cut==5])) paste(fmt_pct(fx[cut==5, p_proficient_prior]), "→", fmt_pct(fx[cut==5, p_proficient_at])) else "—"` |
+
+Most of the ILEARN location gain has already happened by the time a student hits auto-exit. This is still the **stayer** sample.
+
+
+# After ACCESS stops {.center}
+
+::: {.visually-hidden}
+Section: inferred exiters
+:::
+
+
+## Testing-pattern exit
+
+Exit is the complementary event: ILEARN + WIDA at *t*, ILEARN only at *t+1*.
+
+| Role | Pattern |
+|---|---|
+| **Exiter** | Both tests at *(t, g)*; ILEARN at *(t+1, g+1)*; no WIDA at *t+1* |
+| **Stayer** | Both tests both years |
+| **Never-EL** | ILEARN both years, no WIDA, not classified EL |
+| **Attritor** | Both tests at *t*, no ILEARN at *t+1* (includes all grade 8) |
+
+::: {.warning-box}
+<p class="warning-box-title">Not an official roster</p>
+These LONGs do not carry IDOE’s exit list. `<4.3` disappearances are documented, not treated as policy exits. Grade 8 cannot be followed.
+:::
+
+::: {.key-insight}
+**`r fmt_count(n_exit)`** inferred exiters in the primary window (grades 3–7).
+:::
+
+
+## Who actually leaves ACCESS
+
+```{r}
+#| output: asis
+emit_html(fig_html("07_exiter_n_heatmap",
+  "Inferred exiters by year × last WIDA ACCESS Overall band. Almost all leave from ≥5.0 until 2024.",
+  max_height = "560px"))
+```
+
+
+## The classification flag agrees only at 5.0
+
+Share of inferred exiters whose ILEARN `EL_STATUS` moves LEP → Not an English Language Learner:
+
+```{r}
+#| results: asis
+if (nrow(ex_el)) {
+  knitr::kable(ex_el[, .(
+    `Last WIDA` = WIDA_EXIT_BAND,
+    N = prettyNum(n, big.mark = ","),
+    `P(LEP → not EL)` = paste(fmt_pct(p_el_to_not_el_min), "–", fmt_pct(p_el_to_not_el_max)),
+    `P(still EL)` = paste(fmt_pct(p_still_el_min), "–", fmt_pct(p_still_el_max))
+  )], format = "html", align = "lrrr")
+}
+```
+
+`>=5.0` testing-pattern matches the official classification. `4.3–4.9` and `<4.3` mostly do **not** — ACCESS non-takers, still classified EL.
+
+
+## No post-exit collapse
+
+```{r}
+#| output: asis
+emit_html(fig_html("07_exiter_percentile",
+  "ILEARN ELA percentile at t (still tested) vs t+1 (ILEARN only). Primary window.",
+  max_height = "420px"))
+```
+
+```{r}
+#| results: asis
+if (nrow(ex_ach[role == "exiter"])) {
+  knitr::kable(ex_ach[role == "exiter", .(
+    Band = WIDA_EXIT_BAND,
+    N = prettyNum(n, big.mark = ","),
+    `Pctile t` = sprintf("%.0f", ilearn_pctile_t),
+    `Pctile t+1` = sprintf("%.0f", ilearn_pctile_t1),
+    `Δ` = sprintf("%+.0f", ilearn_pctile_delta),
+    `P(prof) t` = fmt_pct(p_proficient_t),
+    `P(prof) t+1` = fmt_pct(p_proficient_t1)
+  )], format = "html", align = "lrrrrrr")
+}
+```
+
+
+## Exit-year growth sits at or above 50
+
+ILEARN SGP at *t+1* is growth during the first year without ACCESS.
+
+```{r}
+#| output: asis
+emit_html(fig_html("07_exiter_sgp",
+  "Median ILEARN SGP in the exit year. Faceted by last WIDA band. Stayers = still served.",
+  max_height = "400px"))
+```
+
+```{r}
+#| results: asis
+if (nrow(ex_sgp[role == "exiter"])) {
+  knitr::kable(ex_sgp[role == "exiter", .(
+    Band = WIDA_EXIT_BAND,
+    N = prettyNum(n, big.mark = ","),
+    `Median SGP` = sprintf("%.0f", sgp_median),
+    `P(SGP < 35)` = fmt_pct(p_sgp_below_35),
+    `P(SGP > 65)` = fmt_pct(p_sgp_above_65)
+  )], format = "html", align = "lrrrr")
+}
+```
+
+
+# A 50-50 proficiency cut {.center}
+
+::: {.visually-hidden}
+Section: lagged copula contrast
+:::
+
+
+## The recipe that gets proposed
+
+Find the WIDA ACCESS Overall score such that a student has better than a **50-50 chance** of being ILEARN ELA-proficient **the following year**.
+
+Read the joint through a copula $C(U_t^{\mathrm{WIDA}}, V_{t+1}^{\mathrm{ILEARN}})$. Let $v^*$ be the ILEARN proficiency cut on the paired rank scale. Invert
+
+$$
+P(V \ge v^* \mid U = u) = \tfrac{1}{2}
+$$
+
+and map $u^*$ back to a WIDA proficiency level.
+
+Also report the empirical local-window version: the first cut $c$ at which $P(\text{proficient}_{t+1} \mid \mathrm{WIDA}_t \approx c) \ge 0.5$.
+
+::: {.key-insight}
+**`r fmt_count(n_lag)`** lagged pairs (WIDA at *t*, ILEARN at *t+1*) in the primary window.
+:::
+
+
+## Why we do not recommend it
+
+::: {.warning-box}
+<p class="warning-box-title">Wrong construct</p>
+ILEARN proficiency is not a proxy for being ready to leave EL services. Never-EL students — native and fluent English speakers who never took ACCESS — are **not** all ILEARN-proficient. In the primary window their P(proficient) is about **`r if (nrow(lag_p)) fmt_pct(lag_p$p_never_el_proficient[1]) else "44%"`**.
+:::
+
+If the bar is “50-50 on next year’s ELA test,” a substantial share of never-EL students fail it. Using that bar to decide English-learner status asks ACCESS to predict a content outcome that English itself does not guarantee.
+
+We still run the recipe. It is part of the conversation. It is filed as a **contrast**.
+
+
+## What the copula actually returns
+
+```{r}
+#| output: asis
+emit_html(fig_html("08_lagged_p_prof_primary",
+  "P(ILEARN proficient at t+1 | WIDA Overall at t). Solid = copula; points = local empirical window. Horizontal = 0.50; dotted = never-EL P(proficient).",
+  max_height = "520px"))
+```
+
+
+## Where the 50-50 cut sits
+
+```{r}
+#| results: asis
+if (nrow(lag_p)) {
+  knitr::kable(data.frame(
+    Quantity = c(
+      "Pooled copula cut (WIDA PL at t)",
+      "Pooled local-empirical cut",
+      "P(prof t+1 | WIDA ≥ 4.3)",
+      "P(prof t+1 | WIDA ≥ 5.0)",
+      "Local P(prof t+1 | WIDA ≈ 4.3)",
+      "Local P(prof t+1 | WIDA ≈ 5.0)",
+      "Never-EL P(ILEARN proficient)"
+    ),
+    Value = c(
+      fmt_num(lag_p$copula_cut[1], 2),
+      fmt_num(lag_p$empirical_local_cut[1], 2),
+      fmt_pct(lag_p$p_ge_4.3[1]),
+      fmt_pct(lag_p$p_ge_5.0[1]),
+      fmt_pct(lag_p$p_local_4.3[1]),
+      fmt_pct(lag_p$p_local_5.0[1]),
+      fmt_pct(lag_p$p_never_el_proficient[1])
+    )
+  ), format = "html", align = "lr", row.names = FALSE)
+}
+```
+
+```{r}
+#| output: asis
+emit_html(fig_html("08_lagged_fifty_fifty_by_grade",
+  "Fifty-fifty WIDA cut by ILEARN grade at t+1. Copula vs local empirical. Dashed = 4.3 and 5.0.",
+  max_height = "360px"))
+```
+
+::: {.notes}
+If the cut lands near 5.0, the recipe is rediscovering auto-exit by asking ACCESS to predict a hard content outcome. If it lands near 4.3, it agrees with Youden / the location table — still not a reason to treat ILEARN proficiency as the exit construct.
+:::
+
+
+# 4.3 versus 5.0 {.center}
+
+::: {.visually-hidden}
+Section: what this says about the exit threshold
+:::
+
+
+## How the pieces fit
+
+1. ILEARN ELA is not informative about English access below WIDA **Level 3**. L1–L2 is noise in the sense of the hypothesis.
+2. Signal is clearly present by the **4.3–4.9** provisional band. That is also where Youden against ILEARN proficiency peaks.
+3. **5.0 auto-exit** selects students already at the top of the ILEARN distribution. It is a conservative access standard, not the first point at which ILEARN stops looking like noise.
+4. Students who leave ACCESS from **5.0** hold their ILEARN location and post slightly-above-typical growth. The classification flag agrees they exited.
+5. Students who disappear from ACCESS at **4.3–4.9** also hold location — but most are still classified EL. The committee-band “exiter” cell is thin and contaminated.
+6. The 50-50 next-year-proficiency recipe is in the JSON and the figures. It is **not** the recommended exit rule.
+
+::: {.key-insight}
+On these files the threshold debate is about **who is allowed to leave**, not about academic collapse after ACCESS stops.
+:::
+
+
+## Reproducible artifacts
+
+The pipeline writes aggregates only. Student-level pairs stay in gitignored `cache/`.
+
+| Layer | Where |
+|---|---|
+| Tables | `outputs/*.csv` |
+| JSON manifests | `outputs/manifests/index.json`, `results.json`, `tables/*.json` |
+| Figures | `figures/*.png` (+ PDF) |
+| This deck | `docs/index.html` (GitHub Pages) |
+
+`Rscript run_all.R` rebuilds steps 00–08 and refreshes the manifests. `./docs/render.sh` re-renders this deck from `results.json`.
+
+::: {.notes}
+Pages source: Deploy from a branch → /docs. embed-resources is on, so the HTML is self-contained.
+:::

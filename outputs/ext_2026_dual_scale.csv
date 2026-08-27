@@ -1,0 +1,13 @@
+GRADE,scale,n,kendall,spearman
+3,native_combined_LONG,10088,0.6054,0.8025
+4,native_combined_LONG,8515,0.5676,0.7635
+5,native_combined_LONG,7421,0.5593,0.7565
+6,native_combined_LONG,6660,0.5518,0.7493
+7,native_combined_LONG,6850,0.5616,0.7586
+8,native_combined_LONG,7115,0.5356,0.7296
+3,old_scale,10088,0.6063,0.8026
+4,old_scale,8515,0.5684,0.7633
+5,old_scale,7421,0.5603,0.7566
+6,old_scale,6660,0.5526,0.7493
+7,old_scale,6850,0.5624,0.7586
+8,old_scale,7115,0.5362,0.7294

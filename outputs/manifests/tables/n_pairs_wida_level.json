@@ -1,0 +1,2431 @@
+[
+  {
+    "YEAR": 2017,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 231,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 905,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 2868,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 792,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 808,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 101,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 49,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 226,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 1420,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 602,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 740,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 120,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 64,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 217,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 873,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 340,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 461,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 82,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 96,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 457,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 966,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 193,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 169,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 26,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 157,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 444,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 1115,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 382,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 328,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 46,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 144,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 418,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 1013,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 397,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 414,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 48,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 303,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 827,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 3341,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 1039,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 1360,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 248,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 136,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 275,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 1656,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 961,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 2153,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 957,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "N": 101,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 142,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 264,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 1143,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 549,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 1081,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 447,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "N": 39,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 201,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 486,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 1273,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 284,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 282,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 40,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 226,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 479,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 1091,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 285,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 300,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 57,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 221,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 430,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 1234,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 422,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 473,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 78,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 440,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 839,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 3249,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 1066,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 1644,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 426,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 203,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 305,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 1727,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 1062,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 2619,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 1293,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "N": 125,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 194,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 272,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 1282,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 859,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 2063,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 915,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "N": 57,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 310,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 592,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 1673,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 555,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 420,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 36,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 324,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 547,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 1146,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 385,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 366,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 101,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 333,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 469,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 1015,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 346,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 424,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 95,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 621,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 1200,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 3420,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 984,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 1365,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 256,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 302,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 495,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 2209,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 1060,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 2078,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 1130,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "N": 194,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 270,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 417,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 1796,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 846,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 1797,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 956,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "N": 103,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 272,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 842,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 2959,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 615,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 501,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 72,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 352,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 788,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 2476,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 590,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 639,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 134,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 380,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 690,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 1702,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 392,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 518,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 141,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "N": 12,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 789,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 1361,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 3382,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 971,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 1238,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 292,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "N": 12,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 402,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 589,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 2186,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 1086,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 2332,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 1365,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "N": 329,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 448,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 461,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 1800,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 919,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 1908,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 1115,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "N": 171,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 388,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 774,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 3082,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 752,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 669,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 57,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 473,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 876,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 2778,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 721,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 743,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 135,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 529,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 802,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 2352,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 670,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 886,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 189,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 929,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 1532,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 3641,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 947,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 1279,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 378,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 470,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 657,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 2259,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 1085,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 2315,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 1344,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "N": 251,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 536,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 598,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 1909,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 959,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 2060,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 1087,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "N": 97,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 553,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 972,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 3186,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 756,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 624,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 50,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 681,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 969,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 2916,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 761,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 747,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 112,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 701,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 988,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 2659,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 777,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 850,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 124,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 1165,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 1485,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 3641,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 1006,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 1337,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 423,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "N": 17,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 810,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 860,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 2530,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 1003,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 2390,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 1360,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "N": 258,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 802,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 706,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 1967,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 857,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 2096,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 1141,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "N": 131,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 877,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 1230,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 3170,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 795,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 762,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 83,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 958,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 1163,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 2808,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 827,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 901,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 146,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 1070,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 1068,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 2548,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 829,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 1091,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 227,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 1361,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 1567,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 3670,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 1102,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 1636,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 466,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "N": 19,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 769,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 1013,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 2296,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 1044,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 2414,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 1379,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "N": 272,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 880,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 854,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 1965,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 872,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 2135,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 1183,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "N": 193,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 846,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 1290,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 3109,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 814,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 762,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 94,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 1084,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 1261,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 2985,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 861,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 1025,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 199,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 1108,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 1072,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 2550,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 889,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 1248,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 289,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 938,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 1313,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 4226,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 1210,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 1816,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 473,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "N": 112,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 490,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 546,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 1763,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 1091,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 2698,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 1641,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "N": 286,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 579,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 564,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 1807,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 992,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 2133,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 1243,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "N": 103,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 633,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 1147,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 3067,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 875,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 844,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 87,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 782,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 1124,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 2777,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 906,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 1105,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 140,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "N": 16,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "N": 872,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "N": 1081,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "N": 2580,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "N": 943,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "N": 1364,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "N": 236,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "N": 39,
+    "suppress": false
+  }
+]

@@ -1,0 +1,8 @@
+window,role,WIDA_EXIT_BAND,n,ilearn_pctile_t,ilearn_pctile_t1,ilearn_pctile_delta,p_proficient_t,p_proficient_t1
+primary,exiter,<4.3,833,16.117,16.621,1.008,0.036,0.047
+primary,exiter,4.3-4.9,985,56.653,55.346,-2.277,0.452,0.436
+primary,exiter,>=5.0,12568,62.533,63.949,0.979,0.55,0.579
+primary,never_el,"",1415373,53.703,53.501,-0.049,0.438,0.445
+primary,stayer,<4.3,95717,17.642,19.683,1.59,0.043,0.064
+primary,stayer,4.3-4.9,25875,44.567,46.463,1.688,0.259,0.306
+primary,stayer,>=5.0,197,63.807,66.306,2.25,0.579,0.569

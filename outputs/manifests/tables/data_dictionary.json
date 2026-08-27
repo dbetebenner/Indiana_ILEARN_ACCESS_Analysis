@@ -1,0 +1,74 @@
+[
+  {
+    "column": "ID",
+    "meaning": "De-identified student id (join key; cache only, never committed)."
+  },
+  {
+    "column": "YEAR",
+    "meaning": "School year (spring administration)."
+  },
+  {
+    "column": "GRADE",
+    "meaning": "Grade (3-8 in scope)."
+  },
+  {
+    "column": "WIDA_SCORE",
+    "meaning": "WIDA ACCESS Overall composite scale score (native scale for the year)."
+  },
+  {
+    "column": "WIDA_SCORE_OLD",
+    "meaning": "WIDA Overall composite on the pre-2026 OLD scale where available."
+  },
+  {
+    "column": "WIDA_LEVEL",
+    "meaning": "WIDA achievement level bucket (L1..L6, plus the 4.3 provisional band)."
+  },
+  {
+    "column": "WIDA_PL",
+    "meaning": "WIDA decimal proficiency level (ACHIEVEMENT_LEVEL_ORIGINAL)."
+  },
+  {
+    "column": "ILEARN_SCORE",
+    "meaning": "ILEARN/ISTEP ELA (or Math) scale score, native scale for the year."
+  },
+  {
+    "column": "ILEARN_SCORE_OLD",
+    "meaning": "ILEARN score on the equated OLD scale where available."
+  },
+  {
+    "column": "ILEARN_LEVEL",
+    "meaning": "ILEARN achievement level label."
+  },
+  {
+    "column": "EL_STATUS",
+    "meaning": "English learner status flag from the ILEARN demographics."
+  },
+  {
+    "column": "U_WIDA",
+    "meaning": "WIDA within-cell pseudo-observation (rank in (0,1)) by year x grade."
+  },
+  {
+    "column": "V_ILEARN",
+    "meaning": "ILEARN within-cell pseudo-observation by year x grade."
+  },
+  {
+    "column": "WIDA_BAND",
+    "meaning": "Coarse WIDA policy band (<4.0, 4.0-4.2, 4.3-4.9, >=5.0)."
+  },
+  {
+    "column": "ILEARN_PCTILE",
+    "meaning": "ILEARN percentile within year x grade (0-100)."
+  },
+  {
+    "column": "ILEARN_PROFICIENT",
+    "meaning": "Logical ILEARN proficiency (At/Above), NA if unrecognized."
+  },
+  {
+    "column": "ILEARN_SGP",
+    "meaning": "ILEARN cohort-referenced SGP (growth extension; secondary)."
+  },
+  {
+    "column": "WIDA_SGP",
+    "meaning": "WIDA ACCESS cohort-referenced SGP (growth extension; secondary)."
+  }
+]

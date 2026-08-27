@@ -1,0 +1,22 @@
+[
+  {
+    "cut": 4.3,
+    "label": "4.3 provisional",
+    "n": 36720,
+    "ilearn_pctile_at": 72.088,
+    "p_proficient_at": 0.231,
+    "n_prior": 24141,
+    "ilearn_pctile_prior": 59.096,
+    "p_proficient_prior": 0.13
+  },
+  {
+    "cut": 5,
+    "label": "5.0 auto-exit",
+    "n": 15907,
+    "ilearn_pctile_at": 86.071,
+    "p_proficient_at": 0.397,
+    "n_prior": 15669,
+    "ilearn_pctile_prior": 77.314,
+    "p_proficient_prior": 0.376
+  }
+]

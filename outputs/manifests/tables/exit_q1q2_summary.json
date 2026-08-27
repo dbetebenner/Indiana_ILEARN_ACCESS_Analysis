@@ -1,0 +1,26 @@
+[
+  {
+    "YEAR_STRATUM": "ilearn_2019",
+    "n_cells": 6,
+    "best_cut_median": 4.2,
+    "best_cut_min": 4.1,
+    "best_cut_max": 4.7,
+    "best_cut_sd": 0.264
+  },
+  {
+    "YEAR_STRATUM": "istep_contrast",
+    "n_cells": 12,
+    "best_cut_median": 4.2,
+    "best_cut_min": 3.8,
+    "best_cut_max": 4.7,
+    "best_cut_sd": 0.307
+  },
+  {
+    "YEAR_STRATUM": "primary",
+    "n_cells": 30,
+    "best_cut_median": 4.05,
+    "best_cut_min": 3.8,
+    "best_cut_max": 4.7,
+    "best_cut_sd": 0.319
+  }
+]

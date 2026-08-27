@@ -1,0 +1,14 @@
+[
+  {
+    "check": "ilearn_2026_new_scale_median",
+    "detail": "440"
+  },
+  {
+    "check": "ilearn_2026_old_scale_median",
+    "detail": "5502.7"
+  },
+  {
+    "check": "ilearn_2026_new_equals_old",
+    "detail": "FALSE"
+  }
+]

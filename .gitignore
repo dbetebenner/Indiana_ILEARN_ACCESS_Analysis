@@ -1,0 +1,22 @@
+# Student-level and derived microdata — never commit.
+cache/
+*.rds
+*.Rdata
+*.RData
+
+# Local session cruft
+.Rhistory
+.RData
+.Rproj.user/
+*.log
+.DS_Store
+
+# Allow committed aggregate outputs and figures explicitly.
+!outputs/
+!figures/
+
+# Quarto scratch (keep docs/index.html and the qmd/theme)
+.quarto/
+**/*_files/
+**/*_cache/
+docs/.quarto/

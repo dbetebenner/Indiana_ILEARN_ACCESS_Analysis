@@ -1,0 +1,974 @@
+[
+  {
+    "YEAR": 2017,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 3,
+    "n": 5706,
+    "kendall": 0.4958,
+    "spearman": 0.6813,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2017,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 4,
+    "n": 3166,
+    "kendall": 0.4691,
+    "spearman": 0.6495,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2017,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 5,
+    "n": 2044,
+    "kendall": 0.4923,
+    "spearman": 0.6746,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2017,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 6,
+    "n": 1908,
+    "kendall": 0.4911,
+    "spearman": 0.6728,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2017,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 7,
+    "n": 2476,
+    "kendall": 0.5092,
+    "spearman": 0.6928,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2017,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 8,
+    "n": 2437,
+    "kendall": 0.4926,
+    "spearman": 0.6755,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 3,
+    "n": 7121,
+    "kendall": 0.5626,
+    "spearman": 0.7542,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 4,
+    "n": 6239,
+    "kendall": 0.5456,
+    "spearman": 0.7352,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 5,
+    "n": 3665,
+    "kendall": 0.5422,
+    "spearman": 0.7311,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 6,
+    "n": 2567,
+    "kendall": 0.543,
+    "spearman": 0.7334,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 7,
+    "n": 2442,
+    "kendall": 0.5813,
+    "spearman": 0.7729,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 8,
+    "n": 2862,
+    "kendall": 0.5402,
+    "spearman": 0.7319,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 3,
+    "n": 7673,
+    "kendall": 0.5548,
+    "spearman": 0.7484,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 4,
+    "n": 7334,
+    "kendall": 0.5504,
+    "spearman": 0.7443,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 5,
+    "n": 5642,
+    "kendall": 0.5056,
+    "spearman": 0.6938,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 6,
+    "n": 3589,
+    "kendall": 0.4763,
+    "spearman": 0.6577,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 7,
+    "n": 2874,
+    "kendall": 0.5386,
+    "spearman": 0.7321,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 8,
+    "n": 2688,
+    "kendall": 0.548,
+    "spearman": 0.7408,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 3,
+    "n": 7849,
+    "kendall": 0.5419,
+    "spearman": 0.7375,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 4,
+    "n": 7468,
+    "kendall": 0.5542,
+    "spearman": 0.75,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 5,
+    "n": 6185,
+    "kendall": 0.5178,
+    "spearman": 0.7094,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 6,
+    "n": 5263,
+    "kendall": 0.5064,
+    "spearman": 0.6918,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 7,
+    "n": 4988,
+    "kendall": 0.5179,
+    "spearman": 0.7085,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 8,
+    "n": 3835,
+    "kendall": 0.5247,
+    "spearman": 0.717,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 3,
+    "n": 8045,
+    "kendall": 0.5718,
+    "spearman": 0.7706,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 4,
+    "n": 8289,
+    "kendall": 0.5715,
+    "spearman": 0.7674,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 5,
+    "n": 6822,
+    "kendall": 0.5568,
+    "spearman": 0.751,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 6,
+    "n": 5725,
+    "kendall": 0.505,
+    "spearman": 0.6936,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 7,
+    "n": 5733,
+    "kendall": 0.5246,
+    "spearman": 0.7147,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 8,
+    "n": 5434,
+    "kendall": 0.5311,
+    "spearman": 0.7227,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 3,
+    "n": 8714,
+    "kendall": 0.6049,
+    "spearman": 0.8057,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 4,
+    "n": 8381,
+    "kendall": 0.5841,
+    "spearman": 0.7837,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 5,
+    "n": 7246,
+    "kendall": 0.556,
+    "spearman": 0.7515,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 6,
+    "n": 6143,
+    "kendall": 0.5297,
+    "spearman": 0.7206,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 7,
+    "n": 6187,
+    "kendall": 0.5342,
+    "spearman": 0.7267,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 8,
+    "n": 6101,
+    "kendall": 0.5542,
+    "spearman": 0.7489,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 3,
+    "n": 9074,
+    "kendall": 0.6141,
+    "spearman": 0.8128,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 4,
+    "n": 9211,
+    "kendall": 0.6114,
+    "spearman": 0.8105,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 5,
+    "n": 7700,
+    "kendall": 0.5881,
+    "spearman": 0.7879,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 6,
+    "n": 6921,
+    "kendall": 0.5585,
+    "spearman": 0.7556,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 7,
+    "n": 6807,
+    "kendall": 0.5724,
+    "spearman": 0.7699,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 8,
+    "n": 6838,
+    "kendall": 0.5661,
+    "spearman": 0.7625,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 3,
+    "n": 9821,
+    "kendall": 0.5921,
+    "spearman": 0.7937,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 4,
+    "n": 9187,
+    "kendall": 0.5548,
+    "spearman": 0.7557,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 5,
+    "n": 8082,
+    "kendall": 0.5313,
+    "spearman": 0.7305,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 6,
+    "n": 6919,
+    "kendall": 0.5205,
+    "spearman": 0.7137,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 7,
+    "n": 7419,
+    "kendall": 0.5225,
+    "spearman": 0.7186,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 8,
+    "n": 7164,
+    "kendall": 0.5286,
+    "spearman": 0.7266,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 3,
+    "n": 10088,
+    "kendall": 0.6054,
+    "spearman": 0.8025,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 4,
+    "n": 8515,
+    "kendall": 0.5676,
+    "spearman": 0.7635,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 5,
+    "n": 7421,
+    "kendall": 0.5593,
+    "spearman": 0.7565,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 6,
+    "n": 6660,
+    "kendall": 0.5518,
+    "spearman": 0.7493,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 7,
+    "n": 6850,
+    "kendall": 0.5616,
+    "spearman": 0.7586,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 8,
+    "n": 7115,
+    "kendall": 0.5356,
+    "spearman": 0.7296,
+    "content": "ELA"
+  },
+  {
+    "YEAR": 2017,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 3,
+    "n": 5985,
+    "kendall": 0.4316,
+    "spearman": 0.6024,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 4,
+    "n": 3424,
+    "kendall": 0.4168,
+    "spearman": 0.5813,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 5,
+    "n": 2282,
+    "kendall": 0.4003,
+    "spearman": 0.5619,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 6,
+    "n": 2145,
+    "kendall": 0.4041,
+    "spearman": 0.5649,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 7,
+    "n": 2669,
+    "kendall": 0.3863,
+    "spearman": 0.5449,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 8,
+    "n": 2655,
+    "kendall": 0.3797,
+    "spearman": 0.5375,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 3,
+    "n": 7162,
+    "kendall": 0.4722,
+    "spearman": 0.6533,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 4,
+    "n": 6255,
+    "kendall": 0.4512,
+    "spearman": 0.6266,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 5,
+    "n": 3690,
+    "kendall": 0.3767,
+    "spearman": 0.5336,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 6,
+    "n": 2580,
+    "kendall": 0.4353,
+    "spearman": 0.6047,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 7,
+    "n": 2448,
+    "kendall": 0.38,
+    "spearman": 0.5357,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 8,
+    "n": 2868,
+    "kendall": 0.4306,
+    "spearman": 0.5999,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 3,
+    "n": 7679,
+    "kendall": 0.5111,
+    "spearman": 0.6975,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 4,
+    "n": 7335,
+    "kendall": 0.4887,
+    "spearman": 0.6708,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 5,
+    "n": 5643,
+    "kendall": 0.4519,
+    "spearman": 0.6288,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 6,
+    "n": 3591,
+    "kendall": 0.423,
+    "spearman": 0.5956,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 7,
+    "n": 2869,
+    "kendall": 0.4269,
+    "spearman": 0.6021,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 8,
+    "n": 2691,
+    "kendall": 0.4282,
+    "spearman": 0.6018,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 3,
+    "n": 7844,
+    "kendall": 0.5204,
+    "spearman": 0.7097,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 4,
+    "n": 7469,
+    "kendall": 0.514,
+    "spearman": 0.7036,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 5,
+    "n": 6186,
+    "kendall": 0.4687,
+    "spearman": 0.651,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 6,
+    "n": 5247,
+    "kendall": 0.4333,
+    "spearman": 0.6093,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 7,
+    "n": 4992,
+    "kendall": 0.4335,
+    "spearman": 0.6101,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 8,
+    "n": 3828,
+    "kendall": 0.411,
+    "spearman": 0.5832,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 3,
+    "n": 8057,
+    "kendall": 0.5316,
+    "spearman": 0.7242,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 4,
+    "n": 8286,
+    "kendall": 0.5177,
+    "spearman": 0.707,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 5,
+    "n": 6822,
+    "kendall": 0.4716,
+    "spearman": 0.6579,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 6,
+    "n": 5720,
+    "kendall": 0.4379,
+    "spearman": 0.6168,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 7,
+    "n": 5738,
+    "kendall": 0.4229,
+    "spearman": 0.5984,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 8,
+    "n": 5429,
+    "kendall": 0.4096,
+    "spearman": 0.5824,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 3,
+    "n": 8710,
+    "kendall": 0.5363,
+    "spearman": 0.7297,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 4,
+    "n": 8382,
+    "kendall": 0.5195,
+    "spearman": 0.7102,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 5,
+    "n": 7245,
+    "kendall": 0.4507,
+    "spearman": 0.6288,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 6,
+    "n": 6133,
+    "kendall": 0.4442,
+    "spearman": 0.6231,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 7,
+    "n": 6183,
+    "kendall": 0.4237,
+    "spearman": 0.5983,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 8,
+    "n": 6104,
+    "kendall": 0.4141,
+    "spearman": 0.589,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 3,
+    "n": 9061,
+    "kendall": 0.5386,
+    "spearman": 0.7315,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 4,
+    "n": 9205,
+    "kendall": 0.5394,
+    "spearman": 0.7335,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 5,
+    "n": 7697,
+    "kendall": 0.4642,
+    "spearman": 0.6463,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 6,
+    "n": 6915,
+    "kendall": 0.4667,
+    "spearman": 0.651,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 7,
+    "n": 6792,
+    "kendall": 0.4338,
+    "spearman": 0.6149,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 8,
+    "n": 6822,
+    "kendall": 0.4197,
+    "spearman": 0.5964,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 3,
+    "n": 9822,
+    "kendall": 0.521,
+    "spearman": 0.7112,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 4,
+    "n": 9183,
+    "kendall": 0.5098,
+    "spearman": 0.6989,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 5,
+    "n": 8079,
+    "kendall": 0.4519,
+    "spearman": 0.6344,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 6,
+    "n": 6926,
+    "kendall": 0.4565,
+    "spearman": 0.6391,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 7,
+    "n": 7409,
+    "kendall": 0.445,
+    "spearman": 0.6252,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 8,
+    "n": 7150,
+    "kendall": 0.4185,
+    "spearman": 0.5921,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 3,
+    "n": 10085,
+    "kendall": 0.4969,
+    "spearman": 0.6823,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 4,
+    "n": 8513,
+    "kendall": 0.4787,
+    "spearman": 0.6609,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 5,
+    "n": 7417,
+    "kendall": 0.4082,
+    "spearman": 0.5771,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 6,
+    "n": 6654,
+    "kendall": 0.4174,
+    "spearman": 0.5921,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 7,
+    "n": 6851,
+    "kendall": 0.3844,
+    "spearman": 0.5494,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 8,
+    "n": 7109,
+    "kendall": 0.399,
+    "spearman": 0.5682,
+    "content": "MATHEMATICS"
+  }
+]

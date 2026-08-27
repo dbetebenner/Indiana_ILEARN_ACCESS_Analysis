@@ -1,0 +1,380 @@
+[
+  {
+    "YEAR": 2017,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 3,
+    "N": 5706,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 4,
+    "N": 3166,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 5,
+    "N": 2044,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 6,
+    "N": 1908,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 7,
+    "N": 2476,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 8,
+    "N": 2437,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 3,
+    "N": 7121,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 4,
+    "N": 6239,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 5,
+    "N": 3665,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 6,
+    "N": 2567,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 7,
+    "N": 2442,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 8,
+    "N": 2862,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 3,
+    "N": 7673,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 4,
+    "N": 7334,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 5,
+    "N": 5642,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 6,
+    "N": 3589,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 7,
+    "N": 2874,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 8,
+    "N": 2688,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 3,
+    "N": 7849,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 4,
+    "N": 7468,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 5,
+    "N": 6185,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 6,
+    "N": 5263,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 7,
+    "N": 4988,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 8,
+    "N": 3835,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 3,
+    "N": 8045,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 4,
+    "N": 8289,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 5,
+    "N": 6822,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 6,
+    "N": 5725,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 7,
+    "N": 5733,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 8,
+    "N": 5434,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 3,
+    "N": 8714,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 4,
+    "N": 8381,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 5,
+    "N": 7246,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 6,
+    "N": 6143,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 7,
+    "N": 6187,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 8,
+    "N": 6101,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 3,
+    "N": 9074,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 4,
+    "N": 9211,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 5,
+    "N": 7700,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 6,
+    "N": 6921,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 7,
+    "N": 6807,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 8,
+    "N": 6838,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 3,
+    "N": 9821,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 4,
+    "N": 9187,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 5,
+    "N": 8082,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 6,
+    "N": 6919,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 7,
+    "N": 7419,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 8,
+    "N": 7164,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 3,
+    "N": 10088,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 4,
+    "N": 8515,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 5,
+    "N": 7421,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 6,
+    "N": 6660,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 7,
+    "N": 6850,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 8,
+    "N": 7115,
+    "suppress": false
+  }
+]

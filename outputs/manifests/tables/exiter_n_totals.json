@@ -1,0 +1,122 @@
+[
+  {
+    "YEAR_T": 2021,
+    "window": "primary",
+    "role": "attritor",
+    "N": 5229
+  },
+  {
+    "YEAR_T": 2021,
+    "window": "primary",
+    "role": "exiter",
+    "N": 2920
+  },
+  {
+    "YEAR_T": 2021,
+    "window": "primary",
+    "role": "never_el",
+    "N": 350082
+  },
+  {
+    "YEAR_T": 2021,
+    "window": "primary",
+    "role": "stayer",
+    "N": 27439
+  },
+  {
+    "YEAR_T": 2022,
+    "window": "primary",
+    "role": "attritor",
+    "N": 6928
+  },
+  {
+    "YEAR_T": 2022,
+    "window": "primary",
+    "role": "exiter",
+    "N": 3551
+  },
+  {
+    "YEAR_T": 2022,
+    "window": "primary",
+    "role": "never_el",
+    "N": 353583
+  },
+  {
+    "YEAR_T": 2022,
+    "window": "primary",
+    "role": "stayer",
+    "N": 29569
+  },
+  {
+    "YEAR_T": 2023,
+    "window": "primary",
+    "role": "attritor",
+    "N": 7780
+  },
+  {
+    "YEAR_T": 2023,
+    "window": "primary",
+    "role": "exiter",
+    "N": 3462
+  },
+  {
+    "YEAR_T": 2023,
+    "window": "primary",
+    "role": "never_el",
+    "N": 356332
+  },
+  {
+    "YEAR_T": 2023,
+    "window": "primary",
+    "role": "stayer",
+    "N": 31530
+  },
+  {
+    "YEAR_T": 2024,
+    "window": "primary",
+    "role": "attritor",
+    "N": 8847
+  },
+  {
+    "YEAR_T": 2024,
+    "window": "primary",
+    "role": "exiter",
+    "N": 4453
+  },
+  {
+    "YEAR_T": 2024,
+    "window": "primary",
+    "role": "never_el",
+    "N": 355376
+  },
+  {
+    "YEAR_T": 2024,
+    "window": "primary",
+    "role": "stayer",
+    "N": 33251
+  },
+  {
+    "YEAR_T": 2025,
+    "window": "ranks_only",
+    "role": "attritor",
+    "N": 10139
+  },
+  {
+    "YEAR_T": 2025,
+    "window": "ranks_only",
+    "role": "exiter",
+    "N": 5047
+  },
+  {
+    "YEAR_T": 2025,
+    "window": "ranks_only",
+    "role": "never_el",
+    "N": 355754
+  },
+  {
+    "YEAR_T": 2025,
+    "window": "ranks_only",
+    "role": "stayer",
+    "N": 33406
+  }
+]

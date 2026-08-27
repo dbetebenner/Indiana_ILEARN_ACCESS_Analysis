@@ -1,0 +1,498 @@
+{
+  "schema": "in.ilearn.wida.manifest.v1",
+  "generated": "2026-08-27T13:05:53-0400",
+  "wida_label": "WIDA ACCESS Overall Composite",
+  "containment": "Aggregates only. cache/ is gitignored and is not listed here.",
+  "tables": [
+    {
+      "name": "audit_2026_scale_change",
+      "csv": "outputs/audit_2026_scale_change.csv",
+      "json": "outputs/manifests/tables/audit_2026_scale_change.json",
+      "n_rows": 3,
+      "columns": ["check", "detail"]
+    },
+    {
+      "name": "audit_el_status",
+      "csv": "outputs/audit_el_status.csv",
+      "json": "outputs/manifests/tables/audit_el_status.json",
+      "n_rows": 10,
+      "columns": ["EL_STATUS", "N"]
+    },
+    {
+      "name": "audit_ilearn_levels",
+      "csv": "outputs/audit_ilearn_levels.csv",
+      "json": "outputs/manifests/tables/audit_ilearn_levels.json",
+      "n_rows": 4,
+      "columns": ["ILEARN_LEVEL", "N"]
+    },
+    {
+      "name": "audit_ilearn_scale_by_year",
+      "csv": "outputs/audit_ilearn_scale_by_year.csv",
+      "json": "outputs/manifests/tables/audit_ilearn_scale_by_year.json",
+      "n_rows": 20,
+      "columns": ["CONTENT_AREA", "YEAR", "n", "min", "q25", "median", "q75", "max"]
+    },
+    {
+      "name": "audit_wida_levels",
+      "csv": "outputs/audit_wida_levels.csv",
+      "json": "outputs/manifests/tables/audit_wida_levels.json",
+      "n_rows": 7,
+      "columns": ["WIDA_LEVEL", "N"]
+    },
+    {
+      "name": "audit_wida_scale_by_year",
+      "csv": "outputs/audit_wida_scale_by_year.csv",
+      "json": "outputs/manifests/tables/audit_wida_scale_by_year.json",
+      "n_rows": 10,
+      "columns": ["YEAR", "n", "min", "q25", "median", "q75", "max", "pl_min", "pl_max"]
+    },
+    {
+      "name": "data_dictionary",
+      "csv": "outputs/data_dictionary.csv",
+      "json": "outputs/manifests/tables/data_dictionary.json",
+      "n_rows": 18,
+      "columns": ["column", "meaning"]
+    },
+    {
+      "name": "dep_copula_best_family_freq",
+      "csv": "outputs/dep_copula_best_family_freq.csv",
+      "json": "outputs/manifests/tables/dep_copula_best_family_freq.json",
+      "n_rows": 3,
+      "columns": ["family", "n_cells", "pct"]
+    },
+    {
+      "name": "dep_copula_fits",
+      "csv": "outputs/dep_copula_fits.csv",
+      "json": "outputs/manifests/tables/dep_copula_fits.json",
+      "n_rows": 162,
+      "columns": ["YEAR", "GRADE", "family", "n", "loglik", "aic", "bic", "tau", "rho", "df", "lambda_lower", "lambda_upper", "converged", "best_aic"]
+    },
+    {
+      "name": "dep_rank_correlations",
+      "csv": "outputs/dep_rank_correlations.csv",
+      "json": "outputs/manifests/tables/dep_rank_correlations.json",
+      "n_rows": 54,
+      "columns": ["YEAR", "YEAR_STRATUM", "GRADE", "n", "kendall", "spearman", "pearson", "suppress"]
+    },
+    {
+      "name": "exit_agreement_by_cut",
+      "csv": "outputs/exit_agreement_by_cut.csv",
+      "json": "outputs/manifests/tables/exit_agreement_by_cut.json",
+      "n_rows": 5832,
+      "columns": ["cut", "n", "sens", "spec", "youden", "ppv", "npv", "accuracy", "YEAR", "GRADE", "YEAR_STRATUM", "outcome"]
+    },
+    {
+      "name": "exit_anchor_youden",
+      "csv": "outputs/exit_anchor_youden.csv",
+      "json": "outputs/manifests/tables/exit_anchor_youden.json",
+      "n_rows": 54,
+      "columns": ["YEAR", "GRADE", "4.3", "5"]
+    },
+    {
+      "name": "exit_grade_consistency",
+      "csv": "outputs/exit_grade_consistency.csv",
+      "json": "outputs/manifests/tables/exit_grade_consistency.json",
+      "n_rows": 6,
+      "columns": ["GRADE", "best_cut_median", "best_cut_sd", "n_years"]
+    },
+    {
+      "name": "exit_optimal_cut",
+      "csv": "outputs/exit_optimal_cut.csv",
+      "json": "outputs/manifests/tables/exit_optimal_cut.json",
+      "n_rows": 156,
+      "columns": ["YEAR", "YEAR_STRATUM", "GRADE", "outcome", "best_cut", "youden", "sens", "spec", "n"]
+    },
+    {
+      "name": "exit_q1q2_summary",
+      "csv": "outputs/exit_q1q2_summary.csv",
+      "json": "outputs/manifests/tables/exit_q1q2_summary.json",
+      "n_rows": 3,
+      "columns": ["YEAR_STRATUM", "n_cells", "best_cut_median", "best_cut_min", "best_cut_max", "best_cut_sd"]
+    },
+    {
+      "name": "exiter_achievement_pooled",
+      "csv": "outputs/exiter_achievement_pooled.csv",
+      "json": "outputs/manifests/tables/exiter_achievement_pooled.json",
+      "n_rows": 7,
+      "columns": ["window", "role", "WIDA_EXIT_BAND", "n", "ilearn_pctile_t", "ilearn_pctile_t1", "ilearn_pctile_delta", "p_proficient_t", "p_proficient_t1"]
+    },
+    {
+      "name": "exiter_achievement",
+      "csv": "outputs/exiter_achievement.csv",
+      "json": "outputs/manifests/tables/exiter_achievement.json",
+      "n_rows": 152,
+      "columns": ["YEAR_T1", "GRADE_T1", "YEAR_T", "GRADE", "window", "role", "WIDA_EXIT_BAND", "n", "ilearn_pctile_t", "ilearn_pctile_t1", "ilearn_pctile_delta", "p_proficient_t", "p_proficient_t1", "n_never_el", "never_el_median_score", "never_el_median_pctile", "never_el_median_sgp", "n_never_el_t1", "never_el_median_score_t1", "never_el_median_pctile_t1", "never_el_median_sgp_t1", "gap_pctile_t", "gap_pctile_t1", "suppress"]
+    },
+    {
+      "name": "exiter_el_status_robustness",
+      "csv": "outputs/exiter_el_status_robustness.csv",
+      "json": "outputs/manifests/tables/exiter_el_status_robustness.json",
+      "n_rows": 12,
+      "columns": ["YEAR_T", "YEAR_T1", "window", "WIDA_EXIT_BAND", "n", "n_el_known_both", "p_el_to_not_el", "p_still_el", "p_el_unknown_t1"]
+    },
+    {
+      "name": "exiter_n_totals",
+      "csv": "outputs/exiter_n_totals.csv",
+      "json": "outputs/manifests/tables/exiter_n_totals.json",
+      "n_rows": 20,
+      "columns": ["YEAR_T", "window", "role", "N"]
+    },
+    {
+      "name": "exiter_n_year_grade_band",
+      "csv": "outputs/exiter_n_year_grade_band.csv",
+      "json": "outputs/manifests/tables/exiter_n_year_grade_band.json",
+      "n_rows": 234,
+      "columns": ["YEAR_T", "YEAR_T1", "window", "GRADE", "role", "WIDA_EXIT_BAND", "N", "suppress"]
+    },
+    {
+      "name": "exiter_sgp_pooled",
+      "csv": "outputs/exiter_sgp_pooled.csv",
+      "json": "outputs/manifests/tables/exiter_sgp_pooled.json",
+      "n_rows": 7,
+      "columns": ["window", "role", "WIDA_EXIT_BAND", "n", "sgp_median", "p_sgp_below_35", "p_sgp_above_65"]
+    },
+    {
+      "name": "exiter_sgp",
+      "csv": "outputs/exiter_sgp.csv",
+      "json": "outputs/manifests/tables/exiter_sgp.json",
+      "n_rows": 152,
+      "columns": ["YEAR_T", "YEAR_T1", "window", "GRADE", "role", "WIDA_EXIT_BAND", "n", "sgp_median", "p_sgp_below_35", "p_sgp_above_65", "suppress"]
+    },
+    {
+      "name": "ext_2026_dual_scale",
+      "csv": "outputs/ext_2026_dual_scale.csv",
+      "json": "outputs/manifests/tables/ext_2026_dual_scale.json",
+      "n_rows": 12,
+      "columns": ["GRADE", "scale", "n", "kendall", "spearman"]
+    },
+    {
+      "name": "ext_ela_vs_math_dependence",
+      "csv": "outputs/ext_ela_vs_math_dependence.csv",
+      "json": "outputs/manifests/tables/ext_ela_vs_math_dependence.json",
+      "n_rows": 108,
+      "columns": ["YEAR", "YEAR_STRATUM", "GRADE", "n", "kendall", "spearman", "content"]
+    },
+    {
+      "name": "ext_lagged_by_wida_level",
+      "csv": "outputs/ext_lagged_by_wida_level.csv",
+      "json": "outputs/manifests/tables/ext_lagged_by_wida_level.json",
+      "n_rows": 307,
+      "columns": ["YEAR", "GRADE", "WIDA_LEVEL", "n", "kendall", "ilearn_pctile_median", "p_ilearn_proficient"]
+    },
+    {
+      "name": "ext_lagged_dependence",
+      "csv": "outputs/ext_lagged_dependence.csv",
+      "json": "outputs/manifests/tables/ext_lagged_dependence.json",
+      "n_rows": 48,
+      "columns": ["YEAR", "YEAR_STRATUM", "GRADE", "n", "kendall", "spearman"]
+    },
+    {
+      "name": "ext_math_by_wida_level",
+      "csv": "outputs/ext_math_by_wida_level.csv",
+      "json": "outputs/manifests/tables/ext_math_by_wida_level.json",
+      "n_rows": 347,
+      "columns": ["YEAR", "GRADE", "WIDA_LEVEL", "n", "kendall", "ilearn_pctile_median", "p_ilearn_proficient", "content"]
+    },
+    {
+      "name": "ext_never_el_gap",
+      "csv": "outputs/ext_never_el_gap.csv",
+      "json": "outputs/manifests/tables/ext_never_el_gap.json",
+      "n_rows": 347,
+      "columns": ["YEAR", "GRADE", "WIDA_LEVEL", "n_paired", "paired_median", "paired_pctile_median", "n_never_el", "never_el_median", "never_el_q25", "never_el_q75", "gap_vs_never_el", "suppress"]
+    },
+    {
+      "name": "ext_panel_first_crossing",
+      "csv": "outputs/ext_panel_first_crossing.csv",
+      "json": "outputs/manifests/tables/ext_panel_first_crossing.json",
+      "n_rows": 2,
+      "columns": ["cut", "label", "n", "ilearn_pctile_at", "p_proficient_at", "n_prior", "ilearn_pctile_prior", "p_proficient_prior"]
+    },
+    {
+      "name": "ext_sgp_vs_sgp",
+      "csv": "outputs/ext_sgp_vs_sgp.csv",
+      "json": "outputs/manifests/tables/ext_sgp_vs_sgp.json",
+      "n_rows": 39,
+      "columns": ["YEAR", "YEAR_STRATUM", "GRADE", "n", "kendall", "spearman"]
+    },
+    {
+      "name": "lagged_copula_fits",
+      "csv": "outputs/lagged_copula_fits.csv",
+      "json": "outputs/manifests/tables/lagged_copula_fits.json",
+      "n_rows": 72,
+      "columns": ["family", "n", "loglik", "aic", "bic", "tau", "rho", "df", "lambda_lower", "lambda_upper", "converged", "best_aic", "YEAR_T", "YEAR_T1", "window", "GRADE"]
+    },
+    {
+      "name": "lagged_copula_p_prof",
+      "csv": "outputs/lagged_copula_p_prof.csv",
+      "json": "outputs/manifests/tables/lagged_copula_p_prof.json",
+      "n_rows": 1128,
+      "columns": ["YEAR_T", "YEAR_T1", "window", "GRADE", "family", "u", "p_copula", "wida_pl"]
+    },
+    {
+      "name": "lagged_empirical_scan",
+      "csv": "outputs/lagged_empirical_scan.csv",
+      "json": "outputs/manifests/tables/lagged_empirical_scan.json",
+      "n_rows": 864,
+      "columns": ["cut", "n_local", "p_local", "n_ge", "p_ge", "YEAR_T", "YEAR_T1", "window", "GRADE"]
+    },
+    {
+      "name": "lagged_fifty_fifty_cut_long",
+      "csv": "outputs/lagged_fifty_fifty_cut_long.csv",
+      "json": "outputs/manifests/tables/lagged_fifty_fifty_cut_long.json",
+      "n_rows": 72,
+      "columns": ["YEAR_T", "YEAR_T1", "window", "GRADE", "n", "method", "wida_cut", "reached"]
+    },
+    {
+      "name": "lagged_fifty_fifty_cut",
+      "csv": "outputs/lagged_fifty_fifty_cut.csv",
+      "json": "outputs/manifests/tables/lagged_fifty_fifty_cut.json",
+      "n_rows": 24,
+      "columns": ["YEAR_T", "YEAR_T1", "window", "GRADE", "n", "family", "v_star", "p_never_el_proficient", "copula_u_star", "copula_cut", "copula_reached", "copula_p_at_cut", "empirical_local_cut", "empirical_cumulative_cut", "p_ge_4.3", "p_ge_5.0", "p_local_4.3", "p_local_5.0"]
+    },
+    {
+      "name": "lagged_fifty_fifty_pooled",
+      "csv": "outputs/lagged_fifty_fifty_pooled.csv",
+      "json": "outputs/manifests/tables/lagged_fifty_fifty_pooled.json",
+      "n_rows": 1,
+      "columns": ["window", "n", "family", "v_star", "p_never_el_proficient", "copula_u_star", "copula_cut", "copula_reached", "copula_p_at_cut", "empirical_local_cut", "p_ge_4.3", "p_ge_5.0", "p_local_4.3", "p_local_5.0"]
+    },
+    {
+      "name": "lagged_n_year_grade",
+      "csv": "outputs/lagged_n_year_grade.csv",
+      "json": "outputs/manifests/tables/lagged_n_year_grade.json",
+      "n_rows": 30,
+      "columns": ["YEAR_T", "YEAR_T1", "window", "GRADE", "N", "suppress"]
+    },
+    {
+      "name": "local_by_wida_level",
+      "csv": "outputs/local_by_wida_level.csv",
+      "json": "outputs/manifests/tables/local_by_wida_level.json",
+      "n_rows": 347,
+      "columns": ["YEAR", "GRADE", "WIDA_LEVEL", "n", "kendall", "ilearn_pctile_median", "ilearn_pctile_sd", "ilearn_floor_share", "p_ilearn_proficient", "suppress"]
+    },
+    {
+      "name": "local_tau_changepoints",
+      "csv": "outputs/local_tau_changepoints.csv",
+      "json": "outputs/manifests/tables/local_tau_changepoints.json",
+      "n_rows": 54,
+      "columns": ["YEAR", "GRADE", "YEAR_STRATUM", "u_break", "wida_pl_at_break", "slope_left", "slope_right", "method"]
+    },
+    {
+      "name": "local_tau_curves",
+      "csv": "outputs/local_tau_curves.csv",
+      "json": "outputs/manifests/tables/local_tau_curves.json",
+      "n_rows": 2322,
+      "columns": ["u_center", "n", "tau", "YEAR", "GRADE", "YEAR_STRATUM"]
+    },
+    {
+      "name": "local_threshold_scan",
+      "csv": "outputs/local_threshold_scan.csv",
+      "json": "outputs/manifests/tables/local_threshold_scan.json",
+      "n_rows": 1944,
+      "columns": ["cut", "n_below", "n_above", "tau_below", "tau_above", "tau_gap", "ilearn_prof_below", "ilearn_prof_above", "ilearn_pctile_below", "ilearn_pctile_above", "YEAR", "GRADE", "YEAR_STRATUM"]
+    },
+    {
+      "name": "n_never_el_reference",
+      "csv": "outputs/n_never_el_reference.csv",
+      "json": "outputs/manifests/tables/n_never_el_reference.json",
+      "n_rows": 60,
+      "columns": ["YEAR", "GRADE", "n_total", "n_el", "n_never_el", "n_el_unknown"]
+    },
+    {
+      "name": "n_pairs_wida_band",
+      "csv": "outputs/n_pairs_wida_band.csv",
+      "json": "outputs/manifests/tables/n_pairs_wida_band.json",
+      "n_rows": 216,
+      "columns": ["YEAR", "GRADE", "WIDA_BAND", "N", "ilearn_prof_rate", "suppress"]
+    },
+    {
+      "name": "n_pairs_wida_level",
+      "csv": "outputs/n_pairs_wida_level.csv",
+      "json": "outputs/manifests/tables/n_pairs_wida_level.json",
+      "n_rows": 347,
+      "columns": ["YEAR", "GRADE", "WIDA_LEVEL", "N", "suppress"]
+    },
+    {
+      "name": "n_pairs_year_grade",
+      "csv": "outputs/n_pairs_year_grade.csv",
+      "json": "outputs/manifests/tables/n_pairs_year_grade.json",
+      "n_rows": 54,
+      "columns": ["YEAR", "YEAR_STRATUM", "GRADE", "N", "suppress"]
+    },
+    {
+      "name": "n_totals",
+      "csv": "outputs/n_totals.csv",
+      "json": "outputs/manifests/tables/n_totals.json",
+      "n_rows": 1,
+      "columns": ["total_pairs", "primary_pairs", "years", "grades"]
+    },
+    {
+      "name": "n_universe_vs_paired",
+      "csv": "outputs/n_universe_vs_paired.csv",
+      "json": "outputs/manifests/tables/n_universe_vs_paired.json",
+      "n_rows": 66,
+      "columns": ["YEAR", "GRADE", "n_ilearn", "n_wida", "n_paired", "wida_pair_rate"]
+    },
+    {
+      "name": "pair_filters",
+      "csv": "outputs/pair_filters.csv",
+      "json": "outputs/manifests/tables/pair_filters.json",
+      "n_rows": 5,
+      "columns": ["filter", "value"]
+    },
+    {
+      "name": "pair_manifest",
+      "csv": "outputs/pair_manifest.csv",
+      "json": "outputs/manifests/tables/pair_manifest.json",
+      "n_rows": 9,
+      "columns": ["YEAR", "YEAR_STRATUM", "n_pairs", "n_grades", "grades", "ilearn_score_min", "ilearn_score_max", "wida_pl_min", "wida_pl_max"]
+    }
+  ],
+  "figures": [
+    {
+      "file": "02_n_heatmap.png",
+      "path": "figures/02_n_heatmap.png",
+      "pdf": "figures/02_n_heatmap.pdf"
+    },
+    {
+      "file": "03_pobs_facets_2021.png",
+      "path": "figures/03_pobs_facets_2021.png",
+      "pdf": "figures/03_pobs_facets_2021.pdf"
+    },
+    {
+      "file": "03_pobs_facets_2022.png",
+      "path": "figures/03_pobs_facets_2022.png",
+      "pdf": "figures/03_pobs_facets_2022.pdf"
+    },
+    {
+      "file": "03_pobs_facets_2023.png",
+      "path": "figures/03_pobs_facets_2023.png",
+      "pdf": "figures/03_pobs_facets_2023.pdf"
+    },
+    {
+      "file": "03_pobs_facets_2024.png",
+      "path": "figures/03_pobs_facets_2024.png",
+      "pdf": "figures/03_pobs_facets_2024.pdf"
+    },
+    {
+      "file": "03_pobs_facets_2025.png",
+      "path": "figures/03_pobs_facets_2025.png",
+      "pdf": "figures/03_pobs_facets_2025.pdf"
+    },
+    {
+      "file": "04_ilearn_by_level_2021.png",
+      "path": "figures/04_ilearn_by_level_2021.png",
+      "pdf": "figures/04_ilearn_by_level_2021.pdf"
+    },
+    {
+      "file": "04_ilearn_by_level_2022.png",
+      "path": "figures/04_ilearn_by_level_2022.png",
+      "pdf": "figures/04_ilearn_by_level_2022.pdf"
+    },
+    {
+      "file": "04_ilearn_by_level_2023.png",
+      "path": "figures/04_ilearn_by_level_2023.png",
+      "pdf": "figures/04_ilearn_by_level_2023.pdf"
+    },
+    {
+      "file": "04_ilearn_by_level_2024.png",
+      "path": "figures/04_ilearn_by_level_2024.png",
+      "pdf": "figures/04_ilearn_by_level_2024.pdf"
+    },
+    {
+      "file": "04_ilearn_by_level_2025.png",
+      "path": "figures/04_ilearn_by_level_2025.png",
+      "pdf": "figures/04_ilearn_by_level_2025.pdf"
+    },
+    {
+      "file": "04_ilearn_by_level_2026.png",
+      "path": "figures/04_ilearn_by_level_2026.png",
+      "pdf": "figures/04_ilearn_by_level_2026.pdf"
+    },
+    {
+      "file": "04_local_tau_2021.png",
+      "path": "figures/04_local_tau_2021.png",
+      "pdf": "figures/04_local_tau_2021.pdf"
+    },
+    {
+      "file": "04_local_tau_2022.png",
+      "path": "figures/04_local_tau_2022.png",
+      "pdf": "figures/04_local_tau_2022.pdf"
+    },
+    {
+      "file": "04_local_tau_2023.png",
+      "path": "figures/04_local_tau_2023.png",
+      "pdf": "figures/04_local_tau_2023.pdf"
+    },
+    {
+      "file": "04_local_tau_2024.png",
+      "path": "figures/04_local_tau_2024.png",
+      "pdf": "figures/04_local_tau_2024.pdf"
+    },
+    {
+      "file": "04_local_tau_2025.png",
+      "path": "figures/04_local_tau_2025.png",
+      "pdf": "figures/04_local_tau_2025.pdf"
+    },
+    {
+      "file": "04_local_tau_2026.png",
+      "path": "figures/04_local_tau_2026.png",
+      "pdf": "figures/04_local_tau_2026.pdf"
+    },
+    {
+      "file": "05_exit_youden_2021.png",
+      "path": "figures/05_exit_youden_2021.png",
+      "pdf": "figures/05_exit_youden_2021.pdf"
+    },
+    {
+      "file": "05_exit_youden_2022.png",
+      "path": "figures/05_exit_youden_2022.png",
+      "pdf": "figures/05_exit_youden_2022.pdf"
+    },
+    {
+      "file": "05_exit_youden_2023.png",
+      "path": "figures/05_exit_youden_2023.png",
+      "pdf": "figures/05_exit_youden_2023.pdf"
+    },
+    {
+      "file": "05_exit_youden_2024.png",
+      "path": "figures/05_exit_youden_2024.png",
+      "pdf": "figures/05_exit_youden_2024.pdf"
+    },
+    {
+      "file": "05_exit_youden_2025.png",
+      "path": "figures/05_exit_youden_2025.png",
+      "pdf": "figures/05_exit_youden_2025.pdf"
+    },
+    {
+      "file": "06_never_el_gap_primary.png",
+      "path": "figures/06_never_el_gap_primary.png",
+      "pdf": "figures/06_never_el_gap_primary.pdf"
+    },
+    {
+      "file": "07_exiter_n_heatmap.png",
+      "path": "figures/07_exiter_n_heatmap.png",
+      "pdf": "figures/07_exiter_n_heatmap.pdf"
+    },
+    {
+      "file": "07_exiter_percentile.png",
+      "path": "figures/07_exiter_percentile.png",
+      "pdf": "figures/07_exiter_percentile.pdf"
+    },
+    {
+      "file": "07_exiter_sgp.png",
+      "path": "figures/07_exiter_sgp.png",
+      "pdf": "figures/07_exiter_sgp.pdf"
+    },
+    {
+      "file": "08_lagged_fifty_fifty_by_grade.png",
+      "path": "figures/08_lagged_fifty_fifty_by_grade.png",
+      "pdf": "figures/08_lagged_fifty_fifty_by_grade.pdf"
+    },
+    {
+      "file": "08_lagged_p_prof_primary.png",
+      "path": "figures/08_lagged_p_prof_primary.png",
+      "pdf": "figures/08_lagged_p_prof_primary.pdf"
+    }
+  ]
+}

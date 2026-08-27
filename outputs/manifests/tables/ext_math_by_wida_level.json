@@ -1,0 +1,3472 @@
+[
+  {
+    "YEAR": 2017,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 390,
+    "kendall": 0.23,
+    "ilearn_pctile_median": 11.3515,
+    "p_ilearn_proficient": 0.0436,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 969,
+    "kendall": 0.1189,
+    "ilearn_pctile_median": 22.1099,
+    "p_ilearn_proficient": 0.065,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2904,
+    "kendall": 0.2089,
+    "ilearn_pctile_median": 48.9308,
+    "p_ilearn_proficient": 0.2407,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 803,
+    "kendall": 0.091,
+    "ilearn_pctile_median": 67.4323,
+    "p_ilearn_proficient": 0.4545,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 815,
+    "kendall": 0.1246,
+    "ilearn_pctile_median": 79.3602,
+    "p_ilearn_proficient": 0.6429,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 103,
+    "kendall": 0.1729,
+    "ilearn_pctile_median": 90.7701,
+    "p_ilearn_proficient": 0.8835,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 164,
+    "kendall": 0.1839,
+    "ilearn_pctile_median": 8.7883,
+    "p_ilearn_proficient": 0.0244,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 286,
+    "kendall": 0.0627,
+    "ilearn_pctile_median": 20.4818,
+    "p_ilearn_proficient": 0.042,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1467,
+    "kendall": 0.1843,
+    "ilearn_pctile_median": 38.7299,
+    "p_ilearn_proficient": 0.0716,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 612,
+    "kendall": 0.0796,
+    "ilearn_pctile_median": 60.5547,
+    "p_ilearn_proficient": 0.165,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 756,
+    "kendall": 0.1332,
+    "ilearn_pctile_median": 73.2263,
+    "p_ilearn_proficient": 0.3108,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 130,
+    "kendall": 0.1491,
+    "ilearn_pctile_median": 89.3869,
+    "p_ilearn_proficient": 0.6308,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 173,
+    "kendall": 0.1784,
+    "ilearn_pctile_median": 10.2059,
+    "p_ilearn_proficient": 0.0058,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 267,
+    "kendall": 0.1056,
+    "ilearn_pctile_median": 25.8213,
+    "p_ilearn_proficient": 0.0225,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 915,
+    "kendall": 0.1456,
+    "ilearn_pctile_median": 44.021,
+    "p_ilearn_proficient": 0.0459,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 348,
+    "kendall": 0.0415,
+    "ilearn_pctile_median": 56.9207,
+    "p_ilearn_proficient": 0.1121,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 481,
+    "kendall": 0.1282,
+    "ilearn_pctile_median": 73.4998,
+    "p_ilearn_proficient": 0.1809,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 90,
+    "kendall": 0.2288,
+    "ilearn_pctile_median": 90.0679,
+    "p_ilearn_proficient": 0.5,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 215,
+    "kendall": 0.2184,
+    "ilearn_pctile_median": 15.1911,
+    "p_ilearn_proficient": 0.0186,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 520,
+    "kendall": 0.1196,
+    "ilearn_pctile_median": 30.8714,
+    "p_ilearn_proficient": 0.0173,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1005,
+    "kendall": 0.1633,
+    "ilearn_pctile_median": 54.124,
+    "p_ilearn_proficient": 0.0478,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 198,
+    "kendall": 0.0408,
+    "ilearn_pctile_median": 73.7651,
+    "p_ilearn_proficient": 0.1818,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 180,
+    "kendall": 0.1276,
+    "ilearn_pctile_median": 85.3099,
+    "p_ilearn_proficient": 0.2667,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 26,
+    "kendall": null,
+    "ilearn_pctile_median": null,
+    "p_ilearn_proficient": null,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 260,
+    "kendall": 0.1613,
+    "ilearn_pctile_median": 16.6105,
+    "p_ilearn_proficient": 0.0077,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 485,
+    "kendall": 0.102,
+    "ilearn_pctile_median": 31.2734,
+    "p_ilearn_proficient": 0.0124,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1148,
+    "kendall": 0.1274,
+    "ilearn_pctile_median": 50.8614,
+    "p_ilearn_proficient": 0.02,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 390,
+    "kendall": 0.0681,
+    "ilearn_pctile_median": 67.2846,
+    "p_ilearn_proficient": 0.0795,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 335,
+    "kendall": 0.1084,
+    "ilearn_pctile_median": 80.9363,
+    "p_ilearn_proficient": 0.1642,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 47,
+    "kendall": null,
+    "ilearn_pctile_median": null,
+    "p_ilearn_proficient": null,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 274,
+    "kendall": 0.1607,
+    "ilearn_pctile_median": 16.2651,
+    "p_ilearn_proficient": 0.0073,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 451,
+    "kendall": 0.0724,
+    "ilearn_pctile_median": 28.2191,
+    "p_ilearn_proficient": 0.0177,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1044,
+    "kendall": 0.1483,
+    "ilearn_pctile_median": 48.5881,
+    "p_ilearn_proficient": 0.0192,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 404,
+    "kendall": 0.0016,
+    "ilearn_pctile_median": 65.4556,
+    "p_ilearn_proficient": 0.052,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 430,
+    "kendall": 0.0907,
+    "ilearn_pctile_median": 75.3106,
+    "p_ilearn_proficient": 0.1209,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 49,
+    "kendall": null,
+    "ilearn_pctile_median": null,
+    "p_ilearn_proficient": null,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 329,
+    "kendall": 0.1869,
+    "ilearn_pctile_median": 7.8738,
+    "p_ilearn_proficient": 0.0365,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 835,
+    "kendall": 0.1224,
+    "ilearn_pctile_median": 17.716,
+    "p_ilearn_proficient": 0.0527,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3341,
+    "kendall": 0.2282,
+    "ilearn_pctile_median": 42.7754,
+    "p_ilearn_proficient": 0.2484,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 1042,
+    "kendall": 0.0887,
+    "ilearn_pctile_median": 64.9937,
+    "p_ilearn_proficient": 0.523,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1364,
+    "kendall": 0.1633,
+    "ilearn_pctile_median": 77.5164,
+    "p_ilearn_proficient": 0.7082,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 248,
+    "kendall": 0.0841,
+    "ilearn_pctile_median": 89.5086,
+    "p_ilearn_proficient": 0.8992,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 140,
+    "kendall": 0.1434,
+    "ilearn_pctile_median": 5.8344,
+    "p_ilearn_proficient": 0.0143,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 277,
+    "kendall": 0.1363,
+    "ilearn_pctile_median": 12.0604,
+    "p_ilearn_proficient": 0.0433,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1661,
+    "kendall": 0.1956,
+    "ilearn_pctile_median": 27.0141,
+    "p_ilearn_proficient": 0.068,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 964,
+    "kendall": 0.0612,
+    "ilearn_pctile_median": 44.5332,
+    "p_ilearn_proficient": 0.1722,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 2155,
+    "kendall": 0.1329,
+    "ilearn_pctile_median": 61.7887,
+    "p_ilearn_proficient": 0.3485,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 957,
+    "kendall": 0.1644,
+    "ilearn_pctile_median": 79.5476,
+    "p_ilearn_proficient": 0.629,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 101,
+    "kendall": 0.1707,
+    "ilearn_pctile_median": 92.3673,
+    "p_ilearn_proficient": 0.8713,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 157,
+    "kendall": 0.2954,
+    "ilearn_pctile_median": 11.7312,
+    "p_ilearn_proficient": 0.0318,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 268,
+    "kendall": 0.0871,
+    "ilearn_pctile_median": 28.0818,
+    "p_ilearn_proficient": 0.0224,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1146,
+    "kendall": 0.1056,
+    "ilearn_pctile_median": 34.6789,
+    "p_ilearn_proficient": 0.0585,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 550,
+    "kendall": 0.0026,
+    "ilearn_pctile_median": 48.5234,
+    "p_ilearn_proficient": 0.0855,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1081,
+    "kendall": 0.1215,
+    "ilearn_pctile_median": 63.6548,
+    "p_ilearn_proficient": 0.1776,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 448,
+    "kendall": 0.1177,
+    "ilearn_pctile_median": 80.7234,
+    "p_ilearn_proficient": 0.4107,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 40,
+    "kendall": null,
+    "ilearn_pctile_median": null,
+    "p_ilearn_proficient": null,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 209,
+    "kendall": 0.2372,
+    "ilearn_pctile_median": 12.747,
+    "p_ilearn_proficient": 0.0191,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 489,
+    "kendall": 0.112,
+    "ilearn_pctile_median": 28.458,
+    "p_ilearn_proficient": 0.0184,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1274,
+    "kendall": 0.2064,
+    "ilearn_pctile_median": 50.3681,
+    "p_ilearn_proficient": 0.0557,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 286,
+    "kendall": -0.0007,
+    "ilearn_pctile_median": 69.2755,
+    "p_ilearn_proficient": 0.1329,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 281,
+    "kendall": 0.2103,
+    "ilearn_pctile_median": 84.8315,
+    "p_ilearn_proficient": 0.3203,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 40,
+    "kendall": null,
+    "ilearn_pctile_median": null,
+    "p_ilearn_proficient": null,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 232,
+    "kendall": 0.1218,
+    "ilearn_pctile_median": 15.1899,
+    "p_ilearn_proficient": 0.0086,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 480,
+    "kendall": 0.0427,
+    "ilearn_pctile_median": 32.156,
+    "p_ilearn_proficient": 0.0271,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1090,
+    "kendall": 0.1506,
+    "ilearn_pctile_median": 49.4283,
+    "p_ilearn_proficient": 0.0266,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 284,
+    "kendall": 0.1049,
+    "ilearn_pctile_median": 64.6386,
+    "p_ilearn_proficient": 0.0775,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 301,
+    "kendall": 0.1609,
+    "ilearn_pctile_median": 81.3597,
+    "p_ilearn_proficient": 0.2392,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 57,
+    "kendall": 0.2784,
+    "ilearn_pctile_median": 94.2221,
+    "p_ilearn_proficient": 0.5965,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 227,
+    "kendall": 0.2276,
+    "ilearn_pctile_median": 13.977,
+    "p_ilearn_proficient": 0.0088,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 430,
+    "kendall": 0.0481,
+    "ilearn_pctile_median": 23.2485,
+    "p_ilearn_proficient": 0.0093,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1236,
+    "kendall": 0.1335,
+    "ilearn_pctile_median": 46.9153,
+    "p_ilearn_proficient": 0.021,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 422,
+    "kendall": 0.0725,
+    "ilearn_pctile_median": 66.8526,
+    "p_ilearn_proficient": 0.0758,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 471,
+    "kendall": 0.1683,
+    "ilearn_pctile_median": 77.2395,
+    "p_ilearn_proficient": 0.1932,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 78,
+    "kendall": 0.2509,
+    "ilearn_pctile_median": 94.2227,
+    "p_ilearn_proficient": 0.5385,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 440,
+    "kendall": 0.0719,
+    "ilearn_pctile_median": 7.4609,
+    "p_ilearn_proficient": 0.0455,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 841,
+    "kendall": 0.1207,
+    "ilearn_pctile_median": 17.5326,
+    "p_ilearn_proficient": 0.0476,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3250,
+    "kendall": 0.2406,
+    "ilearn_pctile_median": 40.7943,
+    "p_ilearn_proficient": 0.2345,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 1069,
+    "kendall": 0.0814,
+    "ilearn_pctile_median": 60.4948,
+    "p_ilearn_proficient": 0.479,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1645,
+    "kendall": 0.1566,
+    "ilearn_pctile_median": 76.7773,
+    "p_ilearn_proficient": 0.7337,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 425,
+    "kendall": 0.1443,
+    "ilearn_pctile_median": 89.1536,
+    "p_ilearn_proficient": 0.8871,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 203,
+    "kendall": 0.0234,
+    "ilearn_pctile_median": 7.9812,
+    "p_ilearn_proficient": 0.0296,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 305,
+    "kendall": 0.0295,
+    "ilearn_pctile_median": 10.9324,
+    "p_ilearn_proficient": 0.0197,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1726,
+    "kendall": 0.2291,
+    "ilearn_pctile_median": 23.6437,
+    "p_ilearn_proficient": 0.0672,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 1062,
+    "kendall": 0.1257,
+    "ilearn_pctile_median": 40.8056,
+    "p_ilearn_proficient": 0.1582,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 2621,
+    "kendall": 0.1773,
+    "ilearn_pctile_median": 58.7923,
+    "p_ilearn_proficient": 0.3384,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 1293,
+    "kendall": 0.1531,
+    "ilearn_pctile_median": 80.5275,
+    "p_ilearn_proficient": 0.6411,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 125,
+    "kendall": 0.1271,
+    "ilearn_pctile_median": 91.5485,
+    "p_ilearn_proficient": 0.864,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 194,
+    "kendall": -0.0192,
+    "ilearn_pctile_median": 12.6063,
+    "p_ilearn_proficient": 0.0155,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 272,
+    "kendall": 0.1201,
+    "ilearn_pctile_median": 10.9142,
+    "p_ilearn_proficient": 0.0221,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1283,
+    "kendall": 0.1746,
+    "ilearn_pctile_median": 26.196,
+    "p_ilearn_proficient": 0.0405,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 858,
+    "kendall": 0.0948,
+    "ilearn_pctile_median": 42.5142,
+    "p_ilearn_proficient": 0.0862,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 2063,
+    "kendall": 0.1591,
+    "ilearn_pctile_median": 60.2144,
+    "p_ilearn_proficient": 0.2012,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 916,
+    "kendall": 0.1513,
+    "ilearn_pctile_median": 79.7395,
+    "p_ilearn_proficient": 0.4552,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 57,
+    "kendall": 0.1076,
+    "ilearn_pctile_median": 95.2516,
+    "p_ilearn_proficient": 0.807,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 310,
+    "kendall": -0.0035,
+    "ilearn_pctile_median": 19.4321,
+    "p_ilearn_proficient": 0.0129,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 595,
+    "kendall": 0.0985,
+    "ilearn_pctile_median": 23.0791,
+    "p_ilearn_proficient": 0.0168,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1672,
+    "kendall": 0.1902,
+    "ilearn_pctile_median": 48.8725,
+    "p_ilearn_proficient": 0.0526,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 555,
+    "kendall": 0.1425,
+    "ilearn_pctile_median": 69.1676,
+    "p_ilearn_proficient": 0.1477,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 420,
+    "kendall": 0.13,
+    "ilearn_pctile_median": 82.5167,
+    "p_ilearn_proficient": 0.3048,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 36,
+    "kendall": null,
+    "ilearn_pctile_median": null,
+    "p_ilearn_proficient": null,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 325,
+    "kendall": 0.0219,
+    "ilearn_pctile_median": 26.1498,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 546,
+    "kendall": -0.0183,
+    "ilearn_pctile_median": 27.1254,
+    "p_ilearn_proficient": 0.0128,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1141,
+    "kendall": 0.1601,
+    "ilearn_pctile_median": 48.7108,
+    "p_ilearn_proficient": 0.0263,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 386,
+    "kendall": 0.0966,
+    "ilearn_pctile_median": 68.4408,
+    "p_ilearn_proficient": 0.0803,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 365,
+    "kendall": 0.1631,
+    "ilearn_pctile_median": 82.6829,
+    "p_ilearn_proficient": 0.2137,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 101,
+    "kendall": 0.1456,
+    "ilearn_pctile_median": 93.9373,
+    "p_ilearn_proficient": 0.5941,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 334,
+    "kendall": 0.0989,
+    "ilearn_pctile_median": 19.1679,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 470,
+    "kendall": 0.013,
+    "ilearn_pctile_median": 27.0988,
+    "p_ilearn_proficient": 0.0191,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1015,
+    "kendall": 0.1174,
+    "ilearn_pctile_median": 48.867,
+    "p_ilearn_proficient": 0.0286,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 346,
+    "kendall": 0.0883,
+    "ilearn_pctile_median": 65.1189,
+    "p_ilearn_proficient": 0.0723,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 425,
+    "kendall": 0.2239,
+    "ilearn_pctile_median": 80.1077,
+    "p_ilearn_proficient": 0.2071,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 95,
+    "kendall": 0.1918,
+    "ilearn_pctile_median": 89.8217,
+    "p_ilearn_proficient": 0.4316,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 621,
+    "kendall": 0.1713,
+    "ilearn_pctile_median": 9.573,
+    "p_ilearn_proficient": 0.0193,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1192,
+    "kendall": 0.1352,
+    "ilearn_pctile_median": 20.631,
+    "p_ilearn_proficient": 0.0327,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3417,
+    "kendall": 0.2505,
+    "ilearn_pctile_median": 45.4812,
+    "p_ilearn_proficient": 0.1601,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 987,
+    "kendall": 0.0863,
+    "ilearn_pctile_median": 68.4257,
+    "p_ilearn_proficient": 0.4276,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1368,
+    "kendall": 0.1756,
+    "ilearn_pctile_median": 80.6119,
+    "p_ilearn_proficient": 0.6462,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 256,
+    "kendall": 0.1303,
+    "ilearn_pctile_median": 92.543,
+    "p_ilearn_proficient": 0.8672,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 303,
+    "kendall": 0.11,
+    "ilearn_pctile_median": 8.1995,
+    "p_ilearn_proficient": 0.0033,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 495,
+    "kendall": 0.0564,
+    "ilearn_pctile_median": 12.4096,
+    "p_ilearn_proficient": 0.0101,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2209,
+    "kendall": 0.2376,
+    "ilearn_pctile_median": 30.6091,
+    "p_ilearn_proficient": 0.0471,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 1061,
+    "kendall": 0.076,
+    "ilearn_pctile_median": 49.5783,
+    "p_ilearn_proficient": 0.1244,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 2077,
+    "kendall": 0.1306,
+    "ilearn_pctile_median": 64.9331,
+    "p_ilearn_proficient": 0.2691,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 1130,
+    "kendall": 0.177,
+    "ilearn_pctile_median": 81.3387,
+    "p_ilearn_proficient": 0.5425,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 194,
+    "kendall": 0.1511,
+    "ilearn_pctile_median": 91.7068,
+    "p_ilearn_proficient": 0.768,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 271,
+    "kendall": 0.0555,
+    "ilearn_pctile_median": 11.5484,
+    "p_ilearn_proficient": 0.0037,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 416,
+    "kendall": 0.0985,
+    "ilearn_pctile_median": 12.7768,
+    "p_ilearn_proficient": 0.0072,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1794,
+    "kendall": 0.2103,
+    "ilearn_pctile_median": 31.744,
+    "p_ilearn_proficient": 0.0201,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 846,
+    "kendall": 0.0696,
+    "ilearn_pctile_median": 48.4807,
+    "p_ilearn_proficient": 0.0615,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1798,
+    "kendall": 0.1432,
+    "ilearn_pctile_median": 64.2557,
+    "p_ilearn_proficient": 0.1429,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 958,
+    "kendall": 0.1223,
+    "ilearn_pctile_median": 80.7338,
+    "p_ilearn_proficient": 0.3132,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 103,
+    "kendall": 0.0588,
+    "ilearn_pctile_median": 90.1891,
+    "p_ilearn_proficient": 0.5825,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 269,
+    "kendall": -0.0161,
+    "ilearn_pctile_median": 17.2066,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 838,
+    "kendall": 0.128,
+    "ilearn_pctile_median": 20.9889,
+    "p_ilearn_proficient": 0.0048,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2951,
+    "kendall": 0.2307,
+    "ilearn_pctile_median": 50.0286,
+    "p_ilearn_proficient": 0.0281,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 614,
+    "kendall": 0.1186,
+    "ilearn_pctile_median": 72.7896,
+    "p_ilearn_proficient": 0.1026,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 502,
+    "kendall": 0.1517,
+    "ilearn_pctile_median": 83.0793,
+    "p_ilearn_proficient": 0.2351,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 71,
+    "kendall": 0.252,
+    "ilearn_pctile_median": 93.6833,
+    "p_ilearn_proficient": 0.4789,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 357,
+    "kendall": -0.0009,
+    "ilearn_pctile_median": 19.6675,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 790,
+    "kendall": 0.0743,
+    "ilearn_pctile_median": 22.5516,
+    "p_ilearn_proficient": 0.0025,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2473,
+    "kendall": 0.2227,
+    "ilearn_pctile_median": 48.568,
+    "p_ilearn_proficient": 0.0162,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 588,
+    "kendall": 0.0478,
+    "ilearn_pctile_median": 69.9279,
+    "p_ilearn_proficient": 0.0561,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 641,
+    "kendall": 0.1416,
+    "ilearn_pctile_median": 80.3024,
+    "p_ilearn_proficient": 0.117,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 134,
+    "kendall": -0.0212,
+    "ilearn_pctile_median": 92.7498,
+    "p_ilearn_proficient": 0.3657,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 380,
+    "kendall": 0.0548,
+    "ilearn_pctile_median": 20.4818,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 691,
+    "kendall": 0.0598,
+    "ilearn_pctile_median": 27.5137,
+    "p_ilearn_proficient": 0.0058,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1699,
+    "kendall": 0.2125,
+    "ilearn_pctile_median": 48.6681,
+    "p_ilearn_proficient": 0.0182,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 388,
+    "kendall": 0.0422,
+    "ilearn_pctile_median": 68.3599,
+    "p_ilearn_proficient": 0.0387,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 517,
+    "kendall": 0.0876,
+    "ilearn_pctile_median": 78.6498,
+    "p_ilearn_proficient": 0.1103,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 141,
+    "kendall": 0.1771,
+    "ilearn_pctile_median": 87.8297,
+    "p_ilearn_proficient": 0.2411,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 12,
+    "kendall": null,
+    "ilearn_pctile_median": null,
+    "p_ilearn_proficient": null,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 793,
+    "kendall": 0.1228,
+    "ilearn_pctile_median": 12.9561,
+    "p_ilearn_proficient": 0.0189,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1364,
+    "kendall": 0.1718,
+    "ilearn_pctile_median": 21.3763,
+    "p_ilearn_proficient": 0.0381,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3385,
+    "kendall": 0.2463,
+    "ilearn_pctile_median": 48.7218,
+    "p_ilearn_proficient": 0.2399,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 972,
+    "kendall": 0.0655,
+    "ilearn_pctile_median": 68.8074,
+    "p_ilearn_proficient": 0.5103,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1239,
+    "kendall": 0.1525,
+    "ilearn_pctile_median": 81.0065,
+    "p_ilearn_proficient": 0.7264,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 292,
+    "kendall": 0.1609,
+    "ilearn_pctile_median": 92.5602,
+    "p_ilearn_proficient": 0.9315,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 12,
+    "kendall": null,
+    "ilearn_pctile_median": null,
+    "p_ilearn_proficient": null,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 402,
+    "kendall": 0.0646,
+    "ilearn_pctile_median": 9.1167,
+    "p_ilearn_proficient": 0.0124,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 589,
+    "kendall": 0.08,
+    "ilearn_pctile_median": 13.2738,
+    "p_ilearn_proficient": 0.017,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2186,
+    "kendall": 0.2093,
+    "ilearn_pctile_median": 29.0214,
+    "p_ilearn_proficient": 0.0535,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 1085,
+    "kendall": 0.0639,
+    "ilearn_pctile_median": 48.6244,
+    "p_ilearn_proficient": 0.1456,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 2330,
+    "kendall": 0.1623,
+    "ilearn_pctile_median": 62.6342,
+    "p_ilearn_proficient": 0.3223,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 1366,
+    "kendall": 0.1416,
+    "ilearn_pctile_median": 78.599,
+    "p_ilearn_proficient": 0.5849,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 328,
+    "kendall": 0.1469,
+    "ilearn_pctile_median": 91.2152,
+    "p_ilearn_proficient": 0.8415,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 447,
+    "kendall": -0.0022,
+    "ilearn_pctile_median": 15.6676,
+    "p_ilearn_proficient": 0.0045,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 461,
+    "kendall": 0.0443,
+    "ilearn_pctile_median": 13.623,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1798,
+    "kendall": 0.1868,
+    "ilearn_pctile_median": 30.1847,
+    "p_ilearn_proficient": 0.0217,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 921,
+    "kendall": 0.0598,
+    "ilearn_pctile_median": 48.4904,
+    "p_ilearn_proficient": 0.0749,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1909,
+    "kendall": 0.1144,
+    "ilearn_pctile_median": 63.8722,
+    "p_ilearn_proficient": 0.176,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 1115,
+    "kendall": 0.1339,
+    "ilearn_pctile_median": 79.0341,
+    "p_ilearn_proficient": 0.3713,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 171,
+    "kendall": 0.1865,
+    "ilearn_pctile_median": 90.5247,
+    "p_ilearn_proficient": 0.6257,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 388,
+    "kendall": -0.0362,
+    "ilearn_pctile_median": 20.0489,
+    "p_ilearn_proficient": 0.0026,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 775,
+    "kendall": 0.077,
+    "ilearn_pctile_median": 18.5981,
+    "p_ilearn_proficient": 0.009,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3078,
+    "kendall": 0.231,
+    "ilearn_pctile_median": 48.2258,
+    "p_ilearn_proficient": 0.0296,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 752,
+    "kendall": 0.1063,
+    "ilearn_pctile_median": 72.8631,
+    "p_ilearn_proficient": 0.141,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 667,
+    "kendall": 0.1572,
+    "ilearn_pctile_median": 82.6779,
+    "p_ilearn_proficient": 0.2279,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 57,
+    "kendall": 0.234,
+    "ilearn_pctile_median": 95.0708,
+    "p_ilearn_proficient": 0.5965,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 476,
+    "kendall": -0.0089,
+    "ilearn_pctile_median": 21.6588,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 877,
+    "kendall": 0.0909,
+    "ilearn_pctile_median": 24.5165,
+    "p_ilearn_proficient": 0.008,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2778,
+    "kendall": 0.2247,
+    "ilearn_pctile_median": 47.4386,
+    "p_ilearn_proficient": 0.0173,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 721,
+    "kendall": 0.1107,
+    "ilearn_pctile_median": 70.23,
+    "p_ilearn_proficient": 0.061,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 744,
+    "kendall": 0.1342,
+    "ilearn_pctile_median": 82.0962,
+    "p_ilearn_proficient": 0.172,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 135,
+    "kendall": 0.2442,
+    "ilearn_pctile_median": 90.1289,
+    "p_ilearn_proficient": 0.3111,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 528,
+    "kendall": 0.0376,
+    "ilearn_pctile_median": 20.5525,
+    "p_ilearn_proficient": 0.0019,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 805,
+    "kendall": 0.0019,
+    "ilearn_pctile_median": 25.6262,
+    "p_ilearn_proficient": 0.0112,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2349,
+    "kendall": 0.17,
+    "ilearn_pctile_median": 46.7587,
+    "p_ilearn_proficient": 0.0213,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 667,
+    "kendall": 0.0734,
+    "ilearn_pctile_median": 66.4733,
+    "p_ilearn_proficient": 0.0585,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 885,
+    "kendall": 0.1264,
+    "ilearn_pctile_median": 78.6372,
+    "p_ilearn_proficient": 0.1446,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 189,
+    "kendall": 0.104,
+    "ilearn_pctile_median": 88.2413,
+    "p_ilearn_proficient": 0.3122,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 927,
+    "kendall": 0.0809,
+    "ilearn_pctile_median": 12.754,
+    "p_ilearn_proficient": 0.0151,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1531,
+    "kendall": 0.1423,
+    "ilearn_pctile_median": 22.7643,
+    "p_ilearn_proficient": 0.0516,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3638,
+    "kendall": 0.2608,
+    "ilearn_pctile_median": 49.5236,
+    "p_ilearn_proficient": 0.2482,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 948,
+    "kendall": 0.0603,
+    "ilearn_pctile_median": 71.2605,
+    "p_ilearn_proficient": 0.5527,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1280,
+    "kendall": 0.1491,
+    "ilearn_pctile_median": 81.5865,
+    "p_ilearn_proficient": 0.7211,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 378,
+    "kendall": 0.126,
+    "ilearn_pctile_median": 92.2856,
+    "p_ilearn_proficient": 0.9048,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 470,
+    "kendall": 0.0757,
+    "ilearn_pctile_median": 9.9248,
+    "p_ilearn_proficient": 0.0128,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 656,
+    "kendall": 0.0689,
+    "ilearn_pctile_median": 14.5175,
+    "p_ilearn_proficient": 0.0198,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2259,
+    "kendall": 0.2226,
+    "ilearn_pctile_median": 30.6752,
+    "p_ilearn_proficient": 0.0668,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 1086,
+    "kendall": 0.1177,
+    "ilearn_pctile_median": 47.7216,
+    "p_ilearn_proficient": 0.186,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 2316,
+    "kendall": 0.1586,
+    "ilearn_pctile_median": 63.426,
+    "p_ilearn_proficient": 0.3532,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 1344,
+    "kendall": 0.1096,
+    "ilearn_pctile_median": 80.4008,
+    "p_ilearn_proficient": 0.6585,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 251,
+    "kendall": 0.1442,
+    "ilearn_pctile_median": 92.5981,
+    "p_ilearn_proficient": 0.8805,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 536,
+    "kendall": 0.0896,
+    "ilearn_pctile_median": 16.3539,
+    "p_ilearn_proficient": 0.0075,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 596,
+    "kendall": 0.0051,
+    "ilearn_pctile_median": 15.757,
+    "p_ilearn_proficient": 0.0285,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1908,
+    "kendall": 0.1803,
+    "ilearn_pctile_median": 33.0941,
+    "p_ilearn_proficient": 0.0383,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 960,
+    "kendall": 0.1088,
+    "ilearn_pctile_median": 51.4767,
+    "p_ilearn_proficient": 0.0885,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 2062,
+    "kendall": 0.1385,
+    "ilearn_pctile_median": 64.4701,
+    "p_ilearn_proficient": 0.1998,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 1086,
+    "kendall": 0.1072,
+    "ilearn_pctile_median": 80.5686,
+    "p_ilearn_proficient": 0.4061,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 97,
+    "kendall": 0.1571,
+    "ilearn_pctile_median": 92.52,
+    "p_ilearn_proficient": 0.6804,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 551,
+    "kendall": 0.0813,
+    "ilearn_pctile_median": 16.1722,
+    "p_ilearn_proficient": 0.0018,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 970,
+    "kendall": 0.0846,
+    "ilearn_pctile_median": 23.5817,
+    "p_ilearn_proficient": 0.0113,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3181,
+    "kendall": 0.2449,
+    "ilearn_pctile_median": 50.9292,
+    "p_ilearn_proficient": 0.0509,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 756,
+    "kendall": 0.075,
+    "ilearn_pctile_median": 73.0926,
+    "p_ilearn_proficient": 0.1429,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 623,
+    "kendall": 0.163,
+    "ilearn_pctile_median": 83.2899,
+    "p_ilearn_proficient": 0.3178,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 50,
+    "kendall": 0.1127,
+    "ilearn_pctile_median": 95.1337,
+    "p_ilearn_proficient": 0.64,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 679,
+    "kendall": 0.0418,
+    "ilearn_pctile_median": 20.7794,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 967,
+    "kendall": 0.0612,
+    "ilearn_pctile_median": 25.0566,
+    "p_ilearn_proficient": 0.0083,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2915,
+    "kendall": 0.2032,
+    "ilearn_pctile_median": 49.3693,
+    "p_ilearn_proficient": 0.0226,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 761,
+    "kendall": 0.0544,
+    "ilearn_pctile_median": 73.197,
+    "p_ilearn_proficient": 0.0907,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 748,
+    "kendall": 0.152,
+    "ilearn_pctile_median": 81.2177,
+    "p_ilearn_proficient": 0.1591,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 112,
+    "kendall": 0.1176,
+    "ilearn_pctile_median": 94.9871,
+    "p_ilearn_proficient": 0.5268,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 702,
+    "kendall": 0.0324,
+    "ilearn_pctile_median": 21.5111,
+    "p_ilearn_proficient": 0.0028,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 991,
+    "kendall": 0.0855,
+    "ilearn_pctile_median": 27.0844,
+    "p_ilearn_proficient": 0.0071,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2657,
+    "kendall": 0.1952,
+    "ilearn_pctile_median": 48.6405,
+    "p_ilearn_proficient": 0.0384,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 777,
+    "kendall": 0.0346,
+    "ilearn_pctile_median": 69.8444,
+    "p_ilearn_proficient": 0.103,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 851,
+    "kendall": 0.1133,
+    "ilearn_pctile_median": 80.4341,
+    "p_ilearn_proficient": 0.188,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 124,
+    "kendall": 0.0898,
+    "ilearn_pctile_median": 91.8346,
+    "p_ilearn_proficient": 0.4919,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 1161,
+    "kendall": 0.1063,
+    "ilearn_pctile_median": 13.0324,
+    "p_ilearn_proficient": 0.0189,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1481,
+    "kendall": 0.1095,
+    "ilearn_pctile_median": 23.2454,
+    "p_ilearn_proficient": 0.05,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3636,
+    "kendall": 0.2446,
+    "ilearn_pctile_median": 49.8952,
+    "p_ilearn_proficient": 0.2428,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 1006,
+    "kendall": 0.0685,
+    "ilearn_pctile_median": 69.6756,
+    "p_ilearn_proficient": 0.5199,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1337,
+    "kendall": 0.1394,
+    "ilearn_pctile_median": 81.1134,
+    "p_ilearn_proficient": 0.7173,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 423,
+    "kendall": 0.1212,
+    "ilearn_pctile_median": 92.6341,
+    "p_ilearn_proficient": 0.9054,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 17,
+    "kendall": null,
+    "ilearn_pctile_median": null,
+    "p_ilearn_proficient": null,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 809,
+    "kendall": 0.0971,
+    "ilearn_pctile_median": 10.9548,
+    "p_ilearn_proficient": 0.0111,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 859,
+    "kendall": 0.0202,
+    "ilearn_pctile_median": 17.6189,
+    "p_ilearn_proficient": 0.0221,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2527,
+    "kendall": 0.2172,
+    "ilearn_pctile_median": 33.5596,
+    "p_ilearn_proficient": 0.0673,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 1003,
+    "kendall": 0.0842,
+    "ilearn_pctile_median": 51.8792,
+    "p_ilearn_proficient": 0.1765,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 2389,
+    "kendall": 0.1599,
+    "ilearn_pctile_median": 66.234,
+    "p_ilearn_proficient": 0.347,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 1360,
+    "kendall": 0.1394,
+    "ilearn_pctile_median": 82.8156,
+    "p_ilearn_proficient": 0.6544,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 258,
+    "kendall": 0.0965,
+    "ilearn_pctile_median": 91.9346,
+    "p_ilearn_proficient": 0.8876,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 803,
+    "kendall": 0.0799,
+    "ilearn_pctile_median": 16.5627,
+    "p_ilearn_proficient": 0.0062,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 705,
+    "kendall": 0.0906,
+    "ilearn_pctile_median": 20.5768,
+    "p_ilearn_proficient": 0.0255,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1966,
+    "kendall": 0.1811,
+    "ilearn_pctile_median": 35.2494,
+    "p_ilearn_proficient": 0.0351,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 857,
+    "kendall": 0.0603,
+    "ilearn_pctile_median": 51.9745,
+    "p_ilearn_proficient": 0.0735,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 2095,
+    "kendall": 0.1403,
+    "ilearn_pctile_median": 65.3222,
+    "p_ilearn_proficient": 0.2014,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 1140,
+    "kendall": 0.158,
+    "ilearn_pctile_median": 81.4692,
+    "p_ilearn_proficient": 0.4088,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 131,
+    "kendall": 0.1004,
+    "ilearn_pctile_median": 93.8426,
+    "p_ilearn_proficient": 0.7176,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 876,
+    "kendall": 0.0687,
+    "ilearn_pctile_median": 15.0954,
+    "p_ilearn_proficient": 0.0034,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1229,
+    "kendall": 0.1179,
+    "ilearn_pctile_median": 26.7351,
+    "p_ilearn_proficient": 0.0114,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3166,
+    "kendall": 0.2334,
+    "ilearn_pctile_median": 52.5231,
+    "p_ilearn_proficient": 0.0527,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 795,
+    "kendall": 0.0863,
+    "ilearn_pctile_median": 73.8866,
+    "p_ilearn_proficient": 0.1648,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 762,
+    "kendall": 0.1338,
+    "ilearn_pctile_median": 82.5043,
+    "p_ilearn_proficient": 0.2795,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 83,
+    "kendall": 0.2161,
+    "ilearn_pctile_median": 95.0766,
+    "p_ilearn_proficient": 0.6265,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 959,
+    "kendall": 0.082,
+    "ilearn_pctile_median": 22.2288,
+    "p_ilearn_proficient": 0.0021,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1161,
+    "kendall": 0.0499,
+    "ilearn_pctile_median": 27.889,
+    "p_ilearn_proficient": 0.0095,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2797,
+    "kendall": 0.2332,
+    "ilearn_pctile_median": 50.6698,
+    "p_ilearn_proficient": 0.0318,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 827,
+    "kendall": 0.053,
+    "ilearn_pctile_median": 70.6536,
+    "p_ilearn_proficient": 0.0955,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 898,
+    "kendall": 0.1549,
+    "ilearn_pctile_median": 80.8479,
+    "p_ilearn_proficient": 0.1748,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 146,
+    "kendall": 0.0579,
+    "ilearn_pctile_median": 92.7646,
+    "p_ilearn_proficient": 0.4247,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 1062,
+    "kendall": 0.0571,
+    "ilearn_pctile_median": 22.4535,
+    "p_ilearn_proficient": 0.0047,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1068,
+    "kendall": 0.0879,
+    "ilearn_pctile_median": 28.5798,
+    "p_ilearn_proficient": 0.0131,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2544,
+    "kendall": 0.201,
+    "ilearn_pctile_median": 50.4177,
+    "p_ilearn_proficient": 0.0366,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 825,
+    "kendall": 0.0199,
+    "ilearn_pctile_median": 65.9461,
+    "p_ilearn_proficient": 0.0848,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1091,
+    "kendall": 0.1127,
+    "ilearn_pctile_median": 77.3853,
+    "p_ilearn_proficient": 0.1512,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 227,
+    "kendall": 0.1153,
+    "ilearn_pctile_median": 90.0117,
+    "p_ilearn_proficient": 0.3789,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 1362,
+    "kendall": 0.1158,
+    "ilearn_pctile_median": 13.6313,
+    "p_ilearn_proficient": 0.0316,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1567,
+    "kendall": 0.1253,
+    "ilearn_pctile_median": 25.3945,
+    "p_ilearn_proficient": 0.0664,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3671,
+    "kendall": 0.2162,
+    "ilearn_pctile_median": 47.9334,
+    "p_ilearn_proficient": 0.2245,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 1101,
+    "kendall": 0.0892,
+    "ilearn_pctile_median": 67.9935,
+    "p_ilearn_proficient": 0.4877,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1636,
+    "kendall": 0.1752,
+    "ilearn_pctile_median": 79.2884,
+    "p_ilearn_proficient": 0.6877,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 466,
+    "kendall": 0.1778,
+    "ilearn_pctile_median": 90.4561,
+    "p_ilearn_proficient": 0.9034,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 19,
+    "kendall": null,
+    "ilearn_pctile_median": null,
+    "p_ilearn_proficient": null,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 768,
+    "kendall": 0.1583,
+    "ilearn_pctile_median": 11.3867,
+    "p_ilearn_proficient": 0.0195,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1012,
+    "kendall": 0.0372,
+    "ilearn_pctile_median": 18.5377,
+    "p_ilearn_proficient": 0.0306,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2296,
+    "kendall": 0.2032,
+    "ilearn_pctile_median": 34.0674,
+    "p_ilearn_proficient": 0.0919,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 1043,
+    "kendall": 0.0813,
+    "ilearn_pctile_median": 51.6061,
+    "p_ilearn_proficient": 0.1755,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 2414,
+    "kendall": 0.1393,
+    "ilearn_pctile_median": 64.5035,
+    "p_ilearn_proficient": 0.338,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 1378,
+    "kendall": 0.1409,
+    "ilearn_pctile_median": 80.4443,
+    "p_ilearn_proficient": 0.6125,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 272,
+    "kendall": 0.0996,
+    "ilearn_pctile_median": 91.4716,
+    "p_ilearn_proficient": 0.8456,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 880,
+    "kendall": 0.0739,
+    "ilearn_pctile_median": 16.4171,
+    "p_ilearn_proficient": 0.0068,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 854,
+    "kendall": 0.0174,
+    "ilearn_pctile_median": 23.224,
+    "p_ilearn_proficient": 0.0293,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1964,
+    "kendall": 0.1524,
+    "ilearn_pctile_median": 34.9752,
+    "p_ilearn_proficient": 0.0377,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 872,
+    "kendall": 0.0696,
+    "ilearn_pctile_median": 53.9913,
+    "p_ilearn_proficient": 0.0906,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 2132,
+    "kendall": 0.1024,
+    "ilearn_pctile_median": 65.5507,
+    "p_ilearn_proficient": 0.2022,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 1184,
+    "kendall": 0.1217,
+    "ilearn_pctile_median": 79.1646,
+    "p_ilearn_proficient": 0.386,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 193,
+    "kendall": 0.1859,
+    "ilearn_pctile_median": 92.4196,
+    "p_ilearn_proficient": 0.6321,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 849,
+    "kendall": 0.1668,
+    "ilearn_pctile_median": 15.4468,
+    "p_ilearn_proficient": 0.0035,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1296,
+    "kendall": 0.086,
+    "ilearn_pctile_median": 27.5805,
+    "p_ilearn_proficient": 0.0139,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3107,
+    "kendall": 0.2246,
+    "ilearn_pctile_median": 52.5624,
+    "p_ilearn_proficient": 0.0605,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 814,
+    "kendall": 0.0686,
+    "ilearn_pctile_median": 72.8093,
+    "p_ilearn_proficient": 0.1744,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 762,
+    "kendall": 0.1212,
+    "ilearn_pctile_median": 83.4777,
+    "p_ilearn_proficient": 0.3228,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 94,
+    "kendall": 0.0488,
+    "ilearn_pctile_median": 95.2721,
+    "p_ilearn_proficient": 0.6915,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 1083,
+    "kendall": 0.1053,
+    "ilearn_pctile_median": 21.5722,
+    "p_ilearn_proficient": 0.0065,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1259,
+    "kendall": 0.0532,
+    "ilearn_pctile_median": 29.2578,
+    "p_ilearn_proficient": 0.0103,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2980,
+    "kendall": 0.1979,
+    "ilearn_pctile_median": 49.305,
+    "p_ilearn_proficient": 0.0409,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 859,
+    "kendall": 0.0849,
+    "ilearn_pctile_median": 69.5412,
+    "p_ilearn_proficient": 0.0838,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1025,
+    "kendall": 0.118,
+    "ilearn_pctile_median": 81.8489,
+    "p_ilearn_proficient": 0.2273,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 199,
+    "kendall": 0.2476,
+    "ilearn_pctile_median": 93.3603,
+    "p_ilearn_proficient": 0.5327,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 1105,
+    "kendall": 0.1203,
+    "ilearn_pctile_median": 20.9551,
+    "p_ilearn_proficient": 0.01,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1069,
+    "kendall": 0.0184,
+    "ilearn_pctile_median": 30.5342,
+    "p_ilearn_proficient": 0.0234,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2549,
+    "kendall": 0.1657,
+    "ilearn_pctile_median": 47.2032,
+    "p_ilearn_proficient": 0.0432,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 883,
+    "kendall": 0.0698,
+    "ilearn_pctile_median": 66.3683,
+    "p_ilearn_proficient": 0.1053,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1247,
+    "kendall": 0.0966,
+    "ilearn_pctile_median": 76.9613,
+    "p_ilearn_proficient": 0.1957,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 289,
+    "kendall": 0.1576,
+    "ilearn_pctile_median": 89.2672,
+    "p_ilearn_proficient": 0.4775,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 936,
+    "kendall": 0.0952,
+    "ilearn_pctile_median": 13.8509,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1312,
+    "kendall": 0.075,
+    "ilearn_pctile_median": 22.0454,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 4226,
+    "kendall": 0.2296,
+    "ilearn_pctile_median": 45.35,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 1210,
+    "kendall": 0.0652,
+    "ilearn_pctile_median": 64.6143,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1817,
+    "kendall": 0.1392,
+    "ilearn_pctile_median": 78.4999,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 472,
+    "kendall": 0.0579,
+    "ilearn_pctile_median": 88.4543,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 112,
+    "kendall": 0.0857,
+    "ilearn_pctile_median": 94.4428,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 489,
+    "kendall": 0.1465,
+    "ilearn_pctile_median": 10.3653,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 547,
+    "kendall": 0.0376,
+    "ilearn_pctile_median": 15.8034,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1762,
+    "kendall": 0.152,
+    "ilearn_pctile_median": 28.2124,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 1092,
+    "kendall": 0.0775,
+    "ilearn_pctile_median": 43.0702,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 2697,
+    "kendall": 0.1504,
+    "ilearn_pctile_median": 59.8426,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 1641,
+    "kendall": 0.1631,
+    "ilearn_pctile_median": 77.3549,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 285,
+    "kendall": 0.1419,
+    "ilearn_pctile_median": 91.238,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 580,
+    "kendall": 0.081,
+    "ilearn_pctile_median": 17.8485,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 562,
+    "kendall": 0.0429,
+    "ilearn_pctile_median": 25.2292,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1806,
+    "kendall": 0.1346,
+    "ilearn_pctile_median": 34.5915,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 992,
+    "kendall": 0.0823,
+    "ilearn_pctile_median": 47.1151,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 2131,
+    "kendall": 0.1247,
+    "ilearn_pctile_median": 62.1933,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 1243,
+    "kendall": 0.1261,
+    "ilearn_pctile_median": 79.1116,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 103,
+    "kendall": 0.1153,
+    "ilearn_pctile_median": 90.887,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 631,
+    "kendall": 0.0619,
+    "ilearn_pctile_median": 18.1518,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1145,
+    "kendall": 0.0742,
+    "ilearn_pctile_median": 27.3929,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3065,
+    "kendall": 0.2181,
+    "ilearn_pctile_median": 49.7446,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 875,
+    "kendall": 0.0682,
+    "ilearn_pctile_median": 72.0586,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 844,
+    "kendall": 0.089,
+    "ilearn_pctile_median": 79.7596,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 87,
+    "kendall": 0.0746,
+    "ilearn_pctile_median": 90.4583,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 780,
+    "kendall": 0.0605,
+    "ilearn_pctile_median": 24.0368,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1126,
+    "kendall": 0.0798,
+    "ilearn_pctile_median": 30.4874,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2779,
+    "kendall": 0.1631,
+    "ilearn_pctile_median": 47.5992,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 906,
+    "kendall": 0.0323,
+    "ilearn_pctile_median": 66.6813,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1104,
+    "kendall": 0.1705,
+    "ilearn_pctile_median": 79.4804,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 140,
+    "kendall": 0.1548,
+    "ilearn_pctile_median": 92.9729,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 16,
+    "kendall": null,
+    "ilearn_pctile_median": null,
+    "p_ilearn_proficient": null,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 871,
+    "kendall": 0.0794,
+    "ilearn_pctile_median": 21.8073,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1083,
+    "kendall": 0.0354,
+    "ilearn_pctile_median": 29.3249,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2573,
+    "kendall": 0.1556,
+    "ilearn_pctile_median": 46.4487,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 943,
+    "kendall": 0.0306,
+    "ilearn_pctile_median": 64.782,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1364,
+    "kendall": 0.1285,
+    "ilearn_pctile_median": 76.9198,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 236,
+    "kendall": 0.0938,
+    "ilearn_pctile_median": 87.4473,
+    "p_ilearn_proficient": 0,
+    "content": "MATHEMATICS"
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 39,
+    "kendall": null,
+    "ilearn_pctile_median": null,
+    "p_ilearn_proficient": null,
+    "content": "MATHEMATICS"
+  }
+]

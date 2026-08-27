@@ -1,0 +1,4 @@
+YEAR_STRATUM,n_cells,best_cut_median,best_cut_min,best_cut_max,best_cut_sd
+ilearn_2019,6,4.2,4.1,4.7,0.264
+istep_contrast,12,4.2,3.8,4.7,0.307
+primary,30,4.05,3.8,4.7,0.319

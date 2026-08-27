@@ -1,0 +1,482 @@
+[
+  {
+    "YEAR": 2016,
+    "GRADE": 3,
+    "n_total": 85400,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 85400
+  },
+  {
+    "YEAR": 2016,
+    "GRADE": 4,
+    "n_total": 82977,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 82977
+  },
+  {
+    "YEAR": 2016,
+    "GRADE": 5,
+    "n_total": 81923,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 81923
+  },
+  {
+    "YEAR": 2016,
+    "GRADE": 6,
+    "n_total": 82981,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 82981
+  },
+  {
+    "YEAR": 2016,
+    "GRADE": 7,
+    "n_total": 80859,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 80859
+  },
+  {
+    "YEAR": 2016,
+    "GRADE": 8,
+    "n_total": 82085,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 82085
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 3,
+    "n_total": 85176,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 85176
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 4,
+    "n_total": 84224,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 84224
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 5,
+    "n_total": 83418,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 83418
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 6,
+    "n_total": 81943,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 81943
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 7,
+    "n_total": 82813,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 82813
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 8,
+    "n_total": 80754,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 80754
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "n_total": 83500,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 83500
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "n_total": 85237,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 85237
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "n_total": 85171,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 85171
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "n_total": 83810,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 83810
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "n_total": 82277,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 82277
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "n_total": 82992,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 82992
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "n_total": 83072,
+    "n_el": 7511,
+    "n_never_el": 74406,
+    "n_el_unknown": 1155
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "n_total": 84147,
+    "n_el": 7197,
+    "n_never_el": 75957,
+    "n_el_unknown": 993
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "n_total": 86381,
+    "n_el": 5540,
+    "n_never_el": 79871,
+    "n_el_unknown": 970
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "n_total": 85832,
+    "n_el": 3459,
+    "n_never_el": 81422,
+    "n_el_unknown": 951
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "n_total": 84590,
+    "n_el": 2771,
+    "n_never_el": 80890,
+    "n_el_unknown": 929
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "n_total": 82991,
+    "n_el": 2604,
+    "n_never_el": 79542,
+    "n_el_unknown": 845
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "n_total": 79376,
+    "n_el": 7751,
+    "n_never_el": 70376,
+    "n_el_unknown": 1249
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "n_total": 78964,
+    "n_el": 7365,
+    "n_never_el": 70434,
+    "n_el_unknown": 1165
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "n_total": 80278,
+    "n_el": 6081,
+    "n_never_el": 73121,
+    "n_el_unknown": 1076
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "n_total": 81590,
+    "n_el": 5188,
+    "n_never_el": 75391,
+    "n_el_unknown": 1011
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "n_total": 83006,
+    "n_el": 4943,
+    "n_never_el": 77107,
+    "n_el_unknown": 956
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "n_total": 82601,
+    "n_el": 3795,
+    "n_never_el": 77869,
+    "n_el_unknown": 937
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "n_total": 79912,
+    "n_el": 7696,
+    "n_never_el": 70989,
+    "n_el_unknown": 1227
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "n_total": 81000,
+    "n_el": 7885,
+    "n_never_el": 71980,
+    "n_el_unknown": 1135
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "n_total": 81100,
+    "n_el": 6479,
+    "n_never_el": 73518,
+    "n_el_unknown": 1103
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "n_total": 82179,
+    "n_el": 5450,
+    "n_never_el": 75602,
+    "n_el_unknown": 1127
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "n_total": 83344,
+    "n_el": 5433,
+    "n_never_el": 76792,
+    "n_el_unknown": 1119
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "n_total": 84989,
+    "n_el": 5111,
+    "n_never_el": 78718,
+    "n_el_unknown": 1160
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "n_total": 82145,
+    "n_el": 8153,
+    "n_never_el": 73992,
+    "n_el_unknown": 0
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "n_total": 80453,
+    "n_el": 7869,
+    "n_never_el": 72584,
+    "n_el_unknown": 0
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "n_total": 81840,
+    "n_el": 6827,
+    "n_never_el": 75013,
+    "n_el_unknown": 0
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "n_total": 81611,
+    "n_el": 5762,
+    "n_never_el": 75849,
+    "n_el_unknown": 0
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "n_total": 82341,
+    "n_el": 5805,
+    "n_never_el": 76536,
+    "n_el_unknown": 0
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "n_total": 83571,
+    "n_el": 5705,
+    "n_never_el": 77866,
+    "n_el_unknown": 0
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "n_total": 81779,
+    "n_el": 8560,
+    "n_never_el": 73219,
+    "n_el_unknown": 0
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "n_total": 82893,
+    "n_el": 8703,
+    "n_never_el": 74190,
+    "n_el_unknown": 0
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "n_total": 81242,
+    "n_el": 7215,
+    "n_never_el": 74027,
+    "n_el_unknown": 0
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "n_total": 82558,
+    "n_el": 6452,
+    "n_never_el": 76106,
+    "n_el_unknown": 0
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "n_total": 82151,
+    "n_el": 6292,
+    "n_never_el": 75859,
+    "n_el_unknown": 0
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "n_total": 83001,
+    "n_el": 6388,
+    "n_never_el": 76613,
+    "n_el_unknown": 0
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "n_total": 84260,
+    "n_el": 9447,
+    "n_never_el": 74811,
+    "n_el_unknown": 2
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "n_total": 82139,
+    "n_el": 8957,
+    "n_never_el": 73179,
+    "n_el_unknown": 3
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "n_total": 83393,
+    "n_el": 7934,
+    "n_never_el": 75457,
+    "n_el_unknown": 2
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "n_total": 81789,
+    "n_el": 6742,
+    "n_never_el": 75045,
+    "n_el_unknown": 2
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "n_total": 82843,
+    "n_el": 7164,
+    "n_never_el": 75676,
+    "n_el_unknown": 3
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "n_total": 82447,
+    "n_el": 6928,
+    "n_never_el": 75518,
+    "n_el_unknown": 1
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "n_total": 83739,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 83739
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "n_total": 81274,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 81274
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "n_total": 82124,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 82124
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "n_total": 83208,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 83208
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "n_total": 81558,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 81558
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "n_total": 82741,
+    "n_el": 0,
+    "n_never_el": 0,
+    "n_el_unknown": 82741
+  }
+]

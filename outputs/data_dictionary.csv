@@ -1,0 +1,19 @@
+column,meaning
+ID,"De-identified student id (join key; cache only, never committed)."
+YEAR,School year (spring administration).
+GRADE,Grade (3-8 in scope).
+WIDA_SCORE,WIDA ACCESS Overall composite scale score (native scale for the year).
+WIDA_SCORE_OLD,WIDA Overall composite on the pre-2026 OLD scale where available.
+WIDA_LEVEL,"WIDA achievement level bucket (L1..L6, plus the 4.3 provisional band)."
+WIDA_PL,WIDA decimal proficiency level (ACHIEVEMENT_LEVEL_ORIGINAL).
+ILEARN_SCORE,"ILEARN/ISTEP ELA (or Math) scale score, native scale for the year."
+ILEARN_SCORE_OLD,ILEARN score on the equated OLD scale where available.
+ILEARN_LEVEL,ILEARN achievement level label.
+EL_STATUS,English learner status flag from the ILEARN demographics.
+U_WIDA,"WIDA within-cell pseudo-observation (rank in (0,1)) by year x grade."
+V_ILEARN,ILEARN within-cell pseudo-observation by year x grade.
+WIDA_BAND,"Coarse WIDA policy band (<4.0, 4.0-4.2, 4.3-4.9, >=5.0)."
+ILEARN_PCTILE,ILEARN percentile within year x grade (0-100).
+ILEARN_PROFICIENT,"Logical ILEARN proficiency (At/Above), NA if unrecognized."
+ILEARN_SGP,ILEARN cohort-referenced SGP (growth extension; secondary).
+WIDA_SGP,WIDA ACCESS cohort-referenced SGP (growth extension; secondary).

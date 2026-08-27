@@ -1,0 +1,38 @@
+[
+  {
+    "GRADE": 3,
+    "best_cut_median": 3.9,
+    "best_cut_sd": 0.045,
+    "n_years": 5
+  },
+  {
+    "GRADE": 4,
+    "best_cut_median": 4.5,
+    "best_cut_sd": 0.089,
+    "n_years": 5
+  },
+  {
+    "GRADE": 5,
+    "best_cut_median": 4.6,
+    "best_cut_sd": 0.164,
+    "n_years": 5
+  },
+  {
+    "GRADE": 6,
+    "best_cut_median": 3.9,
+    "best_cut_sd": 0.055,
+    "n_years": 5
+  },
+  {
+    "GRADE": 7,
+    "best_cut_median": 4.1,
+    "best_cut_sd": 0.089,
+    "n_years": 5
+  },
+  {
+    "GRADE": 8,
+    "best_cut_median": 4,
+    "best_cut_sd": 0.1,
+    "n_years": 5
+  }
+]

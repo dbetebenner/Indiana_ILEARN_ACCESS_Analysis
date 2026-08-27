@@ -1,0 +1,722 @@
+[
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 8,
+    "n": 4846,
+    "method": "copula",
+    "wida_cut": 5,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 7,
+    "n": 5080,
+    "method": "copula",
+    "wida_cut": null,
+    "reached": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 6,
+    "n": 5999,
+    "method": "copula",
+    "wida_cut": 5.6,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 5,
+    "n": 7251,
+    "method": "copula",
+    "wida_cut": 5.1,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 4,
+    "n": 7594,
+    "method": "copula",
+    "wida_cut": 4.5,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 3,
+    "n": 7176,
+    "method": "copula",
+    "wida_cut": 4.1,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 8,
+    "n": 5498,
+    "method": "copula",
+    "wida_cut": 4.8,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 7,
+    "n": 5456,
+    "method": "copula",
+    "wida_cut": null,
+    "reached": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 5,
+    "n": 7987,
+    "method": "copula",
+    "wida_cut": 5.2,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 6,
+    "n": 6577,
+    "method": "copula",
+    "wida_cut": 5.6,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 4,
+    "n": 7747,
+    "method": "copula",
+    "wida_cut": 4.3,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 3,
+    "n": 7759,
+    "method": "copula",
+    "wida_cut": 4,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 8,
+    "n": 5924,
+    "method": "copula",
+    "wida_cut": 4.6,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 7,
+    "n": 5838,
+    "method": "copula",
+    "wida_cut": 4.7,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 6,
+    "n": 6945,
+    "method": "copula",
+    "wida_cut": 5.4,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 5,
+    "n": 8070,
+    "method": "copula",
+    "wida_cut": 5,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 4,
+    "n": 8383,
+    "method": "copula",
+    "wida_cut": 4.2,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 3,
+    "n": 7923,
+    "method": "copula",
+    "wida_cut": 4,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 8,
+    "n": 6468,
+    "method": "copula",
+    "wida_cut": null,
+    "reached": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 7,
+    "n": 6563,
+    "method": "copula",
+    "wida_cut": null,
+    "reached": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 6,
+    "n": 7355,
+    "method": "copula",
+    "wida_cut": 5.6,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 5,
+    "n": 8828,
+    "method": "copula",
+    "wida_cut": 5,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 4,
+    "n": 8642,
+    "method": "copula",
+    "wida_cut": 4.3,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 3,
+    "n": 8784,
+    "method": "copula",
+    "wida_cut": 4.1,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 8,
+    "n": 4846,
+    "method": "empirical_local",
+    "wida_cut": 5.1,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 7,
+    "n": 5080,
+    "method": "empirical_local",
+    "wida_cut": 4.8,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 6,
+    "n": 5999,
+    "method": "empirical_local",
+    "wida_cut": null,
+    "reached": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 5,
+    "n": 7251,
+    "method": "empirical_local",
+    "wida_cut": 5.1,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 4,
+    "n": 7594,
+    "method": "empirical_local",
+    "wida_cut": 4.5,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 3,
+    "n": 7176,
+    "method": "empirical_local",
+    "wida_cut": 4.2,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 8,
+    "n": 5498,
+    "method": "empirical_local",
+    "wida_cut": 4.9,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 7,
+    "n": 5456,
+    "method": "empirical_local",
+    "wida_cut": 5,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 5,
+    "n": 7987,
+    "method": "empirical_local",
+    "wida_cut": 5.3,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 6,
+    "n": 6577,
+    "method": "empirical_local",
+    "wida_cut": null,
+    "reached": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 4,
+    "n": 7747,
+    "method": "empirical_local",
+    "wida_cut": 4.4,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 3,
+    "n": 7759,
+    "method": "empirical_local",
+    "wida_cut": 4.2,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 8,
+    "n": 5924,
+    "method": "empirical_local",
+    "wida_cut": 4.8,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 7,
+    "n": 5838,
+    "method": "empirical_local",
+    "wida_cut": 4.8,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 6,
+    "n": 6945,
+    "method": "empirical_local",
+    "wida_cut": null,
+    "reached": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 5,
+    "n": 8070,
+    "method": "empirical_local",
+    "wida_cut": 5.2,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 4,
+    "n": 8383,
+    "method": "empirical_local",
+    "wida_cut": 4.4,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 3,
+    "n": 7923,
+    "method": "empirical_local",
+    "wida_cut": 4.1,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 8,
+    "n": 6468,
+    "method": "empirical_local",
+    "wida_cut": 4.8,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 7,
+    "n": 6563,
+    "method": "empirical_local",
+    "wida_cut": 5,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 6,
+    "n": 7355,
+    "method": "empirical_local",
+    "wida_cut": null,
+    "reached": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 5,
+    "n": 8828,
+    "method": "empirical_local",
+    "wida_cut": 5.2,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 4,
+    "n": 8642,
+    "method": "empirical_local",
+    "wida_cut": 4.5,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 3,
+    "n": 8784,
+    "method": "empirical_local",
+    "wida_cut": 4.2,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 8,
+    "n": 4846,
+    "method": "empirical_cumulative",
+    "wida_cut": 4.8,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 7,
+    "n": 5080,
+    "method": "empirical_cumulative",
+    "wida_cut": 4.6,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 6,
+    "n": 5999,
+    "method": "empirical_cumulative",
+    "wida_cut": 5.5,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 5,
+    "n": 7251,
+    "method": "empirical_cumulative",
+    "wida_cut": 4.7,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 4,
+    "n": 7594,
+    "method": "empirical_cumulative",
+    "wida_cut": 3.9,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 3,
+    "n": 7176,
+    "method": "empirical_cumulative",
+    "wida_cut": 3.7,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 8,
+    "n": 5498,
+    "method": "empirical_cumulative",
+    "wida_cut": 4.7,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 7,
+    "n": 5456,
+    "method": "empirical_cumulative",
+    "wida_cut": 4.8,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 5,
+    "n": 7987,
+    "method": "empirical_cumulative",
+    "wida_cut": 4.7,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 6,
+    "n": 6577,
+    "method": "empirical_cumulative",
+    "wida_cut": 5.3,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 4,
+    "n": 7747,
+    "method": "empirical_cumulative",
+    "wida_cut": 3.9,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 3,
+    "n": 7759,
+    "method": "empirical_cumulative",
+    "wida_cut": 3.7,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 8,
+    "n": 5924,
+    "method": "empirical_cumulative",
+    "wida_cut": 4.3,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 7,
+    "n": 5838,
+    "method": "empirical_cumulative",
+    "wida_cut": 4.6,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 6,
+    "n": 6945,
+    "method": "empirical_cumulative",
+    "wida_cut": 5.2,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 5,
+    "n": 8070,
+    "method": "empirical_cumulative",
+    "wida_cut": 4.7,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 4,
+    "n": 8383,
+    "method": "empirical_cumulative",
+    "wida_cut": 3.9,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 3,
+    "n": 7923,
+    "method": "empirical_cumulative",
+    "wida_cut": 3.7,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 8,
+    "n": 6468,
+    "method": "empirical_cumulative",
+    "wida_cut": 4.5,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 7,
+    "n": 6563,
+    "method": "empirical_cumulative",
+    "wida_cut": 4.8,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 6,
+    "n": 7355,
+    "method": "empirical_cumulative",
+    "wida_cut": 5.2,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 5,
+    "n": 8828,
+    "method": "empirical_cumulative",
+    "wida_cut": 4.6,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 4,
+    "n": 8642,
+    "method": "empirical_cumulative",
+    "wida_cut": 3.9,
+    "reached": true
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 3,
+    "n": 8784,
+    "method": "empirical_cumulative",
+    "wida_cut": 3.8,
+    "reached": true
+  }
+]

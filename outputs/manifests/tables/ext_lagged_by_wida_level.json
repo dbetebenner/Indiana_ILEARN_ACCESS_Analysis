@@ -1,0 +1,2765 @@
+[
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 317,
+    "kendall": 0.0443,
+    "ilearn_pctile_median": 10.7955,
+    "p_ilearn_proficient": 0.0095
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1482,
+    "kendall": 0.1598,
+    "ilearn_pctile_median": 23.4433,
+    "p_ilearn_proficient": 0.0148
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3295,
+    "kendall": 0.2677,
+    "ilearn_pctile_median": 52.1793,
+    "p_ilearn_proficient": 0.1542
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 639,
+    "kendall": 0.0587,
+    "ilearn_pctile_median": 77.1015,
+    "p_ilearn_proficient": 0.4507
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 611,
+    "kendall": 0.1231,
+    "ilearn_pctile_median": 87.5156,
+    "p_ilearn_proficient": 0.6972
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 78,
+    "kendall": 0.0758,
+    "ilearn_pctile_median": 95.7737,
+    "p_ilearn_proficient": 0.9103
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 345,
+    "kendall": 0.1503,
+    "ilearn_pctile_median": 8.9111,
+    "p_ilearn_proficient": 0.0145
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 913,
+    "kendall": 0.1665,
+    "ilearn_pctile_median": 20.3136,
+    "p_ilearn_proficient": 0.0099
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2801,
+    "kendall": 0.2259,
+    "ilearn_pctile_median": 48.8589,
+    "p_ilearn_proficient": 0.086
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 784,
+    "kendall": 0.1141,
+    "ilearn_pctile_median": 69.0418,
+    "p_ilearn_proficient": 0.2156
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 797,
+    "kendall": 0.1141,
+    "ilearn_pctile_median": 82.1254,
+    "p_ilearn_proficient": 0.4228
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 98,
+    "kendall": 0.1219,
+    "ilearn_pctile_median": 91.6289,
+    "p_ilearn_proficient": 0.6429
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 147,
+    "kendall": 0.1717,
+    "ilearn_pctile_median": 9.8015,
+    "p_ilearn_proficient": 0.0136
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 269,
+    "kendall": 0.0296,
+    "ilearn_pctile_median": 17.771,
+    "p_ilearn_proficient": 0.0297
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1411,
+    "kendall": 0.2239,
+    "ilearn_pctile_median": 39.7252,
+    "p_ilearn_proficient": 0.0191
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 591,
+    "kendall": 0.077,
+    "ilearn_pctile_median": 59.1603,
+    "p_ilearn_proficient": 0.0508
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 727,
+    "kendall": 0.1857,
+    "ilearn_pctile_median": 77.5878,
+    "p_ilearn_proficient": 0.1733
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 121,
+    "kendall": 0.1256,
+    "ilearn_pctile_median": 90.8244,
+    "p_ilearn_proficient": 0.4463
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 158,
+    "kendall": 0.0944,
+    "ilearn_pctile_median": 13.813,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 253,
+    "kendall": 0.1213,
+    "ilearn_pctile_median": 21.4253,
+    "p_ilearn_proficient": 0.004
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 862,
+    "kendall": 0.1881,
+    "ilearn_pctile_median": 41.9482,
+    "p_ilearn_proficient": 0.0151
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 330,
+    "kendall": 0.0824,
+    "ilearn_pctile_median": 62.5868,
+    "p_ilearn_proficient": 0.0576
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 464,
+    "kendall": 0.1624,
+    "ilearn_pctile_median": 75.081,
+    "p_ilearn_proficient": 0.1358
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 86,
+    "kendall": 0.2581,
+    "ilearn_pctile_median": 92.6307,
+    "p_ilearn_proficient": 0.4651
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 188,
+    "kendall": 0.1786,
+    "ilearn_pctile_median": 11.9871,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 477,
+    "kendall": 0.2075,
+    "ilearn_pctile_median": 27.2862,
+    "p_ilearn_proficient": 0.0042
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 969,
+    "kendall": 0.2014,
+    "ilearn_pctile_median": 54.9679,
+    "p_ilearn_proficient": 0.0258
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 196,
+    "kendall": 0.0877,
+    "ilearn_pctile_median": 76.3223,
+    "p_ilearn_proficient": 0.1633
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 170,
+    "kendall": 0.224,
+    "ilearn_pctile_median": 87.259,
+    "p_ilearn_proficient": 0.2765
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 21,
+    "kendall": null,
+    "ilearn_pctile_median": null,
+    "p_ilearn_proficient": null
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 229,
+    "kendall": 0.1159,
+    "ilearn_pctile_median": 11.2302,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 463,
+    "kendall": 0.1379,
+    "ilearn_pctile_median": 27.2817,
+    "p_ilearn_proficient": 0.0065
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1089,
+    "kendall": 0.2052,
+    "ilearn_pctile_median": 50.0198,
+    "p_ilearn_proficient": 0.0376
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 370,
+    "kendall": 0.0958,
+    "ilearn_pctile_median": 69.4841,
+    "p_ilearn_proficient": 0.1054
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 319,
+    "kendall": 0.1814,
+    "ilearn_pctile_median": 83.0754,
+    "p_ilearn_proficient": 0.2414
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 45,
+    "kendall": null,
+    "ilearn_pctile_median": null,
+    "p_ilearn_proficient": null
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 274,
+    "kendall": 0.1371,
+    "ilearn_pctile_median": 11.5555,
+    "p_ilearn_proficient": 0.0036
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1250,
+    "kendall": 0.154,
+    "ilearn_pctile_median": 21.5799,
+    "p_ilearn_proficient": 0.0256
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3633,
+    "kendall": 0.2622,
+    "ilearn_pctile_median": 47.8821,
+    "p_ilearn_proficient": 0.1836
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 785,
+    "kendall": 0.165,
+    "ilearn_pctile_median": 72.5816,
+    "p_ilearn_proficient": 0.4917
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 912,
+    "kendall": 0.1728,
+    "ilearn_pctile_median": 85.8042,
+    "p_ilearn_proficient": 0.7533
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 131,
+    "kendall": 0.2048,
+    "ilearn_pctile_median": 93.8967,
+    "p_ilearn_proficient": 0.916
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 301,
+    "kendall": 0.0223,
+    "ilearn_pctile_median": 10.5716,
+    "p_ilearn_proficient": 0.0166
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 789,
+    "kendall": 0.1161,
+    "ilearn_pctile_median": 17.301,
+    "p_ilearn_proficient": 0.0089
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3224,
+    "kendall": 0.2419,
+    "ilearn_pctile_median": 41.411,
+    "p_ilearn_proficient": 0.1005
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 1021,
+    "kendall": 0.0599,
+    "ilearn_pctile_median": 66.6281,
+    "p_ilearn_proficient": 0.3193
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1337,
+    "kendall": 0.1735,
+    "ilearn_pctile_median": 78.4298,
+    "p_ilearn_proficient": 0.5176
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 234,
+    "kendall": 0.0921,
+    "ilearn_pctile_median": 92.1165,
+    "p_ilearn_proficient": 0.8034
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 117,
+    "kendall": 0.0838,
+    "ilearn_pctile_median": 8.4203,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 258,
+    "kendall": 0.0813,
+    "ilearn_pctile_median": 11.078,
+    "p_ilearn_proficient": 0.0194
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1602,
+    "kendall": 0.2223,
+    "ilearn_pctile_median": 26.6435,
+    "p_ilearn_proficient": 0.0287
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 947,
+    "kendall": 0.0583,
+    "ilearn_pctile_median": 44.7094,
+    "p_ilearn_proficient": 0.076
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 2090,
+    "kendall": 0.1319,
+    "ilearn_pctile_median": 61.5582,
+    "p_ilearn_proficient": 0.2392
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 929,
+    "kendall": 0.1429,
+    "ilearn_pctile_median": 82.2156,
+    "p_ilearn_proficient": 0.5371
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 95,
+    "kendall": 0.1817,
+    "ilearn_pctile_median": 94.4527,
+    "p_ilearn_proficient": 0.8632
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 131,
+    "kendall": 0.0838,
+    "ilearn_pctile_median": 11.1491,
+    "p_ilearn_proficient": 0.0076
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 245,
+    "kendall": 0.0595,
+    "ilearn_pctile_median": 16.1106,
+    "p_ilearn_proficient": 0.0082
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1088,
+    "kendall": 0.1681,
+    "ilearn_pctile_median": 33.0268,
+    "p_ilearn_proficient": 0.0193
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 531,
+    "kendall": 0.0657,
+    "ilearn_pctile_median": 50.3564,
+    "p_ilearn_proficient": 0.0527
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1045,
+    "kendall": 0.1115,
+    "ilearn_pctile_median": 64.7705,
+    "p_ilearn_proficient": 0.1244
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 430,
+    "kendall": 0.1646,
+    "ilearn_pctile_median": 83.2193,
+    "p_ilearn_proficient": 0.3651
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 36,
+    "kendall": null,
+    "ilearn_pctile_median": null,
+    "p_ilearn_proficient": null
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 187,
+    "kendall": 0.0233,
+    "ilearn_pctile_median": 15.5137,
+    "p_ilearn_proficient": 0.0053
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 463,
+    "kendall": 0.0846,
+    "ilearn_pctile_median": 25.6652,
+    "p_ilearn_proficient": 0.0043
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1213,
+    "kendall": 0.2168,
+    "ilearn_pctile_median": 52.0467,
+    "p_ilearn_proficient": 0.047
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 279,
+    "kendall": 0.0789,
+    "ilearn_pctile_median": 71.5923,
+    "p_ilearn_proficient": 0.1362
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 265,
+    "kendall": 0.3066,
+    "ilearn_pctile_median": 86.4511,
+    "p_ilearn_proficient": 0.3811
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 34,
+    "kendall": null,
+    "ilearn_pctile_median": null,
+    "p_ilearn_proficient": null
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 216,
+    "kendall": 0.1324,
+    "ilearn_pctile_median": 14.6263,
+    "p_ilearn_proficient": 0.0093
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 452,
+    "kendall": 0.1404,
+    "ilearn_pctile_median": 25.1933,
+    "p_ilearn_proficient": 0.0022
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1043,
+    "kendall": 0.1983,
+    "ilearn_pctile_median": 49.7208,
+    "p_ilearn_proficient": 0.0326
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 272,
+    "kendall": 0.2346,
+    "ilearn_pctile_median": 72.4119,
+    "p_ilearn_proficient": 0.136
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 288,
+    "kendall": 0.1946,
+    "ilearn_pctile_median": 84.7938,
+    "p_ilearn_proficient": 0.3438
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 52,
+    "kendall": 0.2184,
+    "ilearn_pctile_median": 96.9072,
+    "p_ilearn_proficient": 0.8077
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 514,
+    "kendall": 0.0821,
+    "ilearn_pctile_median": 13.135,
+    "p_ilearn_proficient": 0.0039
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1397,
+    "kendall": 0.1424,
+    "ilearn_pctile_median": 23.5189,
+    "p_ilearn_proficient": 0.0072
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3481,
+    "kendall": 0.2462,
+    "ilearn_pctile_median": 47.9549,
+    "p_ilearn_proficient": 0.1083
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 791,
+    "kendall": 0.0739,
+    "ilearn_pctile_median": 71.3221,
+    "p_ilearn_proficient": 0.3692
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1143,
+    "kendall": 0.1915,
+    "ilearn_pctile_median": 83.606,
+    "p_ilearn_proficient": 0.5757
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 247,
+    "kendall": 0.0778,
+    "ilearn_pctile_median": 93.4226,
+    "p_ilearn_proficient": 0.7935
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 489,
+    "kendall": 0.1264,
+    "ilearn_pctile_median": 12.0664,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 812,
+    "kendall": 0.0772,
+    "ilearn_pctile_median": 17.7782,
+    "p_ilearn_proficient": 0.0099
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2817,
+    "kendall": 0.2386,
+    "ilearn_pctile_median": 39.6947,
+    "p_ilearn_proficient": 0.049
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 1102,
+    "kendall": 0.1014,
+    "ilearn_pctile_median": 61.1691,
+    "p_ilearn_proficient": 0.216
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1771,
+    "kendall": 0.188,
+    "ilearn_pctile_median": 76.5167,
+    "p_ilearn_proficient": 0.4404
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 466,
+    "kendall": 0.0944,
+    "ilearn_pctile_median": 90.3576,
+    "p_ilearn_proficient": 0.7296
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 259,
+    "kendall": 0.0719,
+    "ilearn_pctile_median": 7.8755,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 310,
+    "kendall": -0.0004,
+    "ilearn_pctile_median": 12.1829,
+    "p_ilearn_proficient": 0.0097
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1783,
+    "kendall": 0.2041,
+    "ilearn_pctile_median": 25.9327,
+    "p_ilearn_proficient": 0.0157
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 1055,
+    "kendall": 0.0923,
+    "ilearn_pctile_median": 42.2127,
+    "p_ilearn_proficient": 0.0531
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 2407,
+    "kendall": 0.1767,
+    "ilearn_pctile_median": 59.8426,
+    "p_ilearn_proficient": 0.1786
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 1343,
+    "kendall": 0.2009,
+    "ilearn_pctile_median": 81.1694,
+    "p_ilearn_proficient": 0.487
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 213,
+    "kendall": 0.2104,
+    "ilearn_pctile_median": 94.0171,
+    "p_ilearn_proficient": 0.8216
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 273,
+    "kendall": 0.0102,
+    "ilearn_pctile_median": 8.888,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 326,
+    "kendall": 0.1318,
+    "ilearn_pctile_median": 11.9805,
+    "p_ilearn_proficient": 0.0031
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1444,
+    "kendall": 0.2037,
+    "ilearn_pctile_median": 28.9123,
+    "p_ilearn_proficient": 0.0097
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 857,
+    "kendall": 0.0722,
+    "ilearn_pctile_median": 45.9578,
+    "p_ilearn_proficient": 0.0502
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 2046,
+    "kendall": 0.1611,
+    "ilearn_pctile_median": 62.1753,
+    "p_ilearn_proficient": 0.1359
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 1097,
+    "kendall": 0.1219,
+    "ilearn_pctile_median": 79.8539,
+    "p_ilearn_proficient": 0.3409
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 116,
+    "kendall": 0.1725,
+    "ilearn_pctile_median": 92.1307,
+    "p_ilearn_proficient": 0.6293
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 288,
+    "kendall": 0.0424,
+    "ilearn_pctile_median": 11.6291,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 638,
+    "kendall": 0.1521,
+    "ilearn_pctile_median": 19.2802,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2380,
+    "kendall": 0.2167,
+    "ilearn_pctile_median": 47.2848,
+    "p_ilearn_proficient": 0.0307
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 754,
+    "kendall": 0.0554,
+    "ilearn_pctile_median": 71.1429,
+    "p_ilearn_proficient": 0.1207
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 623,
+    "kendall": 0.1645,
+    "ilearn_pctile_median": 79.5517,
+    "p_ilearn_proficient": 0.244
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 65,
+    "kendall": 0.1872,
+    "ilearn_pctile_median": 94.0855,
+    "p_ilearn_proficient": 0.6154
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 341,
+    "kendall": 0.1371,
+    "ilearn_pctile_median": 13.1183,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 647,
+    "kendall": 0.13,
+    "ilearn_pctile_median": 27.0019,
+    "p_ilearn_proficient": 0.0015
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1587,
+    "kendall": 0.2187,
+    "ilearn_pctile_median": 50.4099,
+    "p_ilearn_proficient": 0.0227
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 458,
+    "kendall": 0.0841,
+    "ilearn_pctile_median": 67.3271,
+    "p_ilearn_proficient": 0.0873
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 529,
+    "kendall": 0.0995,
+    "ilearn_pctile_median": 83.8344,
+    "p_ilearn_proficient": 0.2533
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 94,
+    "kendall": 0.1415,
+    "ilearn_pctile_median": 95.4906,
+    "p_ilearn_proficient": 0.6702
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 618,
+    "kendall": 0.1083,
+    "ilearn_pctile_median": 14.5674,
+    "p_ilearn_proficient": 0.0049
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1723,
+    "kendall": 0.1652,
+    "ilearn_pctile_median": 26.2296,
+    "p_ilearn_proficient": 0.0197
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3289,
+    "kendall": 0.2657,
+    "ilearn_pctile_median": 54.5144,
+    "p_ilearn_proficient": 0.1925
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 630,
+    "kendall": 0.101,
+    "ilearn_pctile_median": 76.4944,
+    "p_ilearn_proficient": 0.473
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 791,
+    "kendall": 0.1598,
+    "ilearn_pctile_median": 87.7665,
+    "p_ilearn_proficient": 0.708
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 123,
+    "kendall": 0.1041,
+    "ilearn_pctile_median": 95.1303,
+    "p_ilearn_proficient": 0.878
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 572,
+    "kendall": 0.082,
+    "ilearn_pctile_median": 11.6524,
+    "p_ilearn_proficient": 0.0052
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1154,
+    "kendall": 0.1496,
+    "ilearn_pctile_median": 22.5411,
+    "p_ilearn_proficient": 0.0087
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3337,
+    "kendall": 0.2488,
+    "ilearn_pctile_median": 46.0105,
+    "p_ilearn_proficient": 0.1073
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 958,
+    "kendall": 0.1341,
+    "ilearn_pctile_median": 68.3739,
+    "p_ilearn_proficient": 0.334
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1332,
+    "kendall": 0.1862,
+    "ilearn_pctile_median": 81.7314,
+    "p_ilearn_proficient": 0.5698
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 239,
+    "kendall": 0.0861,
+    "ilearn_pctile_median": 92.6662,
+    "p_ilearn_proficient": 0.8201
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 271,
+    "kendall": 0.1004,
+    "ilearn_pctile_median": 7.8944,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 476,
+    "kendall": 0.0896,
+    "ilearn_pctile_median": 12.9619,
+    "p_ilearn_proficient": 0.0042
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2167,
+    "kendall": 0.2444,
+    "ilearn_pctile_median": 29.9435,
+    "p_ilearn_proficient": 0.0351
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 1032,
+    "kendall": 0.0771,
+    "ilearn_pctile_median": 49.3519,
+    "p_ilearn_proficient": 0.1047
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 2027,
+    "kendall": 0.1709,
+    "ilearn_pctile_median": 64.9959,
+    "p_ilearn_proficient": 0.2694
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 1095,
+    "kendall": 0.1583,
+    "ilearn_pctile_median": 82.1704,
+    "p_ilearn_proficient": 0.5763
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 183,
+    "kendall": 0.2043,
+    "ilearn_pctile_median": 91.5954,
+    "p_ilearn_proficient": 0.8197
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 243,
+    "kendall": 0.0331,
+    "ilearn_pctile_median": 7.8167,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 400,
+    "kendall": 0.0639,
+    "ilearn_pctile_median": 16.225,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1737,
+    "kendall": 0.1859,
+    "ilearn_pctile_median": 33.1667,
+    "p_ilearn_proficient": 0.0127
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 829,
+    "kendall": 0.0595,
+    "ilearn_pctile_median": 48.7667,
+    "p_ilearn_proficient": 0.0555
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1754,
+    "kendall": 0.1459,
+    "ilearn_pctile_median": 65.4417,
+    "p_ilearn_proficient": 0.1585
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 934,
+    "kendall": 0.1623,
+    "ilearn_pctile_median": 79.95,
+    "p_ilearn_proficient": 0.3662
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 102,
+    "kendall": 0.1829,
+    "ilearn_pctile_median": 92.7292,
+    "p_ilearn_proficient": 0.6275
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 248,
+    "kendall": 0.0649,
+    "ilearn_pctile_median": 11.0116,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 796,
+    "kendall": 0.1841,
+    "ilearn_pctile_median": 20.5963,
+    "p_ilearn_proficient": 0.0038
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2888,
+    "kendall": 0.2328,
+    "ilearn_pctile_median": 50.8463,
+    "p_ilearn_proficient": 0.0416
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 591,
+    "kendall": 0.0596,
+    "ilearn_pctile_median": 73.1746,
+    "p_ilearn_proficient": 0.1794
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 489,
+    "kendall": 0.1815,
+    "ilearn_pctile_median": 85.6327,
+    "p_ilearn_proficient": 0.3456
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 66,
+    "kendall": 0.2214,
+    "ilearn_pctile_median": 95.1683,
+    "p_ilearn_proficient": 0.6515
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 317,
+    "kendall": 0.0857,
+    "ilearn_pctile_median": 10.6354,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 751,
+    "kendall": 0.1616,
+    "ilearn_pctile_median": 21.5288,
+    "p_ilearn_proficient": 0.0027
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2438,
+    "kendall": 0.2315,
+    "ilearn_pctile_median": 48.5764,
+    "p_ilearn_proficient": 0.0394
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 575,
+    "kendall": 0.0227,
+    "ilearn_pctile_median": 71.0233,
+    "p_ilearn_proficient": 0.1461
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 628,
+    "kendall": 0.1197,
+    "ilearn_pctile_median": 81.2152,
+    "p_ilearn_proficient": 0.2723
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 127,
+    "kendall": 0.1905,
+    "ilearn_pctile_median": 94.2129,
+    "p_ilearn_proficient": 0.6299
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 10,
+    "kendall": null,
+    "ilearn_pctile_median": null,
+    "p_ilearn_proficient": null
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 785,
+    "kendall": 0.0737,
+    "ilearn_pctile_median": 14.6585,
+    "p_ilearn_proficient": 0.0166
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1890,
+    "kendall": 0.1996,
+    "ilearn_pctile_median": 25.8634,
+    "p_ilearn_proficient": 0.0175
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3681,
+    "kendall": 0.2924,
+    "ilearn_pctile_median": 56.6946,
+    "p_ilearn_proficient": 0.1701
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 604,
+    "kendall": 0.055,
+    "ilearn_pctile_median": 79.5619,
+    "p_ilearn_proficient": 0.4934
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 686,
+    "kendall": 0.1414,
+    "ilearn_pctile_median": 88.6147,
+    "p_ilearn_proficient": 0.7289
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 106,
+    "kendall": 0.1561,
+    "ilearn_pctile_median": 96.6269,
+    "p_ilearn_proficient": 0.9151
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 740,
+    "kendall": 0.0445,
+    "ilearn_pctile_median": 13.7971,
+    "p_ilearn_proficient": 0.0081
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1291,
+    "kendall": 0.1503,
+    "ilearn_pctile_median": 22.1477,
+    "p_ilearn_proficient": 0.0062
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3284,
+    "kendall": 0.279,
+    "ilearn_pctile_median": 48.9352,
+    "p_ilearn_proficient": 0.1203
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 942,
+    "kendall": 0.0857,
+    "ilearn_pctile_median": 69.9987,
+    "p_ilearn_proficient": 0.3599
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1200,
+    "kendall": 0.1281,
+    "ilearn_pctile_median": 81.9179,
+    "p_ilearn_proficient": 0.59
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 278,
+    "kendall": 0.1636,
+    "ilearn_pctile_median": 93.7726,
+    "p_ilearn_proficient": 0.8525
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 12,
+    "kendall": null,
+    "ilearn_pctile_median": null,
+    "p_ilearn_proficient": null
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 367,
+    "kendall": 0.132,
+    "ilearn_pctile_median": 8.2687,
+    "p_ilearn_proficient": 0.0027
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 562,
+    "kendall": 0.0725,
+    "ilearn_pctile_median": 13.176,
+    "p_ilearn_proficient": 0.0036
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2110,
+    "kendall": 0.2126,
+    "ilearn_pctile_median": 28.2737,
+    "p_ilearn_proficient": 0.0246
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 1072,
+    "kendall": 0.0942,
+    "ilearn_pctile_median": 47.5651,
+    "p_ilearn_proficient": 0.0793
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 2245,
+    "kendall": 0.1583,
+    "ilearn_pctile_median": 64.0648,
+    "p_ilearn_proficient": 0.2303
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 1315,
+    "kendall": 0.1807,
+    "ilearn_pctile_median": 81.2531,
+    "p_ilearn_proficient": 0.5338
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 316,
+    "kendall": 0.1839,
+    "ilearn_pctile_median": 93.6968,
+    "p_ilearn_proficient": 0.8386
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 401,
+    "kendall": 0.0199,
+    "ilearn_pctile_median": 9.2277,
+    "p_ilearn_proficient": 0.0025
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 439,
+    "kendall": 0.0465,
+    "ilearn_pctile_median": 13.2943,
+    "p_ilearn_proficient": 0.0046
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1726,
+    "kendall": 0.1856,
+    "ilearn_pctile_median": 31.3925,
+    "p_ilearn_proficient": 0.0191
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 899,
+    "kendall": 0.0765,
+    "ilearn_pctile_median": 50.5093,
+    "p_ilearn_proficient": 0.0712
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1855,
+    "kendall": 0.1331,
+    "ilearn_pctile_median": 62.557,
+    "p_ilearn_proficient": 0.1601
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 1089,
+    "kendall": 0.1937,
+    "ilearn_pctile_median": 80.7692,
+    "p_ilearn_proficient": 0.3958
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 168,
+    "kendall": 0.2053,
+    "ilearn_pctile_median": 93.6227,
+    "p_ilearn_proficient": 0.6488
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 330,
+    "kendall": -0.014,
+    "ilearn_pctile_median": 11.9113,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 731,
+    "kendall": 0.1457,
+    "ilearn_pctile_median": 20.8723,
+    "p_ilearn_proficient": 0.0014
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2976,
+    "kendall": 0.2507,
+    "ilearn_pctile_median": 48.7814,
+    "p_ilearn_proficient": 0.0323
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 720,
+    "kendall": 0.0654,
+    "ilearn_pctile_median": 71.9809,
+    "p_ilearn_proficient": 0.1528
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 644,
+    "kendall": 0.1611,
+    "ilearn_pctile_median": 83.8556,
+    "p_ilearn_proficient": 0.2624
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 52,
+    "kendall": 0.1128,
+    "ilearn_pctile_median": 95.7944,
+    "p_ilearn_proficient": 0.5962
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 412,
+    "kendall": 0.1683,
+    "ilearn_pctile_median": 10.7292,
+    "p_ilearn_proficient": 0.0024
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 828,
+    "kendall": 0.1652,
+    "ilearn_pctile_median": 21.7858,
+    "p_ilearn_proficient": 0.006
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2701,
+    "kendall": 0.2581,
+    "ilearn_pctile_median": 48.8271,
+    "p_ilearn_proficient": 0.047
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 702,
+    "kendall": 0.0868,
+    "ilearn_pctile_median": 70.2582,
+    "p_ilearn_proficient": 0.1553
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 721,
+    "kendall": 0.1813,
+    "ilearn_pctile_median": 83.6152,
+    "p_ilearn_proficient": 0.3495
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 127,
+    "kendall": 0.1847,
+    "ilearn_pctile_median": 92.6987,
+    "p_ilearn_proficient": 0.5827
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 799,
+    "kendall": 0.1035,
+    "ilearn_pctile_median": 13.2067,
+    "p_ilearn_proficient": 0.01
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1975,
+    "kendall": 0.1942,
+    "ilearn_pctile_median": 27.1706,
+    "p_ilearn_proficient": 0.0218
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3736,
+    "kendall": 0.3001,
+    "ilearn_pctile_median": 56.4361,
+    "p_ilearn_proficient": 0.1743
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 580,
+    "kendall": 0.151,
+    "ilearn_pctile_median": 80.4171,
+    "p_ilearn_proficient": 0.5224
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 699,
+    "kendall": 0.1802,
+    "ilearn_pctile_median": 87.8597,
+    "p_ilearn_proficient": 0.701
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 122,
+    "kendall": 0.088,
+    "ilearn_pctile_median": 96.6589,
+    "p_ilearn_proficient": 0.9262
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 12,
+    "kendall": null,
+    "ilearn_pctile_median": null,
+    "p_ilearn_proficient": null
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 862,
+    "kendall": 0.0627,
+    "ilearn_pctile_median": 12.822,
+    "p_ilearn_proficient": 0.0035
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1452,
+    "kendall": 0.1397,
+    "ilearn_pctile_median": 22.1553,
+    "p_ilearn_proficient": 0.011
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3519,
+    "kendall": 0.2783,
+    "ilearn_pctile_median": 49.4692,
+    "p_ilearn_proficient": 0.1344
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 919,
+    "kendall": 0.0658,
+    "ilearn_pctile_median": 70.4854,
+    "p_ilearn_proficient": 0.3896
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1253,
+    "kendall": 0.2034,
+    "ilearn_pctile_median": 82.0193,
+    "p_ilearn_proficient": 0.6193
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 369,
+    "kendall": 0.1184,
+    "ilearn_pctile_median": 92.8137,
+    "p_ilearn_proficient": 0.8672
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 419,
+    "kendall": 0.0835,
+    "ilearn_pctile_median": 9.6209,
+    "p_ilearn_proficient": 0.0048
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 619,
+    "kendall": 0.0702,
+    "ilearn_pctile_median": 14.7503,
+    "p_ilearn_proficient": 0.0081
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2177,
+    "kendall": 0.2506,
+    "ilearn_pctile_median": 29.5812,
+    "p_ilearn_proficient": 0.0239
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 1058,
+    "kendall": 0.1261,
+    "ilearn_pctile_median": 48.222,
+    "p_ilearn_proficient": 0.1049
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 2259,
+    "kendall": 0.1534,
+    "ilearn_pctile_median": 63.9636,
+    "p_ilearn_proficient": 0.2528
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 1299,
+    "kendall": 0.1449,
+    "ilearn_pctile_median": 81.9663,
+    "p_ilearn_proficient": 0.5589
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 239,
+    "kendall": 0.128,
+    "ilearn_pctile_median": 93.9103,
+    "p_ilearn_proficient": 0.8912
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 491,
+    "kendall": 0.0622,
+    "ilearn_pctile_median": 10.9775,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 560,
+    "kendall": 0.057,
+    "ilearn_pctile_median": 16.7506,
+    "p_ilearn_proficient": 0.0054
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1832,
+    "kendall": 0.2074,
+    "ilearn_pctile_median": 33.2997,
+    "p_ilearn_proficient": 0.03
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 921,
+    "kendall": 0.0846,
+    "ilearn_pctile_median": 50.6407,
+    "p_ilearn_proficient": 0.0771
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1996,
+    "kendall": 0.1616,
+    "ilearn_pctile_median": 65.6925,
+    "p_ilearn_proficient": 0.1944
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 1051,
+    "kendall": 0.1544,
+    "ilearn_pctile_median": 82.5295,
+    "p_ilearn_proficient": 0.4491
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 94,
+    "kendall": 0.1535,
+    "ilearn_pctile_median": 92.9888,
+    "p_ilearn_proficient": 0.7553
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 489,
+    "kendall": 0.1207,
+    "ilearn_pctile_median": 11.5088,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 915,
+    "kendall": 0.115,
+    "ilearn_pctile_median": 23.0433,
+    "p_ilearn_proficient": 0.0055
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3048,
+    "kendall": 0.2396,
+    "ilearn_pctile_median": 51.6099,
+    "p_ilearn_proficient": 0.0512
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 729,
+    "kendall": 0.0755,
+    "ilearn_pctile_median": 72.3583,
+    "p_ilearn_proficient": 0.1811
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 607,
+    "kendall": 0.1617,
+    "ilearn_pctile_median": 84.6121,
+    "p_ilearn_proficient": 0.3822
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 49,
+    "kendall": null,
+    "ilearn_pctile_median": null,
+    "p_ilearn_proficient": null
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 612,
+    "kendall": 0.1108,
+    "ilearn_pctile_median": 11.4852,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 914,
+    "kendall": 0.1497,
+    "ilearn_pctile_median": 24.5823,
+    "p_ilearn_proficient": 0.0044
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2823,
+    "kendall": 0.2411,
+    "ilearn_pctile_median": 50.27,
+    "p_ilearn_proficient": 0.062
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 740,
+    "kendall": 0.0502,
+    "ilearn_pctile_median": 72.903,
+    "p_ilearn_proficient": 0.2014
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 727,
+    "kendall": 0.1674,
+    "ilearn_pctile_median": 84.8523,
+    "p_ilearn_proficient": 0.4154
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 107,
+    "kendall": 0.0529,
+    "ilearn_pctile_median": 95.8987,
+    "p_ilearn_proficient": 0.757
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 1085,
+    "kendall": 0.0419,
+    "ilearn_pctile_median": 16.1753,
+    "p_ilearn_proficient": 0.0065
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 2156,
+    "kendall": 0.1717,
+    "ilearn_pctile_median": 27.8031,
+    "p_ilearn_proficient": 0.026
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3858,
+    "kendall": 0.2691,
+    "ilearn_pctile_median": 57.4502,
+    "p_ilearn_proficient": 0.1874
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 693,
+    "kendall": 0.0448,
+    "ilearn_pctile_median": 77.9738,
+    "p_ilearn_proficient": 0.469
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 835,
+    "kendall": 0.1524,
+    "ilearn_pctile_median": 86.5851,
+    "p_ilearn_proficient": 0.685
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 150,
+    "kendall": 0.1367,
+    "ilearn_pctile_median": 94.9175,
+    "p_ilearn_proficient": 0.8733
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 1057,
+    "kendall": 0.0582,
+    "ilearn_pctile_median": 16.3369,
+    "p_ilearn_proficient": 0.0057
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1395,
+    "kendall": 0.0956,
+    "ilearn_pctile_median": 23.6261,
+    "p_ilearn_proficient": 0.0229
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3494,
+    "kendall": 0.2478,
+    "ilearn_pctile_median": 49.086,
+    "p_ilearn_proficient": 0.1139
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 984,
+    "kendall": 0.0934,
+    "ilearn_pctile_median": 69.2931,
+    "p_ilearn_proficient": 0.3323
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1288,
+    "kendall": 0.1575,
+    "ilearn_pctile_median": 81.7829,
+    "p_ilearn_proficient": 0.5776
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 407,
+    "kendall": 0.1469,
+    "ilearn_pctile_median": 93.2778,
+    "p_ilearn_proficient": 0.8624
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 17,
+    "kendall": null,
+    "ilearn_pctile_median": null,
+    "p_ilearn_proficient": null
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 721,
+    "kendall": 0.0532,
+    "ilearn_pctile_median": 14.3051,
+    "p_ilearn_proficient": 0.0042
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 814,
+    "kendall": 0.0371,
+    "ilearn_pctile_median": 17.3717,
+    "p_ilearn_proficient": 0.0012
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2433,
+    "kendall": 0.1993,
+    "ilearn_pctile_median": 34.3584,
+    "p_ilearn_proficient": 0.0337
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 977,
+    "kendall": 0.0571,
+    "ilearn_pctile_median": 52.2709,
+    "p_ilearn_proficient": 0.1208
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 2309,
+    "kendall": 0.168,
+    "ilearn_pctile_median": 65.7776,
+    "p_ilearn_proficient": 0.2547
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 1325,
+    "kendall": 0.161,
+    "ilearn_pctile_median": 83.7128,
+    "p_ilearn_proficient": 0.5947
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 249,
+    "kendall": 0.1325,
+    "ilearn_pctile_median": 93.8781,
+    "p_ilearn_proficient": 0.8795
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 724,
+    "kendall": 0.1066,
+    "ilearn_pctile_median": 14.1585,
+    "p_ilearn_proficient": 0.0014
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 659,
+    "kendall": 0.0828,
+    "ilearn_pctile_median": 20.1468,
+    "p_ilearn_proficient": 0.003
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1878,
+    "kendall": 0.1684,
+    "ilearn_pctile_median": 35.5968,
+    "p_ilearn_proficient": 0.0181
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 824,
+    "kendall": 0.0349,
+    "ilearn_pctile_median": 52.6917,
+    "p_ilearn_proficient": 0.0704
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 2035,
+    "kendall": 0.1528,
+    "ilearn_pctile_median": 65.851,
+    "p_ilearn_proficient": 0.1872
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 1108,
+    "kendall": 0.1601,
+    "ilearn_pctile_median": 82.708,
+    "p_ilearn_proficient": 0.435
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 127,
+    "kendall": 0.0793,
+    "ilearn_pctile_median": 94.7526,
+    "p_ilearn_proficient": 0.7323
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 778,
+    "kendall": 0.0603,
+    "ilearn_pctile_median": 17.0018,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1149,
+    "kendall": 0.1254,
+    "ilearn_pctile_median": 27.3461,
+    "p_ilearn_proficient": 0.007
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3045,
+    "kendall": 0.2244,
+    "ilearn_pctile_median": 53.0393,
+    "p_ilearn_proficient": 0.0371
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 768,
+    "kendall": 0.0728,
+    "ilearn_pctile_median": 73.3699,
+    "p_ilearn_proficient": 0.138
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 738,
+    "kendall": 0.1332,
+    "ilearn_pctile_median": 82.9144,
+    "p_ilearn_proficient": 0.2967
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 81,
+    "kendall": 0.1993,
+    "ilearn_pctile_median": 94.8507,
+    "p_ilearn_proficient": 0.6049
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 859,
+    "kendall": 0.1045,
+    "ilearn_pctile_median": 16.5791,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1097,
+    "kendall": 0.1098,
+    "ilearn_pctile_median": 27.7013,
+    "p_ilearn_proficient": 0.0055
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2702,
+    "kendall": 0.2247,
+    "ilearn_pctile_median": 52.1989,
+    "p_ilearn_proficient": 0.0725
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 801,
+    "kendall": 0.0134,
+    "ilearn_pctile_median": 72.4842,
+    "p_ilearn_proficient": 0.211
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 865,
+    "kendall": 0.1662,
+    "ilearn_pctile_median": 81.651,
+    "p_ilearn_proficient": 0.3642
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 140,
+    "kendall": 0.1579,
+    "ilearn_pctile_median": 93.6544,
+    "p_ilearn_proficient": 0.7
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 1164,
+    "kendall": 0.172,
+    "ilearn_pctile_median": 12.7267,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 2217,
+    "kendall": 0.2038,
+    "ilearn_pctile_median": 28.5293,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3800,
+    "kendall": 0.2711,
+    "ilearn_pctile_median": 57.1421,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 701,
+    "kendall": 0.1066,
+    "ilearn_pctile_median": 77.1943,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 896,
+    "kendall": 0.1578,
+    "ilearn_pctile_median": 86.2721,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 202,
+    "kendall": 0.0815,
+    "ilearn_pctile_median": 93.1027,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 1071,
+    "kendall": 0.1614,
+    "ilearn_pctile_median": 11.5349,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1211,
+    "kendall": 0.1264,
+    "ilearn_pctile_median": 23.4822,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 3344,
+    "kendall": 0.2259,
+    "ilearn_pctile_median": 47.606,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 1063,
+    "kendall": 0.1102,
+    "ilearn_pctile_median": 66.5521,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 1578,
+    "kendall": 0.1432,
+    "ilearn_pctile_median": 78.299,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 444,
+    "kendall": 0.1722,
+    "ilearn_pctile_median": 90.1088,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 18,
+    "kendall": null,
+    "ilearn_pctile_median": null,
+    "p_ilearn_proficient": null
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 663,
+    "kendall": 0.0773,
+    "ilearn_pctile_median": 9.9507,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 942,
+    "kendall": 0.065,
+    "ilearn_pctile_median": 17.3205,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2170,
+    "kendall": 0.2371,
+    "ilearn_pctile_median": 34.5836,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 1001,
+    "kendall": 0.0619,
+    "ilearn_pctile_median": 50.8546,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 2343,
+    "kendall": 0.148,
+    "ilearn_pctile_median": 65.4852,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 1335,
+    "kendall": 0.1881,
+    "ilearn_pctile_median": 82.1003,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 263,
+    "kendall": 0.166,
+    "ilearn_pctile_median": 92.9571,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 785,
+    "kendall": 0.1068,
+    "ilearn_pctile_median": 11.4278,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 782,
+    "kendall": 0.1132,
+    "ilearn_pctile_median": 19.9401,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 1889,
+    "kendall": 0.1721,
+    "ilearn_pctile_median": 35.5981,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 840,
+    "kendall": 0.0596,
+    "ilearn_pctile_median": 52.9676,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 2065,
+    "kendall": 0.1221,
+    "ilearn_pctile_median": 66.9595,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 1134,
+    "kendall": 0.1715,
+    "ilearn_pctile_median": 82.0903,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "WIDA_LEVEL": "WIDA Level 6",
+    "n": 187,
+    "kendall": 0.1125,
+    "ilearn_pctile_median": 92.991,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 758,
+    "kendall": 0.1059,
+    "ilearn_pctile_median": 13.0128,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1182,
+    "kendall": 0.1691,
+    "ilearn_pctile_median": 25.2727,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2971,
+    "kendall": 0.2547,
+    "ilearn_pctile_median": 52.6348,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 781,
+    "kendall": 0.0967,
+    "ilearn_pctile_median": 74.8733,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 729,
+    "kendall": 0.1293,
+    "ilearn_pctile_median": 84.2833,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 83,
+    "kendall": 0.1878,
+    "ilearn_pctile_median": 94.4922,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 1",
+    "n": 960,
+    "kendall": 0.148,
+    "ilearn_pctile_median": 12.4396,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 2",
+    "n": 1195,
+    "kendall": 0.1548,
+    "ilearn_pctile_median": 24.8437,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 3",
+    "n": 2874,
+    "kendall": 0.2056,
+    "ilearn_pctile_median": 52.6712,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4",
+    "n": 835,
+    "kendall": 0.0362,
+    "ilearn_pctile_median": 71.1566,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 4.3",
+    "n": 989,
+    "kendall": 0.1033,
+    "ilearn_pctile_median": 81.9906,
+    "p_ilearn_proficient": 0
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_LEVEL": "WIDA Level 5",
+    "n": 180,
+    "kendall": 0.1816,
+    "ilearn_pctile_median": 90.2529,
+    "p_ilearn_proficient": 0
+  }
+]

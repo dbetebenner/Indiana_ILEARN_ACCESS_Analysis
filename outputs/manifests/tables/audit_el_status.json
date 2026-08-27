@@ -1,0 +1,42 @@
+[
+  {
+    "EL_STATUS": "",
+    "N": 1504413
+  },
+  {
+    "EL_STATUS": "",
+    "N": 80
+  },
+  {
+    "EL_STATUS": "Fluent English Proficient",
+    "N": 146979
+  },
+  {
+    "EL_STATUS": "Free meals",
+    "N": 196532
+  },
+  {
+    "EL_STATUS": "Limited English Proficient",
+    "N": 233162
+  },
+  {
+    "EL_STATUS": "Native English Speaking Immigrant",
+    "N": 4324
+  },
+  {
+    "EL_STATUS": "Not an English Language Learner",
+    "N": 2564223
+  },
+  {
+    "EL_STATUS": "Paid meals",
+    "N": 269061
+  },
+  {
+    "EL_STATUS": "Reduced price meals",
+    "N": 28971
+  },
+  {
+    "EL_STATUS": "Unknown",
+    "N": 12249
+  }
+]

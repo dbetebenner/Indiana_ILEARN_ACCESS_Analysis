@@ -1,0 +1,17 @@
+[
+  {
+    "family": "frank",
+    "n_cells": 25,
+    "pct": 46.3
+  },
+  {
+    "family": "gaussian",
+    "n_cells": 14,
+    "pct": 25.9
+  },
+  {
+    "family": "t",
+    "n_cells": 15,
+    "pct": 27.8
+  }
+]

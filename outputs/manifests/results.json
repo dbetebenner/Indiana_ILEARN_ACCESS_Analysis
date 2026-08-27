@@ -1,0 +1,1273 @@
+{
+  "schema": "in.ilearn.wida.results.v1",
+  "generated": "2026-08-27T13:05:53-0400",
+  "wida_label": "WIDA ACCESS Overall Composite",
+  "disclaimer": "Aggregates only. Testing-pattern exit is not an official IDOE roster. The lagged 50-50 ILEARN-proficiency cut is a documented contrast, not a recommended EL exit rule: native English speakers are not all ILEARN-proficient.",
+  "policy": {
+    "auto_exit": 5,
+    "provisional": 4.3,
+    "source": "IDOE Exit Criteria for English Learners Guidance 2025-2026"
+  },
+  "windows": {
+    "primary": ["2021", "2022", "2023", "2024", "2025"],
+    "ranks_only": "2026"
+  },
+  "n": {
+    "pairs_total": 332633,
+    "pairs_primary": 213551,
+    "lagged_primary": 168693,
+    "exiters_primary": 14386
+  },
+  "same_year": {
+    "kendall_primary": {
+      "n_cells": 30,
+      "kendall_min": 0.505,
+      "kendall_median": 0.5542,
+      "kendall_max": 0.6141
+    },
+    "level_table_2025": [
+      {
+        "WIDA_LEVEL": "WIDA Level 1",
+        "n": 6048,
+        "kendall": 0.03155,
+        "ilearn_pctile_median": 16.5799,
+        "p_ilearn_proficient": 0
+      },
+      {
+        "WIDA_LEVEL": "WIDA Level 2",
+        "n": 7057,
+        "kendall": 0.09725,
+        "ilearn_pctile_median": 24.24345,
+        "p_ilearn_proficient": 0.001
+      },
+      {
+        "WIDA_LEVEL": "WIDA Level 3",
+        "n": 16575,
+        "kendall": 0.22425,
+        "ilearn_pctile_median": 49.2809,
+        "p_ilearn_proficient": 0.02255
+      },
+      {
+        "WIDA_LEVEL": "WIDA Level 4",
+        "n": 5582,
+        "kendall": 0.0906,
+        "ilearn_pctile_median": 69.832,
+        "p_ilearn_proficient": 0.1003
+      },
+      {
+        "WIDA_LEVEL": "WIDA Level 4.3",
+        "n": 9220,
+        "kendall": 0.14255,
+        "ilearn_pctile_median": 81.42225,
+        "p_ilearn_proficient": 0.24375
+      },
+      {
+        "WIDA_LEVEL": "WIDA Level 5",
+        "n": 3610,
+        "kendall": 0.185,
+        "ilearn_pctile_median": 92.63095,
+        "p_ilearn_proficient": 0.6024
+      },
+      {
+        "WIDA_LEVEL": "WIDA Level 6",
+        "n": 484,
+        "kendall": 0.196,
+        "ilearn_pctile_median": 94.32715,
+        "p_ilearn_proficient": 0.73675
+      }
+    ]
+  },
+  "youden": {
+    "by_stratum": [
+      {
+        "YEAR_STRATUM": "ilearn_2019",
+        "n_cells": 6,
+        "best_cut_median": 4.2,
+        "best_cut_min": 4.1,
+        "best_cut_max": 4.7,
+        "best_cut_sd": 0.264
+      },
+      {
+        "YEAR_STRATUM": "istep_contrast",
+        "n_cells": 12,
+        "best_cut_median": 4.2,
+        "best_cut_min": 3.8,
+        "best_cut_max": 4.7,
+        "best_cut_sd": 0.307
+      },
+      {
+        "YEAR_STRATUM": "primary",
+        "n_cells": 30,
+        "best_cut_median": 4.05,
+        "best_cut_min": 3.8,
+        "best_cut_max": 4.7,
+        "best_cut_sd": 0.319
+      }
+    ],
+    "by_grade_primary": [
+      {
+        "GRADE": 3,
+        "best_cut_median": 3.9,
+        "best_cut_sd": 0.045,
+        "n_years": 5
+      },
+      {
+        "GRADE": 4,
+        "best_cut_median": 4.5,
+        "best_cut_sd": 0.089,
+        "n_years": 5
+      },
+      {
+        "GRADE": 5,
+        "best_cut_median": 4.6,
+        "best_cut_sd": 0.164,
+        "n_years": 5
+      },
+      {
+        "GRADE": 6,
+        "best_cut_median": 3.9,
+        "best_cut_sd": 0.055,
+        "n_years": 5
+      },
+      {
+        "GRADE": 7,
+        "best_cut_median": 4.1,
+        "best_cut_sd": 0.089,
+        "n_years": 5
+      },
+      {
+        "GRADE": 8,
+        "best_cut_median": 4,
+        "best_cut_sd": 0.1,
+        "n_years": 5
+      }
+    ]
+  },
+  "first_crossing": [
+    {
+      "cut": 4.3,
+      "label": "4.3 provisional",
+      "n": 36720,
+      "ilearn_pctile_at": 72.088,
+      "p_proficient_at": 0.231,
+      "n_prior": 24141,
+      "ilearn_pctile_prior": 59.096,
+      "p_proficient_prior": 0.13
+    },
+    {
+      "cut": 5,
+      "label": "5.0 auto-exit",
+      "n": 15907,
+      "ilearn_pctile_at": 86.071,
+      "p_proficient_at": 0.397,
+      "n_prior": 15669,
+      "ilearn_pctile_prior": 77.314,
+      "p_proficient_prior": 0.376
+    }
+  ],
+  "exiters": {
+    "n_by_role_primary": [
+      {
+        "role": "attritor",
+        "N": 28784
+      },
+      {
+        "role": "exiter",
+        "N": 14386
+      },
+      {
+        "role": "never_el",
+        "N": 1415373
+      },
+      {
+        "role": "stayer",
+        "N": 121789
+      }
+    ],
+    "achievement_pooled": [
+      {
+        "window": "primary",
+        "role": "exiter",
+        "WIDA_EXIT_BAND": "<4.3",
+        "n": 833,
+        "ilearn_pctile_t": 16.117,
+        "ilearn_pctile_t1": 16.621,
+        "ilearn_pctile_delta": 1.008,
+        "p_proficient_t": 0.036,
+        "p_proficient_t1": 0.047
+      },
+      {
+        "window": "primary",
+        "role": "exiter",
+        "WIDA_EXIT_BAND": "4.3-4.9",
+        "n": 985,
+        "ilearn_pctile_t": 56.653,
+        "ilearn_pctile_t1": 55.346,
+        "ilearn_pctile_delta": -2.277,
+        "p_proficient_t": 0.452,
+        "p_proficient_t1": 0.436
+      },
+      {
+        "window": "primary",
+        "role": "exiter",
+        "WIDA_EXIT_BAND": ">=5.0",
+        "n": 12568,
+        "ilearn_pctile_t": 62.533,
+        "ilearn_pctile_t1": 63.949,
+        "ilearn_pctile_delta": 0.979,
+        "p_proficient_t": 0.55,
+        "p_proficient_t1": 0.579
+      },
+      {
+        "window": "primary",
+        "role": "never_el",
+        "WIDA_EXIT_BAND": "",
+        "n": 1415373,
+        "ilearn_pctile_t": 53.703,
+        "ilearn_pctile_t1": 53.501,
+        "ilearn_pctile_delta": -0.049,
+        "p_proficient_t": 0.438,
+        "p_proficient_t1": 0.445
+      },
+      {
+        "window": "primary",
+        "role": "stayer",
+        "WIDA_EXIT_BAND": "<4.3",
+        "n": 95717,
+        "ilearn_pctile_t": 17.642,
+        "ilearn_pctile_t1": 19.683,
+        "ilearn_pctile_delta": 1.59,
+        "p_proficient_t": 0.043,
+        "p_proficient_t1": 0.064
+      },
+      {
+        "window": "primary",
+        "role": "stayer",
+        "WIDA_EXIT_BAND": "4.3-4.9",
+        "n": 25875,
+        "ilearn_pctile_t": 44.567,
+        "ilearn_pctile_t1": 46.463,
+        "ilearn_pctile_delta": 1.688,
+        "p_proficient_t": 0.259,
+        "p_proficient_t1": 0.306
+      },
+      {
+        "window": "primary",
+        "role": "stayer",
+        "WIDA_EXIT_BAND": ">=5.0",
+        "n": 197,
+        "ilearn_pctile_t": 63.807,
+        "ilearn_pctile_t1": 66.306,
+        "ilearn_pctile_delta": 2.25,
+        "p_proficient_t": 0.579,
+        "p_proficient_t1": 0.569
+      }
+    ],
+    "sgp_pooled": [
+      {
+        "window": "primary",
+        "role": "exiter",
+        "WIDA_EXIT_BAND": "<4.3",
+        "n": 833,
+        "sgp_median": 41,
+        "p_sgp_below_35": 0.443,
+        "p_sgp_above_65": 0.263
+      },
+      {
+        "window": "primary",
+        "role": "exiter",
+        "WIDA_EXIT_BAND": "4.3-4.9",
+        "n": 985,
+        "sgp_median": 50,
+        "p_sgp_below_35": 0.333,
+        "p_sgp_above_65": 0.338
+      },
+      {
+        "window": "primary",
+        "role": "exiter",
+        "WIDA_EXIT_BAND": ">=5.0",
+        "n": 12568,
+        "sgp_median": 58,
+        "p_sgp_below_35": 0.266,
+        "p_sgp_above_65": 0.418
+      },
+      {
+        "window": "primary",
+        "role": "never_el",
+        "WIDA_EXIT_BAND": "",
+        "n": 1415373,
+        "sgp_median": 50,
+        "p_sgp_below_35": 0.344,
+        "p_sgp_above_65": 0.347
+      },
+      {
+        "window": "primary",
+        "role": "stayer",
+        "WIDA_EXIT_BAND": "<4.3",
+        "n": 95717,
+        "sgp_median": 45,
+        "p_sgp_below_35": 0.388,
+        "p_sgp_above_65": 0.295
+      },
+      {
+        "window": "primary",
+        "role": "stayer",
+        "WIDA_EXIT_BAND": "4.3-4.9",
+        "n": 25875,
+        "sgp_median": 54,
+        "p_sgp_below_35": 0.3,
+        "p_sgp_above_65": 0.382
+      },
+      {
+        "window": "primary",
+        "role": "stayer",
+        "WIDA_EXIT_BAND": ">=5.0",
+        "n": 197,
+        "sgp_median": 57,
+        "p_sgp_below_35": 0.279,
+        "p_sgp_above_65": 0.391
+      }
+    ],
+    "el_status_agreement": [
+      {
+        "WIDA_EXIT_BAND": "4.3-4.9",
+        "n": 985,
+        "p_el_to_not_el_min": 0.203,
+        "p_el_to_not_el_max": 0.368,
+        "p_still_el_min": 0.526,
+        "p_still_el_max": 0.758
+      },
+      {
+        "WIDA_EXIT_BAND": "<4.3",
+        "n": 833,
+        "p_el_to_not_el_min": 0.142,
+        "p_el_to_not_el_max": 0.228,
+        "p_still_el_min": 0.706,
+        "p_still_el_max": 0.754
+      },
+      {
+        "WIDA_EXIT_BAND": ">=5.0",
+        "n": 12568,
+        "p_el_to_not_el_min": 0.894,
+        "p_el_to_not_el_max": 0.946,
+        "p_still_el_min": 0.025,
+        "p_still_el_max": 0.066
+      }
+    ]
+  },
+  "lagged_proficiency": {
+    "method": "Copula C(U_WIDA_t, V_ILEARN_{t+1}); invert P(V >= v* | U = u) = 0.5, with v* the ILEARN proficiency cut on the paired rank scale. Empirical local window ±0.15 PL.",
+    "critique": "ILEARN proficiency is not a proxy for English access. Never-EL students are not all proficient.",
+    "pooled_primary": [
+      {
+        "window": "primary",
+        "n": 168693,
+        "family": "gaussian",
+        "v_star": 0.83,
+        "p_never_el_proficient": 0.4343,
+        "copula_u_star": 0.9048,
+        "copula_cut": 4.8,
+        "copula_reached": true,
+        "copula_p_at_cut": 0.4998,
+        "empirical_local_cut": 5.1,
+        "p_ge_4.3": 0.4246,
+        "p_ge_5.0": 0.5915,
+        "p_local_4.3": 0.2729,
+        "p_local_5.0": 0.4796
+      }
+    ],
+    "by_grade_summary": [
+      {
+        "n_cells": 24,
+        "n": 168693,
+        "copula_cut_median": 4.75,
+        "copula_cut_min": 4,
+        "copula_cut_max": 5.6,
+        "empirical_local_median": 4.8,
+        "p_ge_4.3": 0.40165,
+        "p_ge_5.0": 0.64115,
+        "p_local_4.3": 0.2286,
+        "p_local_5.0": 0.5457,
+        "p_never_el": 0.43535
+      }
+    ],
+    "by_cell": [
+      {
+        "YEAR_T": 2021,
+        "YEAR_T1": 2022,
+        "window": "primary",
+        "GRADE": 8,
+        "n": 4846,
+        "family": "t",
+        "v_star": 0.909,
+        "p_never_el_proficient": 0.4565,
+        "copula_u_star": 0.9747,
+        "copula_cut": 5,
+        "copula_reached": true,
+        "copula_p_at_cut": 0.4973,
+        "empirical_local_cut": 5.1,
+        "empirical_cumulative_cut": 4.8,
+        "p_ge_4.3": 0.3386,
+        "p_ge_5.0": 0.6423,
+        "p_local_4.3": 0.1828,
+        "p_local_5.0": 0.4839
+      },
+      {
+        "YEAR_T": 2021,
+        "YEAR_T1": 2022,
+        "window": "primary",
+        "GRADE": 7,
+        "n": 5080,
+        "family": "t",
+        "v_star": 0.9128,
+        "p_never_el_proficient": 0.4513,
+        "copula_u_star": null,
+        "copula_cut": null,
+        "copula_reached": false,
+        "copula_p_at_cut": 0.4953,
+        "empirical_local_cut": 4.8,
+        "empirical_cumulative_cut": 4.6,
+        "p_ge_4.3": 0.3842,
+        "p_ge_5.0": 0.6618,
+        "p_local_4.3": 0.1973,
+        "p_local_5.0": 0.5424
+      },
+      {
+        "YEAR_T": 2021,
+        "YEAR_T1": 2022,
+        "window": "primary",
+        "GRADE": 6,
+        "n": 5999,
+        "family": "gaussian",
+        "v_star": 0.8746,
+        "p_never_el_proficient": 0.4147,
+        "copula_u_star": 0.9581,
+        "copula_cut": 5.6,
+        "copula_reached": true,
+        "copula_p_at_cut": 0.4994,
+        "empirical_local_cut": null,
+        "empirical_cumulative_cut": 5.5,
+        "p_ge_4.3": 0.2452,
+        "p_ge_5.0": 0.3919,
+        "p_local_4.3": 0.0877,
+        "p_local_5.0": 0.2398
+      },
+      {
+        "YEAR_T": 2021,
+        "YEAR_T1": 2022,
+        "window": "primary",
+        "GRADE": 5,
+        "n": 7251,
+        "family": "t",
+        "v_star": 0.7913,
+        "p_never_el_proficient": 0.4371,
+        "copula_u_star": 0.8691,
+        "copula_cut": 5.1,
+        "copula_reached": true,
+        "copula_p_at_cut": 0.5,
+        "empirical_local_cut": 5.1,
+        "empirical_cumulative_cut": 4.7,
+        "p_ge_4.3": 0.4015,
+        "p_ge_5.0": 0.6111,
+        "p_local_4.3": 0.152,
+        "p_local_5.0": 0.4728
+      },
+      {
+        "YEAR_T": 2021,
+        "YEAR_T1": 2022,
+        "window": "primary",
+        "GRADE": 4,
+        "n": 7594,
+        "family": "gaussian",
+        "v_star": 0.783,
+        "p_never_el_proficient": 0.4375,
+        "copula_u_star": 0.8648,
+        "copula_cut": 4.5,
+        "copula_reached": true,
+        "copula_p_at_cut": 0.4999,
+        "empirical_local_cut": 4.5,
+        "empirical_cumulative_cut": 3.9,
+        "p_ge_4.3": 0.6084,
+        "p_ge_5.0": 0.8216,
+        "p_local_4.3": 0.4575,
+        "p_local_5.0": 0.7783
+      },
+      {
+        "YEAR_T": 2021,
+        "YEAR_T1": 2022,
+        "window": "primary",
+        "GRADE": 3,
+        "n": 7176,
+        "family": "frank",
+        "v_star": 0.7717,
+        "p_never_el_proficient": 0.4301,
+        "copula_u_star": 0.8166,
+        "copula_cut": 4.1,
+        "copula_reached": true,
+        "copula_p_at_cut": 0.5,
+        "empirical_local_cut": 4.2,
+        "empirical_cumulative_cut": 3.7,
+        "p_ge_4.3": 0.7314,
+        "p_ge_5.0": 0.88,
+        "p_local_4.3": 0.5918,
+        "p_local_5.0": 0.844
+      },
+      {
+        "YEAR_T": 2022,
+        "YEAR_T1": 2023,
+        "window": "primary",
+        "GRADE": 8,
+        "n": 5498,
+        "family": "t",
+        "v_star": 0.8954,
+        "p_never_el_proficient": 0.4639,
+        "copula_u_star": 0.9622,
+        "copula_cut": 4.8,
+        "copula_reached": true,
+        "copula_p_at_cut": 0.499,
+        "empirical_local_cut": 4.9,
+        "empirical_cumulative_cut": 4.7,
+        "p_ge_4.3": 0.3895,
+        "p_ge_5.0": 0.6045,
+        "p_local_4.3": 0.2495,
+        "p_local_5.0": 0.48
+      },
+      {
+        "YEAR_T": 2022,
+        "YEAR_T1": 2023,
+        "window": "primary",
+        "GRADE": 7,
+        "n": 5456,
+        "family": "t",
+        "v_star": 0.9249,
+        "p_never_el_proficient": 0.4194,
+        "copula_u_star": null,
+        "copula_cut": null,
+        "copula_reached": false,
+        "copula_p_at_cut": 0.4653,
+        "empirical_local_cut": 5,
+        "empirical_cumulative_cut": 4.8,
+        "p_ge_4.3": 0.2904,
+        "p_ge_5.0": 0.6182,
+        "p_local_4.3": 0.1754,
+        "p_local_5.0": 0.549
+      },
+      {
+        "YEAR_T": 2022,
+        "YEAR_T1": 2023,
+        "window": "primary",
+        "GRADE": 5,
+        "n": 7987,
+        "family": "t",
+        "v_star": 0.7967,
+        "p_never_el_proficient": 0.4284,
+        "copula_u_star": 0.8679,
+        "copula_cut": 5.2,
+        "copula_reached": true,
+        "copula_p_at_cut": 0.4999,
+        "empirical_local_cut": 5.3,
+        "empirical_cumulative_cut": 4.7,
+        "p_ge_4.3": 0.3829,
+        "p_ge_5.0": 0.5929,
+        "p_local_4.3": 0.1212,
+        "p_local_5.0": 0.3889
+      },
+      {
+        "YEAR_T": 2022,
+        "YEAR_T1": 2023,
+        "window": "primary",
+        "GRADE": 6,
+        "n": 6577,
+        "family": "t",
+        "v_star": 0.8575,
+        "p_never_el_proficient": 0.4329,
+        "copula_u_star": 0.9359,
+        "copula_cut": 5.6,
+        "copula_reached": true,
+        "copula_p_at_cut": 0.4995,
+        "empirical_local_cut": null,
+        "empirical_cumulative_cut": 5.3,
+        "p_ge_4.3": 0.269,
+        "p_ge_5.0": 0.4296,
+        "p_local_4.3": 0.0962,
+        "p_local_5.0": 0.2619
+      },
+      {
+        "YEAR_T": 2022,
+        "YEAR_T1": 2023,
+        "window": "primary",
+        "GRADE": 4,
+        "n": 7747,
+        "family": "frank",
+        "v_star": 0.7803,
+        "p_never_el_proficient": 0.4263,
+        "copula_u_star": 0.82,
+        "copula_cut": 4.3,
+        "copula_reached": true,
+        "copula_p_at_cut": 0.5,
+        "empirical_local_cut": 4.4,
+        "empirical_cumulative_cut": 3.9,
+        "p_ge_4.3": 0.6403,
+        "p_ge_5.0": 0.8483,
+        "p_local_4.3": 0.473,
+        "p_local_5.0": 0.7406
+      },
+      {
+        "YEAR_T": 2022,
+        "YEAR_T1": 2023,
+        "window": "primary",
+        "GRADE": 3,
+        "n": 7759,
+        "family": "frank",
+        "v_star": 0.7973,
+        "p_never_el_proficient": 0.4195,
+        "copula_u_star": 0.8423,
+        "copula_cut": 4,
+        "copula_reached": true,
+        "copula_p_at_cut": 0.5,
+        "empirical_local_cut": 4.2,
+        "empirical_cumulative_cut": 3.7,
+        "p_ge_4.3": 0.7547,
+        "p_ge_5.0": 0.9115,
+        "p_local_4.3": 0.6123,
+        "p_local_5.0": 0.8817
+      },
+      {
+        "YEAR_T": 2023,
+        "YEAR_T1": 2024,
+        "window": "primary",
+        "GRADE": 8,
+        "n": 5924,
+        "family": "t",
+        "v_star": 0.8798,
+        "p_never_el_proficient": 0.4528,
+        "copula_u_star": 0.949,
+        "copula_cut": 4.6,
+        "copula_reached": true,
+        "copula_p_at_cut": 0.4997,
+        "empirical_local_cut": 4.8,
+        "empirical_cumulative_cut": 4.3,
+        "p_ge_4.3": 0.4599,
+        "p_ge_5.0": 0.7593,
+        "p_local_4.3": 0.2763,
+        "p_local_5.0": 0.7143
+      },
+      {
+        "YEAR_T": 2023,
+        "YEAR_T1": 2024,
+        "window": "primary",
+        "GRADE": 7,
+        "n": 5838,
+        "family": "t",
+        "v_star": 0.9046,
+        "p_never_el_proficient": 0.445,
+        "copula_u_star": 0.9731,
+        "copula_cut": 4.7,
+        "copula_reached": true,
+        "copula_p_at_cut": 0.4978,
+        "empirical_local_cut": 4.8,
+        "empirical_cumulative_cut": 4.6,
+        "p_ge_4.3": 0.4018,
+        "p_ge_5.0": 0.64,
+        "p_local_4.3": 0.2637,
+        "p_local_5.0": 0.6481
+      },
+      {
+        "YEAR_T": 2023,
+        "YEAR_T1": 2024,
+        "window": "primary",
+        "GRADE": 6,
+        "n": 6945,
+        "family": "frank",
+        "v_star": 0.8474,
+        "p_never_el_proficient": 0.4379,
+        "copula_u_star": 0.9388,
+        "copula_cut": 5.4,
+        "copula_reached": true,
+        "copula_p_at_cut": 0.5,
+        "empirical_local_cut": null,
+        "empirical_cumulative_cut": 5.2,
+        "p_ge_4.3": 0.2964,
+        "p_ge_5.0": 0.4742,
+        "p_local_4.3": 0.1143,
+        "p_local_5.0": 0.338
+      },
+      {
+        "YEAR_T": 2023,
+        "YEAR_T1": 2024,
+        "window": "primary",
+        "GRADE": 5,
+        "n": 8070,
+        "family": "frank",
+        "v_star": 0.7918,
+        "p_never_el_proficient": 0.4307,
+        "copula_u_star": 0.8347,
+        "copula_cut": 5,
+        "copula_reached": true,
+        "copula_p_at_cut": 0.5,
+        "empirical_local_cut": 5.2,
+        "empirical_cumulative_cut": 4.7,
+        "p_ge_4.3": 0.3977,
+        "p_ge_5.0": 0.6105,
+        "p_local_4.3": 0.1538,
+        "p_local_5.0": 0.419
+      },
+      {
+        "YEAR_T": 2023,
+        "YEAR_T1": 2024,
+        "window": "primary",
+        "GRADE": 4,
+        "n": 8383,
+        "family": "frank",
+        "v_star": 0.7669,
+        "p_never_el_proficient": 0.4436,
+        "copula_u_star": 0.7982,
+        "copula_cut": 4.2,
+        "copula_reached": true,
+        "copula_p_at_cut": 0.5,
+        "empirical_local_cut": 4.4,
+        "empirical_cumulative_cut": 3.9,
+        "p_ge_4.3": 0.6769,
+        "p_ge_5.0": 0.8677,
+        "p_local_4.3": 0.4917,
+        "p_local_5.0": 0.8199
+      },
+      {
+        "YEAR_T": 2023,
+        "YEAR_T1": 2024,
+        "window": "primary",
+        "GRADE": 3,
+        "n": 7923,
+        "family": "frank",
+        "v_star": 0.7955,
+        "p_never_el_proficient": 0.4099,
+        "copula_u_star": 0.8418,
+        "copula_cut": 4,
+        "copula_reached": true,
+        "copula_p_at_cut": 0.5,
+        "empirical_local_cut": 4.1,
+        "empirical_cumulative_cut": 3.7,
+        "p_ge_4.3": 0.7383,
+        "p_ge_5.0": 0.9328,
+        "p_local_4.3": 0.6166,
+        "p_local_5.0": 0.8681
+      },
+      {
+        "YEAR_T": 2024,
+        "YEAR_T1": 2025,
+        "window": "primary",
+        "GRADE": 8,
+        "n": 6468,
+        "family": "frank",
+        "v_star": 0.8782,
+        "p_never_el_proficient": 0.4561,
+        "copula_u_star": null,
+        "copula_cut": null,
+        "copula_reached": false,
+        "copula_p_at_cut": 0.4623,
+        "empirical_local_cut": 4.8,
+        "empirical_cumulative_cut": 4.5,
+        "p_ge_4.3": 0.4133,
+        "p_ge_5.0": 0.7083,
+        "p_local_4.3": 0.2374,
+        "p_local_5.0": 0.6077
+      },
+      {
+        "YEAR_T": 2024,
+        "YEAR_T1": 2025,
+        "window": "primary",
+        "GRADE": 7,
+        "n": 6563,
+        "family": "frank",
+        "v_star": 0.924,
+        "p_never_el_proficient": 0.4087,
+        "copula_u_star": null,
+        "copula_cut": null,
+        "copula_reached": false,
+        "copula_p_at_cut": 0.3019,
+        "empirical_local_cut": 5,
+        "empirical_cumulative_cut": 4.8,
+        "p_ge_4.3": 0.3305,
+        "p_ge_5.0": 0.6235,
+        "p_local_4.3": 0.2198,
+        "p_local_5.0": 0.5119
+      },
+      {
+        "YEAR_T": 2024,
+        "YEAR_T1": 2025,
+        "window": "primary",
+        "GRADE": 6,
+        "n": 7355,
+        "family": "frank",
+        "v_star": 0.8571,
+        "p_never_el_proficient": 0.4336,
+        "copula_u_star": 0.959,
+        "copula_cut": 5.6,
+        "copula_reached": true,
+        "copula_p_at_cut": 0.5,
+        "empirical_local_cut": null,
+        "empirical_cumulative_cut": 5.2,
+        "p_ge_4.3": 0.2924,
+        "p_ge_5.0": 0.4656,
+        "p_local_4.3": 0.1149,
+        "p_local_5.0": 0.3262
+      },
+      {
+        "YEAR_T": 2024,
+        "YEAR_T1": 2025,
+        "window": "primary",
+        "GRADE": 5,
+        "n": 8828,
+        "family": "frank",
+        "v_star": 0.7962,
+        "p_never_el_proficient": 0.4396,
+        "copula_u_star": 0.8403,
+        "copula_cut": 5,
+        "copula_reached": true,
+        "copula_p_at_cut": 0.5,
+        "empirical_local_cut": 5.2,
+        "empirical_cumulative_cut": 4.6,
+        "p_ge_4.3": 0.4108,
+        "p_ge_5.0": 0.6398,
+        "p_local_4.3": 0.1494,
+        "p_local_5.0": 0.4558
+      },
+      {
+        "YEAR_T": 2024,
+        "YEAR_T1": 2025,
+        "window": "primary",
+        "GRADE": 4,
+        "n": 8642,
+        "family": "frank",
+        "v_star": 0.7833,
+        "p_never_el_proficient": 0.4431,
+        "copula_u_star": 0.8273,
+        "copula_cut": 4.3,
+        "copula_reached": true,
+        "copula_p_at_cut": 0.5,
+        "empirical_local_cut": 4.5,
+        "empirical_cumulative_cut": 3.9,
+        "p_ge_4.3": 0.6484,
+        "p_ge_5.0": 0.8632,
+        "p_local_4.3": 0.4563,
+        "p_local_5.0": 0.8107
+      },
+      {
+        "YEAR_T": 2024,
+        "YEAR_T1": 2025,
+        "window": "primary",
+        "GRADE": 3,
+        "n": 8784,
+        "family": "frank",
+        "v_star": 0.7927,
+        "p_never_el_proficient": 0.4297,
+        "copula_u_star": 0.8427,
+        "copula_cut": 4.1,
+        "copula_reached": true,
+        "copula_p_at_cut": 0.5,
+        "empirical_local_cut": 4.2,
+        "empirical_cumulative_cut": 3.8,
+        "p_ge_4.3": 0.7157,
+        "p_ge_5.0": 0.879,
+        "p_local_4.3": 0.5704,
+        "p_local_5.0": 0.8521
+      }
+    ]
+  },
+  "artifacts": {
+    "tables": [
+      {
+        "file": "audit_2026_scale_change.csv",
+        "path": "outputs/audit_2026_scale_change.csv",
+        "json": "outputs/manifests/tables/audit_2026_scale_change.json"
+      },
+      {
+        "file": "audit_el_status.csv",
+        "path": "outputs/audit_el_status.csv",
+        "json": "outputs/manifests/tables/audit_el_status.json"
+      },
+      {
+        "file": "audit_ilearn_levels.csv",
+        "path": "outputs/audit_ilearn_levels.csv",
+        "json": "outputs/manifests/tables/audit_ilearn_levels.json"
+      },
+      {
+        "file": "audit_ilearn_scale_by_year.csv",
+        "path": "outputs/audit_ilearn_scale_by_year.csv",
+        "json": "outputs/manifests/tables/audit_ilearn_scale_by_year.json"
+      },
+      {
+        "file": "audit_wida_levels.csv",
+        "path": "outputs/audit_wida_levels.csv",
+        "json": "outputs/manifests/tables/audit_wida_levels.json"
+      },
+      {
+        "file": "audit_wida_scale_by_year.csv",
+        "path": "outputs/audit_wida_scale_by_year.csv",
+        "json": "outputs/manifests/tables/audit_wida_scale_by_year.json"
+      },
+      {
+        "file": "data_dictionary.csv",
+        "path": "outputs/data_dictionary.csv",
+        "json": "outputs/manifests/tables/data_dictionary.json"
+      },
+      {
+        "file": "dep_copula_best_family_freq.csv",
+        "path": "outputs/dep_copula_best_family_freq.csv",
+        "json": "outputs/manifests/tables/dep_copula_best_family_freq.json"
+      },
+      {
+        "file": "dep_copula_fits.csv",
+        "path": "outputs/dep_copula_fits.csv",
+        "json": "outputs/manifests/tables/dep_copula_fits.json"
+      },
+      {
+        "file": "dep_rank_correlations.csv",
+        "path": "outputs/dep_rank_correlations.csv",
+        "json": "outputs/manifests/tables/dep_rank_correlations.json"
+      },
+      {
+        "file": "exit_agreement_by_cut.csv",
+        "path": "outputs/exit_agreement_by_cut.csv",
+        "json": "outputs/manifests/tables/exit_agreement_by_cut.json"
+      },
+      {
+        "file": "exit_anchor_youden.csv",
+        "path": "outputs/exit_anchor_youden.csv",
+        "json": "outputs/manifests/tables/exit_anchor_youden.json"
+      },
+      {
+        "file": "exit_grade_consistency.csv",
+        "path": "outputs/exit_grade_consistency.csv",
+        "json": "outputs/manifests/tables/exit_grade_consistency.json"
+      },
+      {
+        "file": "exit_optimal_cut.csv",
+        "path": "outputs/exit_optimal_cut.csv",
+        "json": "outputs/manifests/tables/exit_optimal_cut.json"
+      },
+      {
+        "file": "exit_q1q2_summary.csv",
+        "path": "outputs/exit_q1q2_summary.csv",
+        "json": "outputs/manifests/tables/exit_q1q2_summary.json"
+      },
+      {
+        "file": "exiter_achievement_pooled.csv",
+        "path": "outputs/exiter_achievement_pooled.csv",
+        "json": "outputs/manifests/tables/exiter_achievement_pooled.json"
+      },
+      {
+        "file": "exiter_achievement.csv",
+        "path": "outputs/exiter_achievement.csv",
+        "json": "outputs/manifests/tables/exiter_achievement.json"
+      },
+      {
+        "file": "exiter_el_status_robustness.csv",
+        "path": "outputs/exiter_el_status_robustness.csv",
+        "json": "outputs/manifests/tables/exiter_el_status_robustness.json"
+      },
+      {
+        "file": "exiter_n_totals.csv",
+        "path": "outputs/exiter_n_totals.csv",
+        "json": "outputs/manifests/tables/exiter_n_totals.json"
+      },
+      {
+        "file": "exiter_n_year_grade_band.csv",
+        "path": "outputs/exiter_n_year_grade_band.csv",
+        "json": "outputs/manifests/tables/exiter_n_year_grade_band.json"
+      },
+      {
+        "file": "exiter_sgp_pooled.csv",
+        "path": "outputs/exiter_sgp_pooled.csv",
+        "json": "outputs/manifests/tables/exiter_sgp_pooled.json"
+      },
+      {
+        "file": "exiter_sgp.csv",
+        "path": "outputs/exiter_sgp.csv",
+        "json": "outputs/manifests/tables/exiter_sgp.json"
+      },
+      {
+        "file": "ext_2026_dual_scale.csv",
+        "path": "outputs/ext_2026_dual_scale.csv",
+        "json": "outputs/manifests/tables/ext_2026_dual_scale.json"
+      },
+      {
+        "file": "ext_ela_vs_math_dependence.csv",
+        "path": "outputs/ext_ela_vs_math_dependence.csv",
+        "json": "outputs/manifests/tables/ext_ela_vs_math_dependence.json"
+      },
+      {
+        "file": "ext_lagged_by_wida_level.csv",
+        "path": "outputs/ext_lagged_by_wida_level.csv",
+        "json": "outputs/manifests/tables/ext_lagged_by_wida_level.json"
+      },
+      {
+        "file": "ext_lagged_dependence.csv",
+        "path": "outputs/ext_lagged_dependence.csv",
+        "json": "outputs/manifests/tables/ext_lagged_dependence.json"
+      },
+      {
+        "file": "ext_math_by_wida_level.csv",
+        "path": "outputs/ext_math_by_wida_level.csv",
+        "json": "outputs/manifests/tables/ext_math_by_wida_level.json"
+      },
+      {
+        "file": "ext_never_el_gap.csv",
+        "path": "outputs/ext_never_el_gap.csv",
+        "json": "outputs/manifests/tables/ext_never_el_gap.json"
+      },
+      {
+        "file": "ext_panel_first_crossing.csv",
+        "path": "outputs/ext_panel_first_crossing.csv",
+        "json": "outputs/manifests/tables/ext_panel_first_crossing.json"
+      },
+      {
+        "file": "ext_sgp_vs_sgp.csv",
+        "path": "outputs/ext_sgp_vs_sgp.csv",
+        "json": "outputs/manifests/tables/ext_sgp_vs_sgp.json"
+      },
+      {
+        "file": "lagged_copula_fits.csv",
+        "path": "outputs/lagged_copula_fits.csv",
+        "json": "outputs/manifests/tables/lagged_copula_fits.json"
+      },
+      {
+        "file": "lagged_copula_p_prof.csv",
+        "path": "outputs/lagged_copula_p_prof.csv",
+        "json": "outputs/manifests/tables/lagged_copula_p_prof.json"
+      },
+      {
+        "file": "lagged_empirical_scan.csv",
+        "path": "outputs/lagged_empirical_scan.csv",
+        "json": "outputs/manifests/tables/lagged_empirical_scan.json"
+      },
+      {
+        "file": "lagged_fifty_fifty_cut_long.csv",
+        "path": "outputs/lagged_fifty_fifty_cut_long.csv",
+        "json": "outputs/manifests/tables/lagged_fifty_fifty_cut_long.json"
+      },
+      {
+        "file": "lagged_fifty_fifty_cut.csv",
+        "path": "outputs/lagged_fifty_fifty_cut.csv",
+        "json": "outputs/manifests/tables/lagged_fifty_fifty_cut.json"
+      },
+      {
+        "file": "lagged_fifty_fifty_pooled.csv",
+        "path": "outputs/lagged_fifty_fifty_pooled.csv",
+        "json": "outputs/manifests/tables/lagged_fifty_fifty_pooled.json"
+      },
+      {
+        "file": "lagged_n_year_grade.csv",
+        "path": "outputs/lagged_n_year_grade.csv",
+        "json": "outputs/manifests/tables/lagged_n_year_grade.json"
+      },
+      {
+        "file": "local_by_wida_level.csv",
+        "path": "outputs/local_by_wida_level.csv",
+        "json": "outputs/manifests/tables/local_by_wida_level.json"
+      },
+      {
+        "file": "local_tau_changepoints.csv",
+        "path": "outputs/local_tau_changepoints.csv",
+        "json": "outputs/manifests/tables/local_tau_changepoints.json"
+      },
+      {
+        "file": "local_tau_curves.csv",
+        "path": "outputs/local_tau_curves.csv",
+        "json": "outputs/manifests/tables/local_tau_curves.json"
+      },
+      {
+        "file": "local_threshold_scan.csv",
+        "path": "outputs/local_threshold_scan.csv",
+        "json": "outputs/manifests/tables/local_threshold_scan.json"
+      },
+      {
+        "file": "n_never_el_reference.csv",
+        "path": "outputs/n_never_el_reference.csv",
+        "json": "outputs/manifests/tables/n_never_el_reference.json"
+      },
+      {
+        "file": "n_pairs_wida_band.csv",
+        "path": "outputs/n_pairs_wida_band.csv",
+        "json": "outputs/manifests/tables/n_pairs_wida_band.json"
+      },
+      {
+        "file": "n_pairs_wida_level.csv",
+        "path": "outputs/n_pairs_wida_level.csv",
+        "json": "outputs/manifests/tables/n_pairs_wida_level.json"
+      },
+      {
+        "file": "n_pairs_year_grade.csv",
+        "path": "outputs/n_pairs_year_grade.csv",
+        "json": "outputs/manifests/tables/n_pairs_year_grade.json"
+      },
+      {
+        "file": "n_totals.csv",
+        "path": "outputs/n_totals.csv",
+        "json": "outputs/manifests/tables/n_totals.json"
+      },
+      {
+        "file": "n_universe_vs_paired.csv",
+        "path": "outputs/n_universe_vs_paired.csv",
+        "json": "outputs/manifests/tables/n_universe_vs_paired.json"
+      },
+      {
+        "file": "pair_filters.csv",
+        "path": "outputs/pair_filters.csv",
+        "json": "outputs/manifests/tables/pair_filters.json"
+      },
+      {
+        "file": "pair_manifest.csv",
+        "path": "outputs/pair_manifest.csv",
+        "json": "outputs/manifests/tables/pair_manifest.json"
+      }
+    ],
+    "figures": [
+      {
+        "file": "02_n_heatmap.png",
+        "path": "figures/02_n_heatmap.png",
+        "stem": "02_n_heatmap"
+      },
+      {
+        "file": "03_pobs_facets_2021.png",
+        "path": "figures/03_pobs_facets_2021.png",
+        "stem": "03_pobs_facets_2021"
+      },
+      {
+        "file": "03_pobs_facets_2022.png",
+        "path": "figures/03_pobs_facets_2022.png",
+        "stem": "03_pobs_facets_2022"
+      },
+      {
+        "file": "03_pobs_facets_2023.png",
+        "path": "figures/03_pobs_facets_2023.png",
+        "stem": "03_pobs_facets_2023"
+      },
+      {
+        "file": "03_pobs_facets_2024.png",
+        "path": "figures/03_pobs_facets_2024.png",
+        "stem": "03_pobs_facets_2024"
+      },
+      {
+        "file": "03_pobs_facets_2025.png",
+        "path": "figures/03_pobs_facets_2025.png",
+        "stem": "03_pobs_facets_2025"
+      },
+      {
+        "file": "04_ilearn_by_level_2021.png",
+        "path": "figures/04_ilearn_by_level_2021.png",
+        "stem": "04_ilearn_by_level_2021"
+      },
+      {
+        "file": "04_ilearn_by_level_2022.png",
+        "path": "figures/04_ilearn_by_level_2022.png",
+        "stem": "04_ilearn_by_level_2022"
+      },
+      {
+        "file": "04_ilearn_by_level_2023.png",
+        "path": "figures/04_ilearn_by_level_2023.png",
+        "stem": "04_ilearn_by_level_2023"
+      },
+      {
+        "file": "04_ilearn_by_level_2024.png",
+        "path": "figures/04_ilearn_by_level_2024.png",
+        "stem": "04_ilearn_by_level_2024"
+      },
+      {
+        "file": "04_ilearn_by_level_2025.png",
+        "path": "figures/04_ilearn_by_level_2025.png",
+        "stem": "04_ilearn_by_level_2025"
+      },
+      {
+        "file": "04_ilearn_by_level_2026.png",
+        "path": "figures/04_ilearn_by_level_2026.png",
+        "stem": "04_ilearn_by_level_2026"
+      },
+      {
+        "file": "04_local_tau_2021.png",
+        "path": "figures/04_local_tau_2021.png",
+        "stem": "04_local_tau_2021"
+      },
+      {
+        "file": "04_local_tau_2022.png",
+        "path": "figures/04_local_tau_2022.png",
+        "stem": "04_local_tau_2022"
+      },
+      {
+        "file": "04_local_tau_2023.png",
+        "path": "figures/04_local_tau_2023.png",
+        "stem": "04_local_tau_2023"
+      },
+      {
+        "file": "04_local_tau_2024.png",
+        "path": "figures/04_local_tau_2024.png",
+        "stem": "04_local_tau_2024"
+      },
+      {
+        "file": "04_local_tau_2025.png",
+        "path": "figures/04_local_tau_2025.png",
+        "stem": "04_local_tau_2025"
+      },
+      {
+        "file": "04_local_tau_2026.png",
+        "path": "figures/04_local_tau_2026.png",
+        "stem": "04_local_tau_2026"
+      },
+      {
+        "file": "05_exit_youden_2021.png",
+        "path": "figures/05_exit_youden_2021.png",
+        "stem": "05_exit_youden_2021"
+      },
+      {
+        "file": "05_exit_youden_2022.png",
+        "path": "figures/05_exit_youden_2022.png",
+        "stem": "05_exit_youden_2022"
+      },
+      {
+        "file": "05_exit_youden_2023.png",
+        "path": "figures/05_exit_youden_2023.png",
+        "stem": "05_exit_youden_2023"
+      },
+      {
+        "file": "05_exit_youden_2024.png",
+        "path": "figures/05_exit_youden_2024.png",
+        "stem": "05_exit_youden_2024"
+      },
+      {
+        "file": "05_exit_youden_2025.png",
+        "path": "figures/05_exit_youden_2025.png",
+        "stem": "05_exit_youden_2025"
+      },
+      {
+        "file": "06_never_el_gap_primary.png",
+        "path": "figures/06_never_el_gap_primary.png",
+        "stem": "06_never_el_gap_primary"
+      },
+      {
+        "file": "07_exiter_n_heatmap.png",
+        "path": "figures/07_exiter_n_heatmap.png",
+        "stem": "07_exiter_n_heatmap"
+      },
+      {
+        "file": "07_exiter_percentile.png",
+        "path": "figures/07_exiter_percentile.png",
+        "stem": "07_exiter_percentile"
+      },
+      {
+        "file": "07_exiter_sgp.png",
+        "path": "figures/07_exiter_sgp.png",
+        "stem": "07_exiter_sgp"
+      },
+      {
+        "file": "08_lagged_fifty_fifty_by_grade.png",
+        "path": "figures/08_lagged_fifty_fifty_by_grade.png",
+        "stem": "08_lagged_fifty_fifty_by_grade"
+      },
+      {
+        "file": "08_lagged_p_prof_primary.png",
+        "path": "figures/08_lagged_p_prof_primary.png",
+        "stem": "08_lagged_p_prof_primary"
+      }
+    ]
+  }
+}

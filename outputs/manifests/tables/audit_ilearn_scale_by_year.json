@@ -1,0 +1,202 @@
+[
+  {
+    "CONTENT_AREA": "ELA",
+    "YEAR": 2016,
+    "n": 496225,
+    "min": 5090,
+    "q25": 5463,
+    "median": 5524,
+    "q75": 5583.2,
+    "max": 5919.6
+  },
+  {
+    "CONTENT_AREA": "ELA",
+    "YEAR": 2017,
+    "n": 498328,
+    "min": 5086.2,
+    "q25": 5460.6,
+    "median": 5522.6,
+    "q75": 5582.1,
+    "max": 5920
+  },
+  {
+    "CONTENT_AREA": "ELA",
+    "YEAR": 2018,
+    "n": 502987,
+    "min": 5086.2,
+    "q25": 5458.3,
+    "median": 5519.9,
+    "q75": 5580.3,
+    "max": 5920
+  },
+  {
+    "CONTENT_AREA": "ELA",
+    "YEAR": 2019,
+    "n": 507013,
+    "min": 5060,
+    "q25": 5459,
+    "median": 5521,
+    "q75": 5581,
+    "max": 5920
+  },
+  {
+    "CONTENT_AREA": "ELA",
+    "YEAR": 2021,
+    "n": 485816,
+    "min": 5060,
+    "q25": 5441,
+    "median": 5506,
+    "q75": 5570,
+    "max": 5920
+  },
+  {
+    "CONTENT_AREA": "ELA",
+    "YEAR": 2022,
+    "n": 492525,
+    "min": 5060,
+    "q25": 5441,
+    "median": 5507,
+    "q75": 5572,
+    "max": 5920
+  },
+  {
+    "CONTENT_AREA": "ELA",
+    "YEAR": 2023,
+    "n": 491961,
+    "min": 5060,
+    "q25": 5439,
+    "median": 5506,
+    "q75": 5571,
+    "max": 5920
+  },
+  {
+    "CONTENT_AREA": "ELA",
+    "YEAR": 2024,
+    "n": 493624,
+    "min": 5060,
+    "q25": 5438,
+    "median": 5505,
+    "q75": 5571,
+    "max": 5920
+  },
+  {
+    "CONTENT_AREA": "ELA",
+    "YEAR": 2025,
+    "n": 496871,
+    "min": 5060,
+    "q25": 5434,
+    "median": 5502,
+    "q75": 5571,
+    "max": 5920
+  },
+  {
+    "CONTENT_AREA": "ELA",
+    "YEAR": 2026,
+    "n": 494644,
+    "min": 5212.7,
+    "q25": 5433.1,
+    "median": 5502.7,
+    "q75": 5571.1,
+    "max": 5787.9
+  },
+  {
+    "CONTENT_AREA": "MATHEMATICS",
+    "YEAR": 2016,
+    "n": 496802,
+    "min": 6110,
+    "q25": 6441.7,
+    "median": 6503.8,
+    "q75": 6569.2,
+    "max": 6950
+  },
+  {
+    "CONTENT_AREA": "MATHEMATICS",
+    "YEAR": 2017,
+    "n": 499802,
+    "min": 6110,
+    "q25": 6438.9,
+    "median": 6503.8,
+    "q75": 6570,
+    "max": 6950
+  },
+  {
+    "CONTENT_AREA": "MATHEMATICS",
+    "YEAR": 2018,
+    "n": 504236,
+    "min": 6110,
+    "q25": 6438,
+    "median": 6503.8,
+    "q75": 6569.8,
+    "max": 6950
+  },
+  {
+    "CONTENT_AREA": "MATHEMATICS",
+    "YEAR": 2019,
+    "n": 506971,
+    "min": 6100,
+    "q25": 6439,
+    "median": 6504,
+    "q75": 6570,
+    "max": 6950
+  },
+  {
+    "CONTENT_AREA": "MATHEMATICS",
+    "YEAR": 2021,
+    "n": 485422,
+    "min": 6080,
+    "q25": 6414,
+    "median": 6482,
+    "q75": 6548,
+    "max": 6950
+  },
+  {
+    "CONTENT_AREA": "MATHEMATICS",
+    "YEAR": 2022,
+    "n": 492271,
+    "min": 6080,
+    "q25": 6417,
+    "median": 6486,
+    "q75": 6554,
+    "max": 6950
+  },
+  {
+    "CONTENT_AREA": "MATHEMATICS",
+    "YEAR": 2023,
+    "n": 491741,
+    "min": 6080,
+    "q25": 6417,
+    "median": 6488,
+    "q75": 6558,
+    "max": 6950
+  },
+  {
+    "CONTENT_AREA": "MATHEMATICS",
+    "YEAR": 2024,
+    "n": 493272,
+    "min": 6080,
+    "q25": 6416,
+    "median": 6487,
+    "q75": 6557,
+    "max": 6950
+  },
+  {
+    "CONTENT_AREA": "MATHEMATICS",
+    "YEAR": 2025,
+    "n": 496588,
+    "min": 6080,
+    "q25": 6415,
+    "median": 6489,
+    "q75": 6562,
+    "max": 6950
+  },
+  {
+    "CONTENT_AREA": "MATHEMATICS",
+    "YEAR": 2026,
+    "n": 494331,
+    "min": 6112.6,
+    "q25": 6415.3,
+    "median": 6489.1,
+    "q75": 6562.6,
+    "max": 6862.3
+  }
+]

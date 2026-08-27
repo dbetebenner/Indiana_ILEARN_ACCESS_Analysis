@@ -1,0 +1,18 @@
+[
+  {
+    "window": "primary",
+    "n": 168693,
+    "family": "gaussian",
+    "v_star": 0.83,
+    "p_never_el_proficient": 0.4343,
+    "copula_u_star": 0.9048,
+    "copula_cut": 4.8,
+    "copula_reached": true,
+    "copula_p_at_cut": 0.4998,
+    "empirical_local_cut": 5.1,
+    "p_ge_4.3": 0.4246,
+    "p_ge_5.0": 0.5915,
+    "p_local_4.3": 0.2729,
+    "p_local_5.0": 0.4796
+  }
+]

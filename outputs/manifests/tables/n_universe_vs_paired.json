@@ -1,0 +1,530 @@
+[
+  {
+    "YEAR": 2016,
+    "GRADE": 3,
+    "n_ilearn": 85400,
+    "n_wida": null,
+    "n_paired": 0,
+    "wida_pair_rate": null
+  },
+  {
+    "YEAR": 2016,
+    "GRADE": 4,
+    "n_ilearn": 82977,
+    "n_wida": null,
+    "n_paired": 0,
+    "wida_pair_rate": null
+  },
+  {
+    "YEAR": 2016,
+    "GRADE": 5,
+    "n_ilearn": 81923,
+    "n_wida": null,
+    "n_paired": 0,
+    "wida_pair_rate": null
+  },
+  {
+    "YEAR": 2016,
+    "GRADE": 6,
+    "n_ilearn": 82981,
+    "n_wida": null,
+    "n_paired": 0,
+    "wida_pair_rate": null
+  },
+  {
+    "YEAR": 2016,
+    "GRADE": 7,
+    "n_ilearn": 80859,
+    "n_wida": null,
+    "n_paired": 0,
+    "wida_pair_rate": null
+  },
+  {
+    "YEAR": 2016,
+    "GRADE": 8,
+    "n_ilearn": 82085,
+    "n_wida": null,
+    "n_paired": 0,
+    "wida_pair_rate": null
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 3,
+    "n_ilearn": 85176,
+    "n_wida": 6115,
+    "n_paired": 5706,
+    "wida_pair_rate": 0.933
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 4,
+    "n_ilearn": 84224,
+    "n_wida": 3493,
+    "n_paired": 3166,
+    "wida_pair_rate": 0.906
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 5,
+    "n_ilearn": 83418,
+    "n_wida": 2342,
+    "n_paired": 2044,
+    "wida_pair_rate": 0.873
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 6,
+    "n_ilearn": 81943,
+    "n_wida": 2219,
+    "n_paired": 1908,
+    "wida_pair_rate": 0.86
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 7,
+    "n_ilearn": 82813,
+    "n_wida": 2737,
+    "n_paired": 2476,
+    "wida_pair_rate": 0.905
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 8,
+    "n_ilearn": 80754,
+    "n_wida": 2751,
+    "n_paired": 2437,
+    "wida_pair_rate": 0.886
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "n_ilearn": 83500,
+    "n_wida": 7264,
+    "n_paired": 7121,
+    "wida_pair_rate": 0.98
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "n_ilearn": 85237,
+    "n_wida": 6338,
+    "n_paired": 6239,
+    "wida_pair_rate": 0.984
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "n_ilearn": 85171,
+    "n_wida": 3751,
+    "n_paired": 3665,
+    "wida_pair_rate": 0.977
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "n_ilearn": 83810,
+    "n_wida": 2642,
+    "n_paired": 2567,
+    "wida_pair_rate": 0.972
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "n_ilearn": 82277,
+    "n_wida": 2517,
+    "n_paired": 2442,
+    "wida_pair_rate": 0.97
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "n_ilearn": 82992,
+    "n_wida": 2951,
+    "n_paired": 2862,
+    "wida_pair_rate": 0.97
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "n_ilearn": 83072,
+    "n_wida": 7760,
+    "n_paired": 7673,
+    "wida_pair_rate": 0.989
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "n_ilearn": 84147,
+    "n_wida": 7400,
+    "n_paired": 7334,
+    "wida_pair_rate": 0.991
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "n_ilearn": 86381,
+    "n_wida": 5700,
+    "n_paired": 5642,
+    "wida_pair_rate": 0.99
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "n_ilearn": 85832,
+    "n_wida": 3657,
+    "n_paired": 3589,
+    "wida_pair_rate": 0.981
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "n_ilearn": 84590,
+    "n_wida": 2940,
+    "n_paired": 2874,
+    "wida_pair_rate": 0.978
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "n_ilearn": 82991,
+    "n_wida": 2750,
+    "n_paired": 2688,
+    "wida_pair_rate": 0.977
+  },
+  {
+    "YEAR": 2020,
+    "GRADE": 3,
+    "n_ilearn": null,
+    "n_wida": 7965,
+    "n_paired": 0,
+    "wida_pair_rate": 0
+  },
+  {
+    "YEAR": 2020,
+    "GRADE": 4,
+    "n_ilearn": null,
+    "n_wida": 7817,
+    "n_paired": 0,
+    "wida_pair_rate": 0
+  },
+  {
+    "YEAR": 2020,
+    "GRADE": 5,
+    "n_ilearn": null,
+    "n_wida": 6571,
+    "n_paired": 0,
+    "wida_pair_rate": 0
+  },
+  {
+    "YEAR": 2020,
+    "GRADE": 6,
+    "n_ilearn": null,
+    "n_wida": 5158,
+    "n_paired": 0,
+    "wida_pair_rate": 0
+  },
+  {
+    "YEAR": 2020,
+    "GRADE": 7,
+    "n_ilearn": null,
+    "n_wida": 3985,
+    "n_paired": 0,
+    "wida_pair_rate": 0
+  },
+  {
+    "YEAR": 2020,
+    "GRADE": 8,
+    "n_ilearn": null,
+    "n_wida": 3205,
+    "n_paired": 0,
+    "wida_pair_rate": 0
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "n_ilearn": 79376,
+    "n_wida": 7982,
+    "n_paired": 7849,
+    "wida_pair_rate": 0.983
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "n_ilearn": 78964,
+    "n_wida": 7615,
+    "n_paired": 7468,
+    "wida_pair_rate": 0.981
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "n_ilearn": 80278,
+    "n_wida": 6304,
+    "n_paired": 6185,
+    "wida_pair_rate": 0.981
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "n_ilearn": 81590,
+    "n_wida": 5382,
+    "n_paired": 5263,
+    "wida_pair_rate": 0.978
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "n_ilearn": 83006,
+    "n_wida": 5170,
+    "n_paired": 4988,
+    "wida_pair_rate": 0.965
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "n_ilearn": 82601,
+    "n_wida": 3994,
+    "n_paired": 3835,
+    "wida_pair_rate": 0.96
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "n_ilearn": 79912,
+    "n_wida": 8144,
+    "n_paired": 8045,
+    "wida_pair_rate": 0.988
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "n_ilearn": 81000,
+    "n_wida": 8373,
+    "n_paired": 8289,
+    "wida_pair_rate": 0.99
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "n_ilearn": 81100,
+    "n_wida": 6908,
+    "n_paired": 6822,
+    "wida_pair_rate": 0.988
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "n_ilearn": 82179,
+    "n_wida": 5805,
+    "n_paired": 5725,
+    "wida_pair_rate": 0.986
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "n_ilearn": 83344,
+    "n_wida": 5842,
+    "n_paired": 5733,
+    "wida_pair_rate": 0.981
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "n_ilearn": 84989,
+    "n_wida": 5548,
+    "n_paired": 5434,
+    "wida_pair_rate": 0.979
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "n_ilearn": 82145,
+    "n_wida": 8812,
+    "n_paired": 8714,
+    "wida_pair_rate": 0.989
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "n_ilearn": 80453,
+    "n_wida": 8495,
+    "n_paired": 8381,
+    "wida_pair_rate": 0.987
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "n_ilearn": 81840,
+    "n_wida": 7332,
+    "n_paired": 7246,
+    "wida_pair_rate": 0.988
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "n_ilearn": 81611,
+    "n_wida": 6253,
+    "n_paired": 6143,
+    "wida_pair_rate": 0.982
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "n_ilearn": 82341,
+    "n_wida": 6311,
+    "n_paired": 6187,
+    "wida_pair_rate": 0.98
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "n_ilearn": 83571,
+    "n_wida": 6236,
+    "n_paired": 6101,
+    "wida_pair_rate": 0.978
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "n_ilearn": 81779,
+    "n_wida": 9206,
+    "n_paired": 9074,
+    "wida_pair_rate": 0.986
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "n_ilearn": 82893,
+    "n_wida": 9307,
+    "n_paired": 9211,
+    "wida_pair_rate": 0.99
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "n_ilearn": 81242,
+    "n_wida": 7803,
+    "n_paired": 7700,
+    "wida_pair_rate": 0.987
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "n_ilearn": 82558,
+    "n_wida": 7019,
+    "n_paired": 6921,
+    "wida_pair_rate": 0.986
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "n_ilearn": 82151,
+    "n_wida": 6942,
+    "n_paired": 6807,
+    "wida_pair_rate": 0.981
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "n_ilearn": 83001,
+    "n_wida": 6958,
+    "n_paired": 6838,
+    "wida_pair_rate": 0.983
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "n_ilearn": 84260,
+    "n_wida": 9980,
+    "n_paired": 9821,
+    "wida_pair_rate": 0.984
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "n_ilearn": 82139,
+    "n_wida": 9321,
+    "n_paired": 9187,
+    "wida_pair_rate": 0.986
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "n_ilearn": 83393,
+    "n_wida": 8214,
+    "n_paired": 8082,
+    "wida_pair_rate": 0.984
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "n_ilearn": 81789,
+    "n_wida": 7048,
+    "n_paired": 6919,
+    "wida_pair_rate": 0.982
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "n_ilearn": 82843,
+    "n_wida": 7561,
+    "n_paired": 7419,
+    "wida_pair_rate": 0.981
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "n_ilearn": 82447,
+    "n_wida": 7316,
+    "n_paired": 7164,
+    "wida_pair_rate": 0.979
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "n_ilearn": 83739,
+    "n_wida": 10235,
+    "n_paired": 10088,
+    "wida_pair_rate": 0.986
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "n_ilearn": 81274,
+    "n_wida": 8629,
+    "n_paired": 8515,
+    "wida_pair_rate": 0.987
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "n_ilearn": 82124,
+    "n_wida": 7534,
+    "n_paired": 7421,
+    "wida_pair_rate": 0.985
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "n_ilearn": 83208,
+    "n_wida": 6739,
+    "n_paired": 6660,
+    "wida_pair_rate": 0.988
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "n_ilearn": 81558,
+    "n_wida": 6976,
+    "n_paired": 6850,
+    "wida_pair_rate": 0.982
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "n_ilearn": 82741,
+    "n_wida": 7252,
+    "n_paired": 7115,
+    "wida_pair_rate": 0.981
+  }
+]

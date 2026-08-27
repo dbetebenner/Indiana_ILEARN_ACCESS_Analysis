@@ -1,0 +1,2342 @@
+[
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 259,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 44,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 19,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 38,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 11,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 231,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 67223,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 5928,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 1310,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 177,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 69,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 58,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 35,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 15,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 1240,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 67677,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 3854,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 1994,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 26,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 160,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 58,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 31,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 27,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 989,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 69982,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 3142,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 1730,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 39,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 232,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 17,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 56,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 12,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 68,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 71866,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 4400,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 472,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 233,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 23,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 48,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 10,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 131,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 73334,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 3925,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 606,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 8,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 3164,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 8,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 518,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 8,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 153,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 279,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 39,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 14,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 43,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 282,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 67999,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 6181,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 1195,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 168,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 90,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 66,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 30,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 1612,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 69416,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 4065,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 2234,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 16,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 181,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 55,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 31,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 31,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 1235,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 70526,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 3416,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 1846,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 20,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 266,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 25,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 50,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 54,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 72263,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 4680,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 637,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 238,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 29,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 43,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 11,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 134,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 73379,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 4567,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 703,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 8,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 4353,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 8,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 886,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 8,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 195,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 315,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 33,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 11,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 54,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 23,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 372,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 70428,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 6680,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 1223,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 221,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 61,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 62,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 24,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 1517,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 69304,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 4226,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 2245,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 16,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 212,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 68,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 42,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 22,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 17,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 1132,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 71592,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 3768,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 1975,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 10,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 318,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 19,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 66,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 12,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 48,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 72225,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 5083,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 593,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 285,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 24,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 55,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 103,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 72783,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 4987,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 715,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 8,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 5125,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 8,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 850,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 8,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 126,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 394,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 52,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 17,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 45,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 223,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 419,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 69602,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 6858,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 3,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 1062,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 274,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 86,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 45,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 24,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 236,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 1559,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 70824,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 4905,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 2068,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 4,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 14,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 265,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 65,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 38,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 43,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 175,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 1216,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 70595,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 4024,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 1856,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 5,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 18,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 355,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 27,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 53,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 94,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 84,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 72313,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 5664,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 6,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 641,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 346,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 37,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 46,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 94,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 142,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 72042,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 5364,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 7,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 770,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 8,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 5515,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 8,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 1091,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 8,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 232,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 3,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 1046,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 3,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 63,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 3,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 23,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 3,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 31,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 3,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 430,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 3,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 458,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 3,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 69394,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 3,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 6623,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 3,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 1143,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 4,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 364,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 4,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 79,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 4,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 56,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 4,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 29,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 4,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 297,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 4,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 1583,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 4,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 70188,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 4,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 4729,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 4,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 2038,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 4,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 12,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 5,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 293,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 5,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 78,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 5,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 61,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 5,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 44,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 5,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 196,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 5,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 1311,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 5,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 72226,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 5,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 4234,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 5,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 1861,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 6,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 421,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 6,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 36,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 6,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 12,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 6,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 52,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 6,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 117,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 6,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 85,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 6,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 71654,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 6,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 5586,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 6,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 609,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 7,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 385,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 7,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 39,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 7,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 19,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 7,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 75,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 7,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 157,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 7,
+    "role": "exiter",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 182,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 7,
+    "role": "never_el",
+    "WIDA_EXIT_BAND": "",
+    "N": 72292,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 7,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 5731,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 7,
+    "role": "stayer",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 829,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 8,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "<4.3",
+    "N": 5619,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 8,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": "4.3-4.9",
+    "N": 1248,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 8,
+    "role": "attritor",
+    "WIDA_EXIT_BAND": ">=5.0",
+    "N": 297,
+    "suppress": false
+  }
+]

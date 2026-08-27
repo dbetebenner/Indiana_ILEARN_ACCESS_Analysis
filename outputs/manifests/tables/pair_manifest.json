@@ -1,0 +1,101 @@
+[
+  {
+    "YEAR": 2017,
+    "YEAR_STRATUM": "istep_contrast",
+    "n_pairs": 17737,
+    "n_grades": 6,
+    "grades": "3,4,5,6,7,8",
+    "ilearn_score_min": 5086.2,
+    "ilearn_score_max": 5760.9,
+    "wida_pl_min": 1.3,
+    "wida_pl_max": 6
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "n_pairs": 24896,
+    "n_grades": 6,
+    "grades": "3,4,5,6,7,8",
+    "ilearn_score_min": 5086.2,
+    "ilearn_score_max": 5719.4,
+    "wida_pl_min": 1.3,
+    "wida_pl_max": 6
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "n_pairs": 29800,
+    "n_grades": 6,
+    "grades": "3,4,5,6,7,8",
+    "ilearn_score_min": 5087,
+    "ilearn_score_max": 5731,
+    "wida_pl_min": 1.2,
+    "wida_pl_max": 6
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "n_pairs": 35588,
+    "n_grades": 6,
+    "grades": "3,4,5,6,7,8",
+    "ilearn_score_min": 5065,
+    "ilearn_score_max": 5778,
+    "wida_pl_min": 1.2,
+    "wida_pl_max": 6
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "n_pairs": 40048,
+    "n_grades": 6,
+    "grades": "3,4,5,6,7,8",
+    "ilearn_score_min": 5060,
+    "ilearn_score_max": 5743,
+    "wida_pl_min": 1.3,
+    "wida_pl_max": 6
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "n_pairs": 42772,
+    "n_grades": 6,
+    "grades": "3,4,5,6,7,8",
+    "ilearn_score_min": 5090,
+    "ilearn_score_max": 5764,
+    "wida_pl_min": 1.3,
+    "wida_pl_max": 6
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "n_pairs": 46551,
+    "n_grades": 6,
+    "grades": "3,4,5,6,7,8",
+    "ilearn_score_min": 5060,
+    "ilearn_score_max": 5805,
+    "wida_pl_min": 1.3,
+    "wida_pl_max": 6
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "n_pairs": 48592,
+    "n_grades": 6,
+    "grades": "3,4,5,6,7,8",
+    "ilearn_score_min": 5060,
+    "ilearn_score_max": 5762,
+    "wida_pl_min": 1.3,
+    "wida_pl_max": 6
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "n_pairs": 46649,
+    "n_grades": 6,
+    "grades": "3,4,5,6,7,8",
+    "ilearn_score_min": 5212.7,
+    "ilearn_score_max": 5787.9,
+    "wida_pl_min": 1.1,
+    "wida_pl_max": 6
+  }
+]

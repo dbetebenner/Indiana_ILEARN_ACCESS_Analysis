@@ -1,0 +1,242 @@
+[
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 3,
+    "N": 7176,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 4,
+    "N": 7594,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 5,
+    "N": 7251,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 6,
+    "N": 5999,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 7,
+    "N": 5080,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2021,
+    "YEAR_T1": 2022,
+    "window": "primary",
+    "GRADE": 8,
+    "N": 4846,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 3,
+    "N": 7759,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 4,
+    "N": 7747,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 5,
+    "N": 7987,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 6,
+    "N": 6577,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 7,
+    "N": 5456,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2022,
+    "YEAR_T1": 2023,
+    "window": "primary",
+    "GRADE": 8,
+    "N": 5498,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 3,
+    "N": 7923,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 4,
+    "N": 8383,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 5,
+    "N": 8070,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 6,
+    "N": 6945,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 7,
+    "N": 5838,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2023,
+    "YEAR_T1": 2024,
+    "window": "primary",
+    "GRADE": 8,
+    "N": 5924,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 3,
+    "N": 8784,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 4,
+    "N": 8642,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 5,
+    "N": 8828,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 6,
+    "N": 7355,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 7,
+    "N": 6563,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2024,
+    "YEAR_T1": 2025,
+    "window": "primary",
+    "GRADE": 8,
+    "N": 6468,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 3,
+    "N": 8988,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 4,
+    "N": 8729,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 5,
+    "N": 8717,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 6,
+    "N": 7682,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 7,
+    "N": 6508,
+    "suppress": false
+  },
+  {
+    "YEAR_T": 2025,
+    "YEAR_T1": 2026,
+    "window": "ranks_only",
+    "GRADE": 8,
+    "N": 7037,
+    "suppress": false
+  }
+]

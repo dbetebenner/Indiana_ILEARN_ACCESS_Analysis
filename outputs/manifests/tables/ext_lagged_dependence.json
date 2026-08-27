@@ -1,0 +1,386 @@
+[
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 3,
+    "n": 6423,
+    "kendall": 0.5019,
+    "spearman": 0.6896
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 4,
+    "n": 5739,
+    "kendall": 0.4833,
+    "spearman": 0.6657
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 5,
+    "n": 3274,
+    "kendall": 0.4614,
+    "spearman": 0.6351
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 6,
+    "n": 2160,
+    "kendall": 0.464,
+    "spearman": 0.6444
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 7,
+    "n": 2022,
+    "kendall": 0.4785,
+    "spearman": 0.6566
+  },
+  {
+    "YEAR": 2018,
+    "YEAR_STRATUM": "istep_contrast",
+    "GRADE": 8,
+    "n": 2519,
+    "kendall": 0.4812,
+    "spearman": 0.6645
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 3,
+    "n": 6987,
+    "kendall": 0.5019,
+    "spearman": 0.6897
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 4,
+    "n": 6909,
+    "kendall": 0.4949,
+    "spearman": 0.6815
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 5,
+    "n": 6038,
+    "kendall": 0.4782,
+    "spearman": 0.6599
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 6,
+    "n": 3506,
+    "kendall": 0.4447,
+    "spearman": 0.6209
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 7,
+    "n": 2442,
+    "kendall": 0.4573,
+    "spearman": 0.6349
+  },
+  {
+    "YEAR": 2019,
+    "YEAR_STRATUM": "ilearn_2019",
+    "GRADE": 8,
+    "n": 2327,
+    "kendall": 0.4952,
+    "spearman": 0.6778
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 3,
+    "n": 7578,
+    "kendall": 0.5158,
+    "spearman": 0.7066
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 4,
+    "n": 7466,
+    "kendall": 0.5339,
+    "spearman": 0.727
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 5,
+    "n": 7370,
+    "kendall": 0.5202,
+    "spearman": 0.7082
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 6,
+    "n": 6159,
+    "kendall": 0.4896,
+    "spearman": 0.6749
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 7,
+    "n": 4750,
+    "kendall": 0.4618,
+    "spearman": 0.6432
+  },
+  {
+    "YEAR": 2021,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 8,
+    "n": 3658,
+    "kendall": 0.4919,
+    "spearman": 0.6779
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 3,
+    "n": 7176,
+    "kendall": 0.5277,
+    "spearman": 0.7219
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 4,
+    "n": 7594,
+    "kendall": 0.5263,
+    "spearman": 0.7197
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 5,
+    "n": 7251,
+    "kendall": 0.5337,
+    "spearman": 0.7248
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 6,
+    "n": 5999,
+    "kendall": 0.4762,
+    "spearman": 0.6604
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 7,
+    "n": 5080,
+    "kendall": 0.4572,
+    "spearman": 0.6348
+  },
+  {
+    "YEAR": 2022,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 8,
+    "n": 4846,
+    "kendall": 0.4809,
+    "spearman": 0.6639
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 3,
+    "n": 7759,
+    "kendall": 0.5503,
+    "spearman": 0.7459
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 4,
+    "n": 7747,
+    "kendall": 0.5495,
+    "spearman": 0.7461
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 5,
+    "n": 7987,
+    "kendall": 0.5521,
+    "spearman": 0.7453
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 6,
+    "n": 6577,
+    "kendall": 0.5083,
+    "spearman": 0.6968
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 7,
+    "n": 5456,
+    "kendall": 0.4767,
+    "spearman": 0.6598
+  },
+  {
+    "YEAR": 2023,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 8,
+    "n": 5498,
+    "kendall": 0.5052,
+    "spearman": 0.6917
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 3,
+    "n": 7923,
+    "kendall": 0.5457,
+    "spearman": 0.7401
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 4,
+    "n": 8383,
+    "kendall": 0.5653,
+    "spearman": 0.7625
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 5,
+    "n": 8070,
+    "kendall": 0.5519,
+    "spearman": 0.7476
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 6,
+    "n": 6945,
+    "kendall": 0.5071,
+    "spearman": 0.6972
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 7,
+    "n": 5838,
+    "kendall": 0.4848,
+    "spearman": 0.6709
+  },
+  {
+    "YEAR": 2024,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 8,
+    "n": 5924,
+    "kendall": 0.5222,
+    "spearman": 0.7115
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 3,
+    "n": 8784,
+    "kendall": 0.5322,
+    "spearman": 0.728
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 4,
+    "n": 8642,
+    "kendall": 0.5385,
+    "spearman": 0.7342
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 5,
+    "n": 8828,
+    "kendall": 0.5524,
+    "spearman": 0.7503
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 6,
+    "n": 7355,
+    "kendall": 0.5028,
+    "spearman": 0.694
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 7,
+    "n": 6563,
+    "kendall": 0.4693,
+    "spearman": 0.656
+  },
+  {
+    "YEAR": 2025,
+    "YEAR_STRATUM": "primary",
+    "GRADE": 8,
+    "n": 6468,
+    "kendall": 0.4918,
+    "spearman": 0.6837
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 3,
+    "n": 8988,
+    "kendall": 0.559,
+    "spearman": 0.7531
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 4,
+    "n": 8729,
+    "kendall": 0.5524,
+    "spearman": 0.7465
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 5,
+    "n": 8717,
+    "kendall": 0.5545,
+    "spearman": 0.7493
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 6,
+    "n": 7682,
+    "kendall": 0.5358,
+    "spearman": 0.7298
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 7,
+    "n": 6508,
+    "kendall": 0.5165,
+    "spearman": 0.7082
+  },
+  {
+    "YEAR": 2026,
+    "YEAR_STRATUM": "ilearn_2026",
+    "GRADE": 8,
+    "n": 7037,
+    "kendall": 0.5259,
+    "spearman": 0.7189
+  }
+]

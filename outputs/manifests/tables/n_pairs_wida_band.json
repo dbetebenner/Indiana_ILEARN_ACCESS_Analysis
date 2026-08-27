@@ -1,0 +1,1730 @@
+[
+  {
+    "YEAR": 2017,
+    "GRADE": 3,
+    "WIDA_BAND": "<4.0",
+    "N": 4004,
+    "ilearn_prof_rate": 0.066,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 3,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 792,
+    "ilearn_prof_rate": 0.23,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 3,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 808,
+    "ilearn_prof_rate": 0.46,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 3,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 102,
+    "ilearn_prof_rate": 0.755,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 4,
+    "WIDA_BAND": "<4.0",
+    "N": 1695,
+    "ilearn_prof_rate": 0.008,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 4,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 602,
+    "ilearn_prof_rate": 0.035,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 4,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 740,
+    "ilearn_prof_rate": 0.115,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 4,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 129,
+    "ilearn_prof_rate": 0.426,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 5,
+    "WIDA_BAND": "<4.0",
+    "N": 1154,
+    "ilearn_prof_rate": 0.001,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 5,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 340,
+    "ilearn_prof_rate": 0.029,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 5,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 461,
+    "ilearn_prof_rate": 0.082,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 5,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 89,
+    "ilearn_prof_rate": 0.494,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 6,
+    "WIDA_BAND": "<4.0",
+    "N": 1519,
+    "ilearn_prof_rate": 0.009,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 6,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 193,
+    "ilearn_prof_rate": 0.14,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 6,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 169,
+    "ilearn_prof_rate": 0.172,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 6,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 27,
+    "ilearn_prof_rate": 0.741,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 7,
+    "WIDA_BAND": "<4.0",
+    "N": 1716,
+    "ilearn_prof_rate": 0.009,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 7,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 382,
+    "ilearn_prof_rate": 0.073,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 7,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 328,
+    "ilearn_prof_rate": 0.177,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 7,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 50,
+    "ilearn_prof_rate": 0.52,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 8,
+    "WIDA_BAND": "<4.0",
+    "N": 1575,
+    "ilearn_prof_rate": 0.01,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 8,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 397,
+    "ilearn_prof_rate": 0.038,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 8,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 414,
+    "ilearn_prof_rate": 0.101,
+    "suppress": false
+  },
+  {
+    "YEAR": 2017,
+    "GRADE": 8,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 51,
+    "ilearn_prof_rate": 0.569,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "WIDA_BAND": "<4.0",
+    "N": 4471,
+    "ilearn_prof_rate": 0.046,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 1039,
+    "ilearn_prof_rate": 0.258,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 1360,
+    "ilearn_prof_rate": 0.505,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 3,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 251,
+    "ilearn_prof_rate": 0.841,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_BAND": "<4.0",
+    "N": 2067,
+    "ilearn_prof_rate": 0.008,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 961,
+    "ilearn_prof_rate": 0.034,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 2153,
+    "ilearn_prof_rate": 0.139,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 4,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 1058,
+    "ilearn_prof_rate": 0.484,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_BAND": "<4.0",
+    "N": 1549,
+    "ilearn_prof_rate": 0.006,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 549,
+    "ilearn_prof_rate": 0.016,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 1081,
+    "ilearn_prof_rate": 0.079,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 5,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 486,
+    "ilearn_prof_rate": 0.34,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "WIDA_BAND": "<4.0",
+    "N": 1960,
+    "ilearn_prof_rate": 0.01,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 284,
+    "ilearn_prof_rate": 0.099,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 282,
+    "ilearn_prof_rate": 0.262,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 6,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 41,
+    "ilearn_prof_rate": 0.732,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "WIDA_BAND": "<4.0",
+    "N": 1796,
+    "ilearn_prof_rate": 0.009,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 285,
+    "ilearn_prof_rate": 0.074,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 300,
+    "ilearn_prof_rate": 0.263,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 7,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 61,
+    "ilearn_prof_rate": 0.754,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "WIDA_BAND": "<4.0",
+    "N": 1885,
+    "ilearn_prof_rate": 0.01,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 422,
+    "ilearn_prof_rate": 0.081,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 473,
+    "ilearn_prof_rate": 0.197,
+    "suppress": false
+  },
+  {
+    "YEAR": 2018,
+    "GRADE": 8,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 82,
+    "ilearn_prof_rate": 0.585,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "WIDA_BAND": "<4.0",
+    "N": 4528,
+    "ilearn_prof_rate": 0.065,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 1066,
+    "ilearn_prof_rate": 0.271,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 1644,
+    "ilearn_prof_rate": 0.577,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 3,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 435,
+    "ilearn_prof_rate": 0.855,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_BAND": "<4.0",
+    "N": 2235,
+    "ilearn_prof_rate": 0.01,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 1062,
+    "ilearn_prof_rate": 0.056,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 2619,
+    "ilearn_prof_rate": 0.198,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 4,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 1418,
+    "ilearn_prof_rate": 0.587,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_BAND": "<4.0",
+    "N": 1748,
+    "ilearn_prof_rate": 0.007,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 859,
+    "ilearn_prof_rate": 0.029,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 2063,
+    "ilearn_prof_rate": 0.139,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 5,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 972,
+    "ilearn_prof_rate": 0.412,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "WIDA_BAND": "<4.0",
+    "N": 2575,
+    "ilearn_prof_rate": 0.017,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 555,
+    "ilearn_prof_rate": 0.103,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 420,
+    "ilearn_prof_rate": 0.264,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 6,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 39,
+    "ilearn_prof_rate": 0.846,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "WIDA_BAND": "<4.0",
+    "N": 2017,
+    "ilearn_prof_rate": 0.016,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 385,
+    "ilearn_prof_rate": 0.094,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 366,
+    "ilearn_prof_rate": 0.276,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 7,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 106,
+    "ilearn_prof_rate": 0.717,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "WIDA_BAND": "<4.0",
+    "N": 1817,
+    "ilearn_prof_rate": 0.012,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 346,
+    "ilearn_prof_rate": 0.075,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 424,
+    "ilearn_prof_rate": 0.252,
+    "suppress": false
+  },
+  {
+    "YEAR": 2019,
+    "GRADE": 8,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 101,
+    "ilearn_prof_rate": 0.584,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "WIDA_BAND": "<4.0",
+    "N": 5241,
+    "ilearn_prof_rate": 0.044,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 984,
+    "ilearn_prof_rate": 0.261,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 1365,
+    "ilearn_prof_rate": 0.52,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 3,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 259,
+    "ilearn_prof_rate": 0.776,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_BAND": "<4.0",
+    "N": 3006,
+    "ilearn_prof_rate": 0.009,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 1060,
+    "ilearn_prof_rate": 0.053,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 2078,
+    "ilearn_prof_rate": 0.202,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 4,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 1324,
+    "ilearn_prof_rate": 0.545,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_BAND": "<4.0",
+    "N": 2483,
+    "ilearn_prof_rate": 0.006,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 846,
+    "ilearn_prof_rate": 0.022,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 1797,
+    "ilearn_prof_rate": 0.098,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 5,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 1059,
+    "ilearn_prof_rate": 0.331,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "WIDA_BAND": "<4.0",
+    "N": 4073,
+    "ilearn_prof_rate": 0.023,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 615,
+    "ilearn_prof_rate": 0.159,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 501,
+    "ilearn_prof_rate": 0.301,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 6,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 74,
+    "ilearn_prof_rate": 0.689,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "WIDA_BAND": "<4.0",
+    "N": 3616,
+    "ilearn_prof_rate": 0.015,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 590,
+    "ilearn_prof_rate": 0.103,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 639,
+    "ilearn_prof_rate": 0.219,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 7,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 143,
+    "ilearn_prof_rate": 0.601,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_BAND": "<4.0",
+    "N": 2772,
+    "ilearn_prof_rate": 0.009,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 392,
+    "ilearn_prof_rate": 0.071,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 518,
+    "ilearn_prof_rate": 0.178,
+    "suppress": false
+  },
+  {
+    "YEAR": 2021,
+    "GRADE": 8,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 153,
+    "ilearn_prof_rate": 0.529,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_BAND": "<4.0",
+    "N": 5532,
+    "ilearn_prof_rate": 0.061,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 971,
+    "ilearn_prof_rate": 0.339,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 1238,
+    "ilearn_prof_rate": 0.597,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 3,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 304,
+    "ilearn_prof_rate": 0.859,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_BAND": "<4.0",
+    "N": 3177,
+    "ilearn_prof_rate": 0.008,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 1086,
+    "ilearn_prof_rate": 0.051,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 2332,
+    "ilearn_prof_rate": 0.201,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 4,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 1694,
+    "ilearn_prof_rate": 0.589,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_BAND": "<4.0",
+    "N": 2709,
+    "ilearn_prof_rate": 0.008,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 919,
+    "ilearn_prof_rate": 0.041,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 1908,
+    "ilearn_prof_rate": 0.125,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 5,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 1286,
+    "ilearn_prof_rate": 0.411,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "WIDA_BAND": "<4.0",
+    "N": 4244,
+    "ilearn_prof_rate": 0.018,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 752,
+    "ilearn_prof_rate": 0.142,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 669,
+    "ilearn_prof_rate": 0.306,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 6,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 60,
+    "ilearn_prof_rate": 0.717,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "WIDA_BAND": "<4.0",
+    "N": 4127,
+    "ilearn_prof_rate": 0.02,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 721,
+    "ilearn_prof_rate": 0.108,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 743,
+    "ilearn_prof_rate": 0.275,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 7,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 142,
+    "ilearn_prof_rate": 0.655,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "WIDA_BAND": "<4.0",
+    "N": 3683,
+    "ilearn_prof_rate": 0.013,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 670,
+    "ilearn_prof_rate": 0.093,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 886,
+    "ilearn_prof_rate": 0.243,
+    "suppress": false
+  },
+  {
+    "YEAR": 2022,
+    "GRADE": 8,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 195,
+    "ilearn_prof_rate": 0.467,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "WIDA_BAND": "<4.0",
+    "N": 6102,
+    "ilearn_prof_rate": 0.048,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 947,
+    "ilearn_prof_rate": 0.295,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 1279,
+    "ilearn_prof_rate": 0.552,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 3,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 386,
+    "ilearn_prof_rate": 0.85,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_BAND": "<4.0",
+    "N": 3386,
+    "ilearn_prof_rate": 0.008,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 1085,
+    "ilearn_prof_rate": 0.065,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 2315,
+    "ilearn_prof_rate": 0.217,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 4,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 1595,
+    "ilearn_prof_rate": 0.601,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_BAND": "<4.0",
+    "N": 3043,
+    "ilearn_prof_rate": 0.005,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 959,
+    "ilearn_prof_rate": 0.028,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 2060,
+    "ilearn_prof_rate": 0.122,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 5,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 1184,
+    "ilearn_prof_rate": 0.39,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "WIDA_BAND": "<4.0",
+    "N": 4711,
+    "ilearn_prof_rate": 0.03,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 756,
+    "ilearn_prof_rate": 0.116,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 624,
+    "ilearn_prof_rate": 0.345,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 6,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 52,
+    "ilearn_prof_rate": 0.654,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "WIDA_BAND": "<4.0",
+    "N": 4566,
+    "ilearn_prof_rate": 0.014,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 761,
+    "ilearn_prof_rate": 0.134,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 747,
+    "ilearn_prof_rate": 0.27,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 7,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 113,
+    "ilearn_prof_rate": 0.646,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "WIDA_BAND": "<4.0",
+    "N": 4348,
+    "ilearn_prof_rate": 0.019,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 777,
+    "ilearn_prof_rate": 0.138,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 850,
+    "ilearn_prof_rate": 0.328,
+    "suppress": false
+  },
+  {
+    "YEAR": 2023,
+    "GRADE": 8,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 126,
+    "ilearn_prof_rate": 0.683,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_BAND": "<4.0",
+    "N": 6291,
+    "ilearn_prof_rate": 0.037,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 1006,
+    "ilearn_prof_rate": 0.271,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 1337,
+    "ilearn_prof_rate": 0.527,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 3,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 440,
+    "ilearn_prof_rate": 0.843,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_BAND": "<4.0",
+    "N": 4200,
+    "ilearn_prof_rate": 0.008,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 1003,
+    "ilearn_prof_rate": 0.067,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 2390,
+    "ilearn_prof_rate": 0.236,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 4,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 1618,
+    "ilearn_prof_rate": 0.654,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_BAND": "<4.0",
+    "N": 3475,
+    "ilearn_prof_rate": 0.004,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 857,
+    "ilearn_prof_rate": 0.033,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 2096,
+    "ilearn_prof_rate": 0.132,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 5,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 1272,
+    "ilearn_prof_rate": 0.405,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "WIDA_BAND": "<4.0",
+    "N": 5277,
+    "ilearn_prof_rate": 0.025,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 795,
+    "ilearn_prof_rate": 0.171,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 762,
+    "ilearn_prof_rate": 0.357,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 6,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 87,
+    "ilearn_prof_rate": 0.713,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "WIDA_BAND": "<4.0",
+    "N": 4929,
+    "ilearn_prof_rate": 0.019,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 827,
+    "ilearn_prof_rate": 0.133,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 901,
+    "ilearn_prof_rate": 0.299,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 7,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 150,
+    "ilearn_prof_rate": 0.773,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "WIDA_BAND": "<4.0",
+    "N": 4686,
+    "ilearn_prof_rate": 0.02,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 829,
+    "ilearn_prof_rate": 0.145,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 1091,
+    "ilearn_prof_rate": 0.296,
+    "suppress": false
+  },
+  {
+    "YEAR": 2024,
+    "GRADE": 8,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 232,
+    "ilearn_prof_rate": 0.672,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_BAND": "<4.0",
+    "N": 6598,
+    "ilearn_prof_rate": 0.041,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 1102,
+    "ilearn_prof_rate": 0.274,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 1636,
+    "ilearn_prof_rate": 0.509,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 3,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 485,
+    "ilearn_prof_rate": 0.827,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_BAND": "<4.0",
+    "N": 4078,
+    "ilearn_prof_rate": 0.008,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 1044,
+    "ilearn_prof_rate": 0.063,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 2414,
+    "ilearn_prof_rate": 0.185,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 4,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 1651,
+    "ilearn_prof_rate": 0.549,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_BAND": "<4.0",
+    "N": 3699,
+    "ilearn_prof_rate": 0.005,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 872,
+    "ilearn_prof_rate": 0.044,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 2135,
+    "ilearn_prof_rate": 0.124,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 5,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 1376,
+    "ilearn_prof_rate": 0.359,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "WIDA_BAND": "<4.0",
+    "N": 5245,
+    "ilearn_prof_rate": 0.016,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 814,
+    "ilearn_prof_rate": 0.131,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 762,
+    "ilearn_prof_rate": 0.339,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 6,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 98,
+    "ilearn_prof_rate": 0.714,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "WIDA_BAND": "<4.0",
+    "N": 5330,
+    "ilearn_prof_rate": 0.01,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 861,
+    "ilearn_prof_rate": 0.086,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 1025,
+    "ilearn_prof_rate": 0.213,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 7,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 203,
+    "ilearn_prof_rate": 0.616,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "WIDA_BAND": "<4.0",
+    "N": 4730,
+    "ilearn_prof_rate": 0.018,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 889,
+    "ilearn_prof_rate": 0.115,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 1248,
+    "ilearn_prof_rate": 0.275,
+    "suppress": false
+  },
+  {
+    "YEAR": 2025,
+    "GRADE": 8,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 297,
+    "ilearn_prof_rate": 0.599,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_BAND": "<4.0",
+    "N": 6477,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 1210,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 1816,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 3,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 585,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_BAND": "<4.0",
+    "N": 2799,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 1091,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 2698,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 4,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 1927,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_BAND": "<4.0",
+    "N": 2950,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 992,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 2133,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 5,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 1346,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "WIDA_BAND": "<4.0",
+    "N": 4847,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 875,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 844,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 6,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 94,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_BAND": "<4.0",
+    "N": 4683,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 906,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 1105,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 7,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 156,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_BAND": "<4.0",
+    "N": 4533,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_BAND": "4.0-4.2",
+    "N": 943,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_BAND": "4.3-4.9 (provisional)",
+    "N": 1364,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  },
+  {
+    "YEAR": 2026,
+    "GRADE": 8,
+    "WIDA_BAND": ">=5.0 (auto-exit)",
+    "N": 275,
+    "ilearn_prof_rate": 0,
+    "suppress": false
+  }
+]
