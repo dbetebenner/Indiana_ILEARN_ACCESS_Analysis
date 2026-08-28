@@ -100,6 +100,23 @@ sgp_band <- function(role, band) {
 }
 ```
 
+## AI Contribution & Authorship Statement
+
+This presentation and the pipeline behind it represent the intellectual work of the author with substantive and continuous assistance from AI-based systems (xAI Grok, Anthropic Claude), used natively across the analysis, visualization, and exposition.
+
+::: {.key-insight}
+**The use of AI here is not incidental or peripheral --- it is essential, embedded, and reflective of a methodological shift toward AI-native scholarship. This statement is offered in the spirit of methodological clarity and epistemic honesty.**
+:::
+
+- **Analytic framing:** The signal-versus-noise reading of ILEARN × WIDA ACCESS, and the copula-asymmetry lens that expresses it, were developed in human--AI collaboration.
+
+- **Mathematical formalization:** AI supported the dependence formalism --- Kendall's τ, the empirical copula and its radial-asymmetry surface $D(u,v) = C_n - \hat{C}_n$, the upper/lower tail-dependence coefficients $\lambda_U, \lambda_L$, Youden's $J$, and the copula inversion behind the 50-50 next-year-proficiency cut.
+
+- **Computational modules:** AI contributed to the R pipeline --- rank and copula estimation, threshold scans, the inferred-exiter cohort, and the `ggplot2` figures --- and to this reproducible reveal.js deck.
+
+- **Authorship & responsibility:** The author retains full responsibility for all claims (ICMJE/AERA norms). AI is not listed as author, but its instrumental role is explicitly acknowledged. Findings describe testing patterns and empirical transitions --- not an official IDOE roster or a legal exit rule.
+
+
 ## Roadmap {.center}
 
 ::: {.visually-hidden}
