@@ -150,6 +150,11 @@ WIDA ACCESS measures English language proficiency. ILEARN ELA measures grade-lev
 
 ## Indiana's exit anchors
 
+::: {.lead}
+Two numbers define the current policy — everything that follows asks whether the data agree with them.
+:::
+
+
 Source: IDOE, *Exit Criteria for English Learners Guidance 2025–2026* (April 2025).
 
 | Anchor | Meaning |
@@ -186,6 +191,11 @@ Section: same-year dependence
 
 ## The two tests are not independent
 
+::: {.lead}
+Before asking *where* a signal appears, the prior question is whether the two tests move together at all — which is what Kendall's τ measures (0 = independence, 1 = identical rank order).
+:::
+
+
 Primary-window Kendall’s τ is **`r fmt_num(tau$kendall_min, 2)`–`r fmt_num(tau$kendall_max, 2)`** (median **`r fmt_num(tau$kendall_median, 2)`**).
 
 The signal-versus-noise claim is therefore **local**, not global. Overall rank dependence is already strong. What changes with WIDA level is **where** EL students sit on ILEARN — not whether the two ranks suddenly start moving together.
@@ -198,7 +208,12 @@ emit_html(fig_html("02_n_heatmap",
 ```
 
 
-## 2025: location, not a τ jump
+## The signal is location, not correlation
+
+::: {.lead}
+The core test of the hypothesis: as WIDA rises, does ILEARN rise by shifting the whole distribution upward, or merely by correlating more tightly *within* each band?
+:::
+
 
 | WIDA level | N | Within-level τ | Median ILEARN percentile | P(ILEARN proficient) |
 |---|---:|---:|---:|---:|
@@ -248,7 +263,12 @@ J optimizes agreement with **ILEARN proficiency** — a content outcome, not an 
 :::
 
 
-## Youden against ILEARN proficiency is not 5.0
+## The best statistical cut lands near 4.3, not 5.0
+
+::: {.lead}
+If we let the data choose the WIDA cut that best separates ILEARN-proficient students from the rest, where does it land relative to the 4.3 and 5.0 anchors?
+:::
+
 
 Primary-window Youden-optimal WIDA cuts (same-year proficiency) have median **`r if (nrow(you[YEAR_STRATUM=="primary"])) fmt_num(you[YEAR_STRATUM=="primary", best_cut_median], 2) else "—"`**.
 
@@ -265,7 +285,12 @@ if (nrow(gcons)) {
 Grades 4–5 sit near the start of the **4.3** band; 3 and 6–8 sit a little below it. None of the Youden optima are at **5.0**. That is not an argument that 5.0 is the wrong legal exit — ILEARN proficiency is a high bar, and even students first reaching 5.0 are only about **`r if (nrow(fx[cut==5])) fmt_prob(fx[cut==5, p_proficient_at]) else "0.40"`** ILEARN-proficient that year.
 
 
-## First crossing — still taking ACCESS
+## Most of the climb happens before auto-exit
+
+::: {.lead}
+Following students the first year they reach a cut *while still tested*: how high are they already sitting on ILEARN by 4.3 versus 5.0?
+:::
+
 
 Students first reaching a cut **while they still have a WIDA score**:
 
@@ -300,6 +325,11 @@ Measured directly, the copula is **exchangeable** (swapping the two tests barely
 
 ## A picture of the asymmetry
 
+::: {.lead}
+If the dependence were radially symmetric this map would be flat grey — here is what it actually is.
+:::
+
+
 ```{r}
 #| output: asis
 emit_html(fig_html("09_copula_asymmetry_surface",
@@ -311,6 +341,11 @@ The both-high **signal corner** and the both-low **noise corner** are not mirror
 
 
 ## The signal corner couples more than the noise corner
+
+::: {.lead}
+Another view of the same fact: how tightly the two tests co-move among the lowest scorers versus the highest.
+:::
+
 
 ```{r}
 #| output: asis
@@ -330,6 +365,11 @@ Section: inferred exiters
 
 
 ## Testing-pattern exit
+
+::: {.lead}
+With no official exit roster in these files, we infer exit from the one pattern both datasets share — who stops taking ACCESS.
+:::
+
 
 Exit is the complementary event: ILEARN + WIDA at *t*, ILEARN only at *t+1*.
 
@@ -352,6 +392,11 @@ These LONGs do not carry IDOE’s exit list. `<4.3` disappearances are documente
 
 ## Who actually leaves ACCESS
 
+::: {.lead}
+Turning to the event an exit rule actually governs: from which WIDA band do students leave ACCESS, and how has that shifted over five years?
+:::
+
+
 ```{r}
 #| output: asis
 emit_html(fig_html("07_exiter_n_heatmap",
@@ -361,6 +406,11 @@ emit_html(fig_html("07_exiter_n_heatmap",
 
 
 ## The classification flag agrees only at 5.0
+
+::: {.lead}
+A testing-pattern “exit” only means something if it matches an official reclassification — does the EL-status flag agree these students left?
+:::
+
 
 Share of inferred exiters whose ILEARN `EL_STATUS` moves LEP → Not an English Language Learner:
 
@@ -380,6 +430,11 @@ if (nrow(ex_el)) {
 
 
 ## No post-exit collapse
+
+::: {.lead}
+The central fear about exiting a student is academic collapse once services stop — do ACCESS leavers fall on ILEARN the next year?
+:::
+
 
 ```{r}
 #| output: asis
@@ -405,6 +460,11 @@ if (nrow(ex_ach[role == "exiter"])) {
 
 
 ## Exit-year growth sits at or above 50
+
+::: {.lead}
+Beyond where exiters *stand*, how do they *grow* in their first year without ACCESS, relative to typical students?
+:::
+
 
 ILEARN SGP at *t+1* is growth during the first year without ACCESS.
 
@@ -469,6 +529,11 @@ We still run the recipe. It is part of the conversation. It is filed as a **cont
 
 ## What the copula actually returns
 
+::: {.lead}
+Running the 50-50 recipe honestly: the modeled probability of next-year ILEARN proficiency as a function of this year's WIDA score.
+:::
+
+
 ```{r}
 #| output: asis
 emit_html(fig_html("08_lagged_p_prof_primary",
@@ -478,6 +543,11 @@ emit_html(fig_html("08_lagged_p_prof_primary",
 
 
 ## Where the 50-50 cut sits
+
+::: {.lead}
+Reading the cut off that curve and setting it against the policy anchors — and against the fact that not even all never-EL students clear this bar.
+:::
+
 
 ```{r}
 #| results: asis
@@ -554,3 +624,94 @@ The pipeline writes aggregates only. Student-level pairs stay in gitignored `cac
 ::: {.notes}
 Pages source: Deploy from a branch → /docs. embed-resources is on, so the HTML is self-contained.
 :::
+
+
+# Where this could go next {.center}
+
+::: {.visually-hidden}
+Section: future investigations
+:::
+
+
+## Open the black box: WIDA's four domains
+
+::: {.lead}
+Everything here used the **Overall** composite — but WIDA scores four modalities, and English *content* access is largely a literacy story.
+:::
+
+The same rank / copula / threshold machinery, run on **Listening, Speaking, Reading, and Writing** separately (pulling the domain subscores from the ACCESS source files), would ask *which* skill the ILEARN signal is actually attached to.
+
+- Hypothesis: **Reading** and **Writing** carry most of the ILEARN-ELA dependence; **Listening** and **Speaking** far less.
+- A **vine copula** on the four domains plus ILEARN would isolate the content signal *conditionally* — the dependence that survives after the other domains are held fixed.
+
+::: {.key-insight}
+**Would reveal:** whether a defensible exit rule should weight the literacy domains above the oral ones, rather than collapsing all four into a single Overall number.
+:::
+
+
+## Is the low-WIDA "noise" real — or measurement error?
+
+::: {.lead}
+At Levels 1–2 the two ranks barely move together; the open question is whether that is genuine independence or just unreliability where both tests sit near their floors.
+:::
+
+- **Disattenuate** the τ and the copula using each test's conditional standard errors of measurement (CSEMs), where the source files carry them — noise from unreliability is not the same as noise from access.
+- Model the ILEARN floor explicitly with a **censored / two-part (Tobit-style)** specification, separating "cannot yet access the test" from "low measured ability."
+
+::: {.key-insight}
+**Would reveal:** how much of the L1–L2 "noise" is a substantive claim about English access versus an artifact of thin measurement information at the floor — which sets how much weight that region can bear.
+:::
+
+
+## Direction and dynamics
+
+::: {.lead}
+The cross-sectional picture cannot say whether language *gain* precedes content *gain* — but the multi-year panel can.
+:::
+
+- A **random-intercept cross-lagged panel model** (RI-CLPM) on WIDA$_t \rightarrow$ ILEARN$_{t+1}$ versus ILEARN$_t \rightarrow$ WIDA$_{t+1}$ tests the directional ordering of the access relationship.
+- Add **time in program** (years since a student's first ACCESS administration, recoverable from the panel) as a moderator: does the WIDA→ILEARN coupling strengthen with exposure?
+
+::: {.key-insight}
+**Would reveal:** whether rising English proficiency plausibly *drives* content access — the theory of action an exit rule assumes — or merely co-occurs with it.
+:::
+
+
+## Beyond the median, beyond one cut
+
+::: {.lead}
+We summarized each WIDA level by its median and chose a single optimal cut; both hide heterogeneity that matters for who a rule serves.
+:::
+
+- **Quantile / distributional regression** of ILEARN on WIDA PL models the *whole* conditional distribution — where the lower tail crosses proficiency, not just the center.
+- **Finite-mixture / latent-class copulas** ask whether newcomers, long-term ELs, and students with interrupted schooling follow *different* WIDA→ILEARN maps that a single cut averages away.
+- A **Bayesian or bootstrapped interval** on the τ(u) change-point would give the transition "region" an honest width.
+
+::: {.key-insight}
+**Would reveal:** which students a single Overall cut serves well, and which it systematically mis-sorts.
+:::
+
+
+## From a threshold to a decision rule
+
+::: {.lead}
+A statistically optimal cut is not yet a policy; two extensions turn description into a defensible decision.
+:::
+
+- **Cost-weighted Youden:** recompute the optimal cut as a function of the false-exit / false-hold cost ratio, making the value judgment explicit instead of fixing it implicitly at equal weights.
+- **Multistate / survival modeling** of exit → reclassification → long-term-EL risk: what happens *years* after a student leaves, not only at $t{+}1$.
+- **Subgroup invariance:** does the WIDA→ILEARN relationship hold across home language, grade of entry, and disability status, or does one cut carry hidden differential impact?
+
+::: {.key-insight}
+**Would reveal:** a cut chosen with stated priorities, audited for long-run consequences and equity — the form an actual recommendation would have to take.
+:::
+
+
+## The through-line
+
+::: {.lead}
+Each next step sharpens the same question this deck opened with: where does a language test stop measuring language and start gating content?
+:::
+
+The domain decomposition asks *which* language skill gates access; the measurement-error and distributional work ask *how sharply* and *for whom*; the panel and decision-analytic work ask *in what direction* and *at what cost*. None of them replaces the ILP committee — they give it a better-instrumented map of the band where the content test becomes a content test.
+
