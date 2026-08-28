@@ -230,6 +230,7 @@ emit_html(fig_html("03_tau_heatmap",
 The core test of the hypothesis: as WIDA rises, does ILEARN rise by shifting the whole distribution upward, or merely by correlating more tightly *within* each band?
 :::
 
+::: {.smaller}
 | WIDA level | N | Within-level τ | Median ILEARN percentile | P(ILEARN proficient) |
 |---|---:|---:|---:|---:|
 | 1 | `r fmt_count(L1$n)` | `r fmt_tau(L1$tau)` | `r fmt_num(L1$pctile, 0)` | `r fmt_prob(L1$p)` |
@@ -250,6 +251,7 @@ emit_html(fig_html("04_ilearn_by_level_2025",
 ```
 ::::
 :::::
+:::
 
 
 ## Reading a WIDA cut as a classifier
