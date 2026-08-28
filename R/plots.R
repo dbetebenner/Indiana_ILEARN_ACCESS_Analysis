@@ -294,3 +294,30 @@ plot_lagged_fifty_fifty <- function(cut_dt) {
         theme_signal() +
         theme(legend.position = "bottom")
 }
+
+#' Heatmap of rank dependence (Kendall's tau) by year x grade, N in-cell
+#'
+#' Fills by Kendall's tau (the message of the slide) and prints the pair
+#' count under each tau, so one figure carries both dependence and support.
+plot_tau_heatmap <- function(dep_dt) {
+    d <- copy(dep_dt[YEAR_STRATUM == "primary" & is.finite(kendall)])
+    d[, GRADE := factor(GRADE)]
+    d[, YEAR := factor(YEAR)]
+    d[, .lab := heatmap_label_color(kendall, low = "#EAF2FB", high = "#1F4E82")]
+    ggplot(d, aes(x = GRADE, y = YEAR, fill = kendall)) +
+        geom_tile(color = "white") +
+        geom_text(aes(label = sprintf("%.2f", kendall), color = .lab),
+            size = 4.3, fontface = "bold", nudge_y = 0.10) +
+        geom_text(aes(label = sprintf("(%s)", scales::comma(n)), color = .lab),
+            size = 2.7, nudge_y = -0.16) +
+        scale_color_identity() +
+        scale_fill_gradient(low = "#EAF2FB", high = "#1F4E82",
+            limits = c(0.45, 0.65), breaks = c(0.50, 0.55, 0.60)) +
+        labs(
+            title = "Rank dependence is strong in every cell",
+            subtitle = "Kendall's tau, ILEARN ELA x WIDA ACCESS Overall (N pairs in parentheses)",
+            x = "Grade", y = "Year", fill = "Kendall's tau",
+            caption = "Primary window 2021-2025. tau = 0 is independence, 1 is identical rank order."
+        ) +
+        theme_signal()
+}

@@ -29,6 +29,10 @@ $presentation-heading-font-weight: 600;
 
 /*-- scss:rules --*/
 
+// Two-column (text + figure) rows: center the shorter side against the taller.
+.reveal .columns { align-items: center; }
+.reveal .column { min-width: 0; }
+
 // Orienting lead: one sentence under a slide title framing what is being
 // examined and why it matters, before any result.
 .reveal .lead {

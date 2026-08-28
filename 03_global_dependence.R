@@ -25,6 +25,9 @@ corr_rows <- pairs[, {
 corr_rows[, suppress := n < MIN_N_LEVEL_SLICE]
 write_output(round_numeric(corr_rows, 4), "dep_rank_correlations.csv")
 
+## Heatmap of Kendall's tau by year x grade (primary window), N in-cell.
+save_figure(plot_tau_heatmap(corr_rows), "03_tau_heatmap", width = 8.4, height = 5.2)
+
 ### --- Copula fits by year x grade ------------------------------------------
 cells <- unique(pairs[, .(YEAR, GRADE)])
 fit_list <- vector("list", nrow(cells))

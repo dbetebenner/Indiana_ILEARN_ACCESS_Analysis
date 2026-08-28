@@ -171,6 +171,8 @@ A fitted change-point describes where the content test starts to move with ACCES
 
 Same-year, same-grade join: ILEARN `STUDENT_ID` = WIDA `ID`. Grades 3–8. Placeholder floors dropped (`ILEARN < 5000`, `WIDA == 100`).
 
+::::: {.columns}
+:::: {.column width="52%"}
 | Window | Years | Role |
 |---|---|---|
 | **Primary** | 2021–2025 | Stable ILEARN scale. The estimand. |
@@ -178,8 +180,18 @@ Same-year, same-grade join: ILEARN `STUDENT_ID` = WIDA `ID`. Grades 3–8. Place
 | Contrast | 2017–2019 | ISTEP / first ILEARN year. Not pooled. |
 
 ::: {.key-insight}
-2026 ILEARN `SCALE_SCORE` in the combined LONG is the equated **old** scale. Native 2026 medians are a different test. Ranks agree; the proficiency classifier does not.
+2026 ILEARN `SCALE_SCORE` in the combined LONG is the equated **old** scale. Ranks agree; the proficiency classifier does not.
 :::
+::::
+:::: {.column width="48%"}
+```{r}
+#| output: asis
+emit_html(fig_html("02_n_heatmap",
+  "Paired N by year × grade. WIDA coverage in grades 3–8 is near-complete.",
+  max_height = "520px"))
+```
+::::
+:::::
 
 
 # Same-year signal {.center}
@@ -195,17 +207,21 @@ Section: same-year dependence
 Before asking *where* a signal appears, the prior question is whether the two tests move together at all — which is what Kendall's τ measures (0 = independence, 1 = identical rank order).
 :::
 
+::::: {.columns}
+:::: {.column width="44%"}
+Primary-window Kendall's τ is **`r fmt_num(tau$kendall_min, 2)`–`r fmt_num(tau$kendall_max, 2)`** (median **`r fmt_num(tau$kendall_median, 2)`**) — strong in every grade and year.
 
-Primary-window Kendall’s τ is **`r fmt_num(tau$kendall_min, 2)`–`r fmt_num(tau$kendall_max, 2)`** (median **`r fmt_num(tau$kendall_median, 2)`**).
-
-The signal-versus-noise claim is therefore **local**, not global. Overall rank dependence is already strong. What changes with WIDA level is **where** EL students sit on ILEARN — not whether the two ranks suddenly start moving together.
-
+The signal-versus-noise claim is therefore **local**, not global. What changes with WIDA level is **where** EL students sit on ILEARN, not whether the two ranks suddenly start moving together.
+::::
+:::: {.column width="56%"}
 ```{r}
 #| output: asis
-emit_html(fig_html("02_n_heatmap",
-  "Paired N by year × grade. Click to enlarge.",
-  max_height = "520px"))
+emit_html(fig_html("03_tau_heatmap",
+  "Kendall's τ by grade and year; N pairs in parentheses. Click to enlarge.",
+  max_height = "600px"))
 ```
+::::
+:::::
 
 
 ## The signal is location, not correlation
@@ -214,7 +230,6 @@ emit_html(fig_html("02_n_heatmap",
 The core test of the hypothesis: as WIDA rises, does ILEARN rise by shifting the whole distribution upward, or merely by correlating more tightly *within* each band?
 :::
 
-
 | WIDA level | N | Within-level τ | Median ILEARN percentile | P(ILEARN proficient) |
 |---|---:|---:|---:|---:|
 | 1 | `r fmt_count(L1$n)` | `r fmt_tau(L1$tau)` | `r fmt_num(L1$pctile, 0)` | `r fmt_prob(L1$p)` |
@@ -222,31 +237,41 @@ The core test of the hypothesis: as WIDA rises, does ILEARN rise by shifting the
 | 4.3 (provisional) | `r fmt_count(L43$n)` | `r fmt_tau(L43$tau)` | `r fmt_num(L43$pctile, 0)` | `r fmt_prob(L43$p)` |
 | 5 (auto-exit) | `r fmt_count(L5$n)` | `r fmt_tau(L5$tau)` | `r fmt_num(L5$pctile, 0)` | `r fmt_prob(L5$p)` |
 
-L1–L2: ILEARN is on the floor. From L3 the distribution walks up the grade. By L4.3 paired EL students sit high in the grade; by L5 they sit at the top. Within-band τ stays modest the whole way (restriction of range).
-
+::::: {.columns}
+:::: {.column width="46%"}
+**Location moves; correlation does not.** From L3 the ILEARN distribution walks up the grade — median percentile climbs from the high teens at L1 to the low 90s at L5 — while the **within-band τ stays modest** the whole way (restriction of range). The signal is *where* students sit, not a tightening rank correlation.
+::::
+:::: {.column width="54%"}
 ```{r}
 #| output: asis
 emit_html(fig_html("04_ilearn_by_level_2025",
   "ILEARN ELA location by WIDA ACCESS Overall level, 2025.",
-  max_height = "380px"))
+  max_height = "540px"))
 ```
+::::
+:::::
 
 
 ## Reading a WIDA cut as a classifier
 
-Any candidate cut turns WIDA ACCESS into a yes/no test: **WIDA ≥ cut** predicts “ILEARN-proficient.” Two rates follow:
+Any candidate cut turns WIDA ACCESS into a yes/no test: **WIDA ≥ cut** predicts "ILEARN-proficient."
 
+::::: {.columns}
+:::: {.column width="44%"}
 - **Sensitivity** — of the ILEARN-proficient students, the share the cut catches (true-positive rate).
 - **Specificity** — of the not-proficient students, the share correctly left below (true-negative rate).
 
-**Youden’s J = sensitivity + specificity − 1.** J runs from 0 (a coin flip) to 1 (perfect separation); on an ROC curve it is the vertical distance from the operating point up to the chance diagonal. The **J-optimal cut** is the single threshold that best separates the two groups.
-
+**Youden's J = sensitivity + specificity − 1.** J runs from 0 (a coin flip) to 1 (perfect separation); on an ROC curve it is the vertical height above the chance diagonal. The **J-optimal cut** best separates the two groups.
+::::
+:::: {.column width="56%"}
 ```{r}
 #| output: asis
 emit_html(fig_html("05b_youden_explainer",
   "Youden's J: the cut that maximizes sensitivity + specificity − 1.",
-  max_height = "450px"))
+  max_height = "560px"))
 ```
+::::
+:::::
 
 
 ## Youden and the exit cut
@@ -329,15 +354,21 @@ Measured directly, the copula is **exchangeable** (swapping the two tests barely
 If the dependence were radially symmetric this map would be flat grey — here is what it actually is.
 :::
 
+::::: {.columns}
+:::: {.column width="42%"}
+The both-high **signal corner** and the both-low **noise corner** are **not mirror images** — the surface is far from flat, and the coupling is pulled toward high WIDA.
 
+Blue marks where high-scorer pairs cluster more tightly than low-scorer pairs — structure the symmetric t / Frank / Gaussian families cannot represent.
+::::
+:::: {.column width="58%"}
 ```{r}
 #| output: asis
 emit_html(fig_html("09_copula_asymmetry_surface",
-  "D(u,v) = empirical copula minus its reflection, primary window. Flat grey would mean radial symmetry.",
-  max_height = "560px"))
+  "D(u,v) = empirical copula minus its reflection, primary window.",
+  max_height = "640px"))
 ```
-
-The both-high **signal corner** and the both-low **noise corner** are not mirror images — the surface is far from flat, and the coupling is pulled toward high WIDA.
+::::
+:::::
 
 
 ## The signal corner couples more than the noise corner
@@ -346,15 +377,21 @@ The both-high **signal corner** and the both-low **noise corner** are not mirror
 Another view of the same fact: how tightly the two tests co-move among the lowest scorers versus the highest.
 :::
 
+::::: {.columns}
+:::: {.column width="44%"}
+Deep in the tail, upper-tail concordance $\lambda_U$ runs well above lower-tail $\lambda_L$: **both-high pairs co-occur more than both-low pairs.** The gap $\lambda_U-\lambda_L$ grows from **`r asy_tail(2021)` (2021)** to **`r asy_tail(2025, "0.22")` (2025)** — stable in sign, strengthening in size, and invisible to any t / Frank / Gaussian fit.
 
+A second, independent signature of the same access story.
+::::
+:::: {.column width="56%"}
 ```{r}
 #| output: asis
 emit_html(fig_html("09_copula_asymmetry_tails",
-  "Upper- vs lower-tail dependence functions, primary window. The shaded gap is the radial asymmetry.",
-  max_height = "430px"))
+  "Upper- vs lower-tail dependence functions, primary window. The shaded gap is the asymmetry.",
+  max_height = "520px"))
 ```
-
-Deep in the tail, upper-tail concordance $\lambda_U$ runs well above lower-tail $\lambda_L$: both-high pairs co-occur more than both-low pairs. The gap $\lambda_U-\lambda_L$ grows from **`r asy_tail(2021)` (2021)** to **`r asy_tail(2025, "0.22")` (2025)** — stable in sign, strengthening in size, and invisible to any t / Frank / Gaussian fit. A second, independent signature of the same access story.
+::::
+:::::
 
 
 # After ACCESS stops {.center}
@@ -396,13 +433,21 @@ These LONGs do not carry IDOE’s exit list. `<4.3` disappearances are documente
 Turning to the event an exit rule actually governs: from which WIDA band do students leave ACCESS, and how has that shifted over five years?
 :::
 
-
+::::: {.columns}
+:::: {.column width="40%"}
+- Almost every inferred exit comes from **≥5.0** — auto-exit is doing the work.
+- The **4.3–4.9** committee band barely fills in until **2024**, then jumps.
+- **<4.3** disappearances stay in the low hundreds every year — mobility or a missed test, not a policy pathway.
+::::
+:::: {.column width="60%"}
 ```{r}
 #| output: asis
 emit_html(fig_html("07_exiter_n_heatmap",
-  "Inferred exiters by year × last WIDA ACCESS Overall band. Almost all leave from ≥5.0 until 2024.",
+  "Inferred exiters by year × last WIDA ACCESS Overall band.",
   max_height = "560px"))
 ```
+::::
+:::::
 
 
 ## The classification flag agrees only at 5.0
@@ -435,13 +480,19 @@ if (nrow(ex_el)) {
 The central fear about exiting a student is academic collapse once services stop — do ACCESS leavers fall on ILEARN the next year?
 :::
 
-
+::::: {.columns}
+:::: {.column width="42%"}
+No. **≥5.0** leavers sit ~9–10 percentile points **above** the never-EL median and hold or rise. **4.3–4.9** leavers sit near never-EL and dip about 2 points. **<4.3** disappearances stay on the ILEARN floor — like the students who never left.
+::::
+:::: {.column width="58%"}
 ```{r}
 #| output: asis
 emit_html(fig_html("07_exiter_percentile",
-  "ILEARN ELA percentile at t (still tested) vs t+1 (ILEARN only). Primary window.",
-  max_height = "420px"))
+  "ILEARN ELA percentile at t (still tested) vs t+1 (ILEARN only).",
+  max_height = "440px"))
 ```
+::::
+:::::
 
 ```{r}
 #| results: asis
@@ -465,15 +516,19 @@ if (nrow(ex_ach[role == "exiter"])) {
 Beyond where exiters *stand*, how do they *grow* in their first year without ACCESS, relative to typical students?
 :::
 
-
-ILEARN SGP at *t+1* is growth during the first year without ACCESS.
-
+::::: {.columns}
+:::: {.column width="42%"}
+ILEARN SGP at *t+1* is growth in the first year without ACCESS. **≥5.0** leavers post a median **58** — a right shift, not a left one. **4.3–4.9** leavers post ~**50**. Only **<4.3** disappearances are left-shifted (median **41**), which is what an unexpected drop among still-low students looks like.
+::::
+:::: {.column width="58%"}
 ```{r}
 #| output: asis
 emit_html(fig_html("07_exiter_sgp",
-  "Median ILEARN SGP in the exit year. Faceted by last WIDA band. Stayers = still served.",
-  max_height = "400px"))
+  "Median ILEARN SGP in the exit year. Faceted by last WIDA band.",
+  max_height = "440px"))
 ```
+::::
+:::::
 
 ```{r}
 #| results: asis
@@ -533,13 +588,19 @@ We still run the recipe. It is part of the conversation. It is filed as a **cont
 Running the 50-50 recipe honestly: the modeled probability of next-year ILEARN proficiency as a function of this year's WIDA score.
 :::
 
-
+::::: {.columns}
+:::: {.column width="42%"}
+The copula conditional (solid) and the local empirical rate (points) both rise with WIDA and cross the **0.50** line only near the top of the scale. The dotted line is the never-EL rate — the bar even fluent English speakers do not all clear.
+::::
+:::: {.column width="58%"}
 ```{r}
 #| output: asis
 emit_html(fig_html("08_lagged_p_prof_primary",
-  "P(ILEARN proficient at t+1 | WIDA Overall at t). Solid = copula; points = local empirical window. Horizontal = 0.50; dotted = never-EL P(proficient).",
-  max_height = "520px"))
+  "P(ILEARN proficient at t+1 | WIDA Overall at t). Solid = copula; points = local empirical; 0.50 line; dotted = never-EL.",
+  max_height = "540px"))
 ```
+::::
+:::::
 
 
 ## Where the 50-50 cut sits
@@ -548,7 +609,8 @@ emit_html(fig_html("08_lagged_p_prof_primary",
 Reading the cut off that curve and setting it against the policy anchors — and against the fact that not even all never-EL students clear this bar.
 :::
 
-
+::::: {.columns}
+:::: {.column width="52%"}
 ```{r}
 #| results: asis
 if (nrow(lag_p)) {
@@ -574,13 +636,16 @@ if (nrow(lag_p)) {
   ), format = "html", align = "lr", row.names = FALSE)
 }
 ```
-
+::::
+:::: {.column width="48%"}
 ```{r}
 #| output: asis
 emit_html(fig_html("08_lagged_fifty_fifty_by_grade",
-  "Fifty-fifty WIDA cut by ILEARN grade at t+1. Copula vs local empirical. Dashed = 4.3 and 5.0.",
-  max_height = "360px"))
+  "Fifty-fifty WIDA cut by ILEARN grade. Copula vs local empirical. Dashed = 4.3 and 5.0.",
+  max_height = "460px"))
 ```
+::::
+:::::
 
 ::: {.notes}
 If the cut lands near 5.0, the recipe is rediscovering auto-exit by asking ACCESS to predict a hard content outcome. If it lands near 4.3, it agrees with Youden / the location table — still not a reason to treat ILEARN proficiency as the exit construct.
@@ -610,16 +675,31 @@ On these files the threshold debate is about **who is allowed to leave**, not ab
 
 ## Reproducible artifacts
 
-The pipeline writes aggregates only. Student-level pairs stay in gitignored `cache/`.
+::: {.lead}
+Every number in this deck is regenerable from two read-only source files, and no student-level record ever leaves the pipeline.
+:::
 
+::::: {.columns}
+:::: {.column width="52%"}
+**One source, many channels.** The R pipeline (steps 00–09) is the single source of truth; the tables, JSON manifests, figures, and this deck are all *derived* from it and rebuilt by one command — so a corrected function or a new year of data propagates everywhere without hand-editing.
+
+**Containment / FERPA.** Source LONGs are read-only and never copied in. Student-level pairs stay in gitignored `cache/`. Committed outputs are aggregates only: `write_output()` refuses `ID` / `STUDENT_ID` columns, and any cell below N = 10 is dropped.
+::::
+:::: {.column width="48%"}
 | Layer | Where |
 |---|---|
+| Analysis | `00–09_*.R`, `R/`, `config.R` |
 | Tables | `outputs/*.csv` |
-| JSON manifests | `outputs/manifests/index.json`, `results.json`, `tables/*.json` |
+| JSON manifests | `outputs/manifests/*.json` |
 | Figures | `figures/*.png` (+ PDF) |
-| This deck | `docs/index.html` (GitHub Pages) |
+| This deck | `docs/index.html` |
 
-`Rscript run_all.R` rebuilds steps 00–08 and refreshes the manifests. `./docs/render.sh` re-renders this deck from `results.json`.
+```bash
+Rscript run_all.R    # rebuild 00–09 + manifests
+./docs/render.sh     # re-render this deck
+```
+::::
+:::::
 
 ::: {.notes}
 Pages source: Deploy from a branch → /docs. embed-resources is on, so the HTML is self-contained.
